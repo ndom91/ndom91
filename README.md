@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://imgur.com/46Xmagk.png" width="128" />
 
-<!--
-**ndom91/ndom91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nico Domino
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@ndom91-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ndom91)](https://twitter.com/ndom91) [![Linkedin Badge](https://img.shields.io/badge/-ndom91-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/tanejasaksham/) [![Gmail Badge](https://img.shields.io/badge/-yo@ndo.dev-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:yo@ndo.dev)](mailto:yo@ndo.dev)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋
+
+I'm Nico Domino, command-line warrior and open sourcerer. My day job consists of an eclectic mix of full stack web development, sys admin, and dev ops tasks. In short, I keep the wheels turning here at [Newtelco](https://newtelco.dev).
+
+### Currently Working On
+
+I am currently working on a redesign of our homepage (old - https://newtelco.com, new (preview) - https://newtelco.dev). Previously we ran a fairly typical Wordpress page with a few custom field types, custom theme, and a few plugins sprinkled in. This wasn't terrible, but it was beginning to show its age. Since I've got a good bit of experience in the jamstack world, I wanted to replace it with a headless cms based page. After narrowing down the surprisingly large field of headless cms providers, our new Gatsby / DatoCMS project was [born](https://github.com/newtelco/newtelco-dato)✨!
