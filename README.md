@@ -7,8 +7,8 @@
 
 ## Hi there 👋
 
-I'm Nico Domino, command-line warrior and open sourcerer. My day job consists of an eclectic mix of full stack web development, sys admin, and dev ops tasks. In short, I keep the wheels turning here at [Newtelco](https://newtelco.dev).
+I'm Nico Domino, command-line warrior and open sourcerer. My day job consists of an eclectic mix of full stack web development, sys admin, and dev ops responsibilities. In short, I keep the wheels turning here at [Newtelco](https://newtelco.dev).
 
 ### Currently Working On
 
-I am currently working on a redesign of our homepage (old - https://newtelco.com, new (preview) - https://newtelco.dev). Previously we ran a fairly typical Wordpress page with a few custom field types, custom theme, and a few plugins sprinkled in. This wasn't terrible, but it was beginning to show its age. Since I've got a good bit of experience in the jamstack world, I wanted to replace it with a headless cms based page. After narrowing down the surprisingly large field of headless cms providers, our new Gatsby / DatoCMS project was [born](https://github.com/newtelco/newtelco-dato)✨!
+I am currently working on a redesign of our homepage (_old - https://newtelco.com_, _new (preview) - https://newtelco.dev_). Previously we ran a fairly typical Wordpress page with a few custom field types, custom theme, and a few plugins sprinkled in. This wasn't terrible, but it was beginning to show its age. Since I've got a good bit of experience in the jamstack world, I wanted to replace it with a headless cms based page. After narrowing down the surprisingly large field of headless cms providers, our new Gatsby / DatoCMS project was [born](https://github.com/newtelco/newtelco-dato)✨!
