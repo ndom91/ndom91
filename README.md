@@ -11,6 +11,6 @@ I'm Nico Domino, command-line warrior and open sourcerer. My day job consists of
 
 ### Currently Working On...
 
-I am currently working on a redesign of our homepage (old - [newtelco.com](https://newtelco.com), new (staging) - [newtelco.dev](https://newtelco.dev)). Since I've got a good bit of experience in the [jamstack](https://www.netlify.com/jamstack/) world, I wanted to replace it with a headless CMS based site. After narrowing down the surprisingly large field of headless CMS providers, our new Gatsby + DatoCMS project was [born](https://github.com/newtelco/newtelco-dato)✨!
+I am currently working on a redesign of our homepage (old - [`newtelco.com`](https://newtelco.com), new (staging) - [`newtelco.dev`](https://newtelco.dev)). The original site was built on wordpress by a third-party freelancer. Since I've got a good bit of experience in the [jamstack](https://www.netlify.com/jamstack/) world, I wanted to bring that in-house and replace it with a headless CMS based site. After narrowing down the surprisingly large field of headless CMS providers, our new Gatsby + DatoCMS project was [born](https://github.com/newtelco/newtelco-dato)🎉!
 
-I also just started another project, a warehouse / inventory management type application. You can find the repo [here](https://github.com/ndom91/katalog)📦. I'm developing and releasing it as an open source project so all contributions are welcome and I hope others find it useful as well!
+I also started another project recently, a warehouse / inventory management type application called [Katalog](https://github.com/ndom91/katalog) 📦. I'm developing and releasing it as an open source project so all contributions are welcome and I hope others find it useful as well!
