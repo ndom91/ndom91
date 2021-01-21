@@ -10,7 +10,7 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 ### Currently Working On..
 
-I am currently working on a redesign of NewTelco's company homepage (original - [`newtelco.com`](https://newtelco.com), new (staging) - [`newtelco.dev`](https://newtelco.dev)). The original site was built on wordpress by a third-party freelancer. Since I've got a good bit of experience in the [jamstack](https://www.netlify.com/jamstack/) world, I wanted to bring that project in-house and replace it with a jamstack / headless CMS based site. After narrowing down the surprisingly large field of headless CMS providers, our new Gatsby + DatoCMS project was [born](https://github.com/newtelco/newtelco-dato) 🎉!
+In the evenings, I am currently working on a redesign of NewTelco's company homepage (original - [`newtelco.com`](https://newtelco.com), new (staging) - [`newtelco.dev`](https://newtelco.dev)). The original site was built on wordpress by a third-party freelancer. Since I've got a good bit of experience in the [jamstack](https://www.netlify.com/jamstack/) world, I wanted to bring that project in-house and replace it with a jamstack / headless CMS based site. After narrowing down the surprisingly large field of headless CMS providers, our new Gatsby + DatoCMS project was [born](https://github.com/newtelco/newtelco-dato) 🎉!
 
 Another side project I've recently begun working on is [hessisch-ipsum 🇩🇪](https://hessisch-ipsum.de) - A hessisch (German Dialect spoken in and around Frankfurt) Lorem Ipsum generator! If you've got any more hessisch source text I can use I'd be happy about any and all PR's 😄
 
