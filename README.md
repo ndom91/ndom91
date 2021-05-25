@@ -10,7 +10,7 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 ### Currently Working On..
 
-🦝 [Checkly](https://checklyhq.com) and various side projects that you can find listed below..
+🦝 [Checkly](https://checklyhq.com) during the day, 🔒 [NextAuth.js](https://github.com/nextauthjs/next-auth) at night. As well as various side projects that you can find listed below..
 
 ### Github Statistics
 
