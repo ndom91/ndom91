@@ -20,3 +20,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+### Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
