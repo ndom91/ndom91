@@ -12,6 +12,11 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 🦝 [Checkly](https://checklyhq.com) during the day, 🔒 [NextAuth.js](https://github.com/nextauthjs/next-auth) at night. As well as various side projects that you can find listed below..
 
-### Github Statistics
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
-![ndom91](https://github-readme-stats.vercel.app/api?username=ndom91&show_icons=true&theme=react&count_private=true&hide_border=true&hide_title=true&bg_color=0e1117)
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
