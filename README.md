@@ -24,9 +24,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-2. 🎉 Merged PR [#427](https://github.com/checkly/checklyhq.com/pull/427) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 🗣 Commented on [#1449](https://github.com/nuxt-community/i18n-module/issues/1449) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-4. 💪 Opened PR [#4618](https://github.com/nextauthjs/next-auth/pull/4618) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#427](https://github.com/checkly/checklyhq.com/pull/427) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🗣 Commented on [#67](https://github.com/ndom91/react-timezone-select/issues/67) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. ❗️ Closed issue [#1](https://github.com/ndom91/next-auth-example-sign-in-page/issues/1) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
+3. 🗣 Commented on [#1](https://github.com/ndom91/next-auth-example-sign-in-page/issues/1) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
+4. ❗️ Opened issue [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+5. 🎉 Merged PR [#427](https://github.com/checkly/checklyhq.com/pull/427) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
