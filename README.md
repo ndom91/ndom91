@@ -24,9 +24,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4666](https://github.com/nextauthjs/next-auth/issues/4666) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#434](https://github.com/checkly/checklyhq.com/pull/434) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 💪 Opened PR [#434](https://github.com/checkly/checklyhq.com/pull/434) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🗣 Commented on [#67](https://github.com/ndom91/react-timezone-select/issues/67) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. ❗️ Closed issue [#1](https://github.com/ndom91/next-auth-example-sign-in-page/issues/1) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
+1. 💪 Opened PR [#5](https://github.com/checkly/og-image/pull/5) in [checkly/og-image](https://github.com/checkly/og-image)
+2. ❌ Closed PR [#206](https://github.com/vercel/og-image/pull/206) in [vercel/og-image](https://github.com/vercel/og-image)
+3. 💪 Opened PR [#206](https://github.com/vercel/og-image/pull/206) in [vercel/og-image](https://github.com/vercel/og-image)
+4. 🗣 Commented on [#4666](https://github.com/nextauthjs/next-auth/issues/4666) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#434](https://github.com/checkly/checklyhq.com/pull/434) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
