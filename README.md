@@ -24,9 +24,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/ndom91/react-timezone-select/issues/68) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 💪 Opened PR [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-3. 🗣 Commented on [#351](https://github.com/toptal/haste-server/issues/351) in [toptal/haste-server](https://github.com/toptal/haste-server)
-4. 💪 Opened PR [#3038](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3038) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. 💪 Opened PR [#5](https://github.com/checkly/og-image/pull/5) in [checkly/og-image](https://github.com/checkly/og-image)
+1. 🗣 Commented on [#59](https://github.com/vueuse/motion/issues/59) in [vueuse/motion](https://github.com/vueuse/motion)
+2. 🗣 Commented on [#68](https://github.com/ndom91/react-timezone-select/issues/68) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 💪 Opened PR [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+4. 🗣 Commented on [#351](https://github.com/toptal/haste-server/issues/351) in [toptal/haste-server](https://github.com/toptal/haste-server)
+5. 💪 Opened PR [#3038](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3038) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!--END_SECTION:activity-->
