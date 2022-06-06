@@ -24,9 +24,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-2. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-3. 💪 Opened PR [#1283](https://github.com/kamranahmedse/developer-roadmap/pull/1283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-4. 🗣 Commented on [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-5. 🗣 Commented on [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+1. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
+2. 💪 Opened PR [#4678](https://github.com/nextauthjs/next-auth/pull/4678) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+4. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+5. 💪 Opened PR [#1283](https://github.com/kamranahmedse/developer-roadmap/pull/1283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 <!--END_SECTION:activity-->
