@@ -25,8 +25,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-2. 💪 Opened PR [#1283](https://github.com/kamranahmedse/developer-roadmap/pull/1283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 🗣 Commented on [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
+2. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+3. 💪 Opened PR [#1283](https://github.com/kamranahmedse/developer-roadmap/pull/1283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 4. 🗣 Commented on [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
-5. 🗣 Commented on [#59](https://github.com/vueuse/motion/issues/59) in [vueuse/motion](https://github.com/vueuse/motion)
+5. 🗣 Commented on [#1451](https://github.com/nuxt-community/i18n-module/issues/1451) in [nuxt-community/i18n-module](https://github.com/nuxt-community/i18n-module)
 <!--END_SECTION:activity-->
