@@ -1,6 +1,5 @@
-<img align="right" src="https://imgur.com/46Xmagk.png" width="128" />
+<img align="right" src="https://user-images.githubusercontent.com/7415984/172472491-91b16eac-fa22-4ecf-92df-d687139fd1f9.gif" width="240" />
 
-# Nico Domino
 
 [![Twitter Badge](https://img.shields.io/badge/-@ndom91-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ndom91)](https://twitter.com/ndom91) [![Linkedin Badge](https://img.shields.io/badge/-ndom91-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndom91/)](https://www.linkedin.com/in/ndom91/) [![Gmail Badge](https://img.shields.io/badge/-yo@ndo.dev-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:yo@ndo.dev)](mailto:yo@ndo.dev)
 
