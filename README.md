@@ -24,9 +24,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
-2. 💪 Opened PR [#4678](https://github.com/nextauthjs/next-auth/pull/4678) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+1. 🗣 Commented on [#5](https://github.com/checkly/og-image/issues/5) in [checkly/og-image](https://github.com/checkly/og-image)
+2. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
+3. 💪 Opened PR [#4678](https://github.com/nextauthjs/next-auth/pull/4678) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 4. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. 💪 Opened PR [#1283](https://github.com/kamranahmedse/developer-roadmap/pull/1283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 🗣 Commented on [#3039](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/3039) in [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!--END_SECTION:activity-->
