@@ -23,9 +23,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
-2. 💪 Opened PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
-3. 💪 Opened PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
-4. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
-5. 🎉 Merged PR [#5](https://github.com/checkly/og-image/pull/5) in [checkly/og-image](https://github.com/checkly/og-image)
+1. 💪 Opened PR [#24](https://github.com/ndom91/youtube-playlists/pull/24) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
+2. 🎉 Merged PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
+3. 💪 Opened PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
+4. 💪 Opened PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
+5. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
 <!--END_SECTION:activity-->
