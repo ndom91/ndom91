@@ -23,9 +23,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/ndom91/youtube-playlists/pull/24) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
-2. 🎉 Merged PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
-3. 💪 Opened PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
-4. 💪 Opened PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
-5. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
+1. 🗣 Commented on [#69](https://github.com/ndom91/react-timezone-select/issues/69) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 💪 Opened PR [#24](https://github.com/ndom91/youtube-playlists/pull/24) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
+3. 🎉 Merged PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
+4. 💪 Opened PR [#23](https://github.com/ndom91/youtube-playlists/pull/23) in [ndom91/youtube-playlists](https://github.com/ndom91/youtube-playlists)
+5. 💪 Opened PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
 <!--END_SECTION:activity-->
