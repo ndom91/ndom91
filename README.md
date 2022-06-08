@@ -23,9 +23,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
-2. 🎉 Merged PR [#5](https://github.com/checkly/og-image/pull/5) in [checkly/og-image](https://github.com/checkly/og-image)
-3. 🗣 Commented on [#5](https://github.com/checkly/og-image/issues/5) in [checkly/og-image](https://github.com/checkly/og-image)
-4. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
-5. 💪 Opened PR [#4678](https://github.com/nextauthjs/next-auth/pull/4678) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
+2. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
+3. 🎉 Merged PR [#5](https://github.com/checkly/og-image/pull/5) in [checkly/og-image](https://github.com/checkly/og-image)
+4. 🗣 Commented on [#5](https://github.com/checkly/og-image/issues/5) in [checkly/og-image](https://github.com/checkly/og-image)
+5. 🗣 Commented on [#184](https://github.com/code-hike/codehike/issues/184) in [code-hike/codehike](https://github.com/code-hike/codehike)
 <!--END_SECTION:activity-->
