@@ -23,9 +23,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/matthewsot/docs-vim/issues/12) in [matthewsot/docs-vim](https://github.com/matthewsot/docs-vim)
-2. 💪 Opened PR [#27](https://github.com/ndom91/home2021/pull/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
-3. 💪 Opened PR [#26](https://github.com/ndom91/home2021/pull/26) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. 🎉 Merged PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
-5. 🗣 Commented on [#69](https://github.com/ndom91/react-timezone-select/issues/69) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. ❗️ Opened issue [#30](https://github.com/neurosnap/lists.sh/issues/30) in [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh)
+2. 🗣 Commented on [#12](https://github.com/matthewsot/docs-vim/issues/12) in [matthewsot/docs-vim](https://github.com/matthewsot/docs-vim)
+3. 💪 Opened PR [#27](https://github.com/ndom91/home2021/pull/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
+4. 💪 Opened PR [#26](https://github.com/ndom91/home2021/pull/26) in [ndom91/home2021](https://github.com/ndom91/home2021)
+5. 🎉 Merged PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
 <!--END_SECTION:activity-->
