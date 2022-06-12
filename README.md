@@ -23,9 +23,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/neurosnap/lists.sh/issues/30) in [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh)
-2. 🗣 Commented on [#12](https://github.com/matthewsot/docs-vim/issues/12) in [matthewsot/docs-vim](https://github.com/matthewsot/docs-vim)
-3. 💪 Opened PR [#27](https://github.com/ndom91/home2021/pull/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. 💪 Opened PR [#26](https://github.com/ndom91/home2021/pull/26) in [ndom91/home2021](https://github.com/ndom91/home2021)
-5. 🎉 Merged PR [#6](https://github.com/checkly/og-image/pull/6) in [checkly/og-image](https://github.com/checkly/og-image)
+1. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+2. 💪 Opened PR [#148](https://github.com/glepnir/dashboard-nvim/pull/148) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+3. ❗️ Opened issue [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+4. 💪 Opened PR [#146](https://github.com/glepnir/dashboard-nvim/pull/146) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+5. 🗣 Commented on [#139](https://github.com/glepnir/dashboard-nvim/issues/139) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
 <!--END_SECTION:activity-->
