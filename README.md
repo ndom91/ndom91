@@ -23,9 +23,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ndom91/briefkasten/pull/1) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 💪 Opened PR [#549](https://github.com/microlinkhq/metascraper/pull/549) in [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper)
-3. 💪 Opened PR [#1](https://github.com/ndom91/briefkasten/pull/1) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
-5. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+1. ❗️ Closed issue [#67](https://github.com/ndom91/react-timezone-select/issues/67) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#67](https://github.com/ndom91/react-timezone-select/issues/67) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. ❗️ Closed issue [#50](https://github.com/ndom91/react-timezone-select/issues/50) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#50](https://github.com/ndom91/react-timezone-select/issues/50) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. ❗️ Closed issue [#65](https://github.com/ndom91/react-timezone-select/issues/65) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
