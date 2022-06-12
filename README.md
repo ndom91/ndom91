@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ndom91/briefkasten/pull/1) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
+1. 💪 Opened PR [#549](https://github.com/microlinkhq/metascraper/pull/549) in [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper)
+2. 💪 Opened PR [#1](https://github.com/ndom91/briefkasten/pull/1) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 3. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
 4. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
 5. 🗣 Commented on [#147](https://github.com/glepnir/dashboard-nvim/issues/147) in [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim)
