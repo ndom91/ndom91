@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/ndom91/react-timezone-select/issues/60) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. ❗️ Closed issue [#58](https://github.com/ndom91/react-timezone-select/issues/58) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#58](https://github.com/ndom91/react-timezone-select/issues/58) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. ❌ Closed PR [#66](https://github.com/ndom91/react-timezone-select/pull/66) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#63](https://github.com/ndom91/react-timezone-select/issues/63) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. ❌ Reopened PR [#3982](https://github.com/nextauthjs/next-auth/pull/3982) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#3982](https://github.com/nextauthjs/next-auth/issues/3982) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#549](https://github.com/microlinkhq/metascraper/issues/549) in [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper)
+4. 🗣 Commented on [#60](https://github.com/ndom91/react-timezone-select/issues/60) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. ❗️ Closed issue [#58](https://github.com/ndom91/react-timezone-select/issues/58) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
