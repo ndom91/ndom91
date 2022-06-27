@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4776](https://github.com/nextauthjs/next-auth/issues/4776) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#4776](https://github.com/nextauthjs/next-auth/pull/4776) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#64](https://github.com/ndom91/react-timezone-select/issues/64) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 💪 Opened PR [#44](https://github.com/bchiang7/halcyon-vscode/pull/44) in [bchiang7/halcyon-vscode](https://github.com/bchiang7/halcyon-vscode)
-5. ❗️ Opened issue [#23230](https://github.com/timburgan/timburgan/issues/23230) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🗣 Commented on [#72](https://github.com/ndom91/react-timezone-select/issues/72) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#4776](https://github.com/nextauthjs/next-auth/issues/4776) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 💪 Opened PR [#4776](https://github.com/nextauthjs/next-auth/pull/4776) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#64](https://github.com/ndom91/react-timezone-select/issues/64) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 💪 Opened PR [#44](https://github.com/bchiang7/halcyon-vscode/pull/44) in [bchiang7/halcyon-vscode](https://github.com/bchiang7/halcyon-vscode)
 <!--END_SECTION:activity-->
