@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#210](https://github.com/1milligram/csslayout/pull/210) in [1milligram/csslayout](https://github.com/1milligram/csslayout)
-2. 🎉 Merged PR [#73](https://github.com/ndom91/react-timezone-select/pull/73) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. ❗️ Closed issue [#72](https://github.com/ndom91/react-timezone-select/issues/72) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🗣 Commented on [#73](https://github.com/ndom91/react-timezone-select/issues/73) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#244](https://github.com/Jarred-Sumner/bun/issues/244) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+1. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
+2. 💪 Opened PR [#210](https://github.com/1milligram/csslayout/pull/210) in [1milligram/csslayout](https://github.com/1milligram/csslayout)
+3. 🎉 Merged PR [#73](https://github.com/ndom91/react-timezone-select/pull/73) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. ❗️ Closed issue [#72](https://github.com/ndom91/react-timezone-select/issues/72) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#73](https://github.com/ndom91/react-timezone-select/issues/73) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
