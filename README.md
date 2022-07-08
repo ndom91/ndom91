@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/ndom91/react-timezone-select/issues/74) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
-3. ❗️ Opened issue [#38431](https://github.com/vercel/next.js/issues/38431) in [vercel/next.js](https://github.com/vercel/next.js)
+1. ❗️ Closed issue [#74](https://github.com/ndom91/react-timezone-select/issues/74) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#74](https://github.com/ndom91/react-timezone-select/issues/74) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#74](https://github.com/ndom91/react-timezone-select/issues/74) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 4. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
-5. 💪 Opened PR [#210](https://github.com/1milligram/csslayout/pull/210) in [1milligram/csslayout](https://github.com/1milligram/csslayout)
+5. ❗️ Opened issue [#38431](https://github.com/vercel/next.js/issues/38431) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
