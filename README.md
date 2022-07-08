@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38431](https://github.com/vercel/next.js/issues/38431) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
-3. 💪 Opened PR [#210](https://github.com/1milligram/csslayout/pull/210) in [1milligram/csslayout](https://github.com/1milligram/csslayout)
-4. 🎉 Merged PR [#73](https://github.com/ndom91/react-timezone-select/pull/73) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. ❗️ Closed issue [#72](https://github.com/ndom91/react-timezone-select/issues/72) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
+2. ❗️ Opened issue [#38431](https://github.com/vercel/next.js/issues/38431) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
+4. 💪 Opened PR [#210](https://github.com/1milligram/csslayout/pull/210) in [1milligram/csslayout](https://github.com/1milligram/csslayout)
+5. 🎉 Merged PR [#73](https://github.com/ndom91/react-timezone-select/pull/73) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
