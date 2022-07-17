@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/ndom91/briefkasten/issues/3) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#203](https://github.com/stefanjudis/tiny-helpers/issues/203) in [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers)
-3. 🗣 Commented on [#3](https://github.com/ndom91/briefkasten/issues/3) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 💪 Opened PR [#4909](https://github.com/nextauthjs/next-auth/pull/4909) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#2](https://github.com/ndom91/briefkasten/pull/2) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#107](https://github.com/tauri-apps/tauri-plugin-store/issues/107) in [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store)
+2. ❗️ Closed issue [#3](https://github.com/ndom91/briefkasten/issues/3) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#203](https://github.com/stefanjudis/tiny-helpers/issues/203) in [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers)
+4. 🗣 Commented on [#3](https://github.com/ndom91/briefkasten/issues/3) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 💪 Opened PR [#4909](https://github.com/nextauthjs/next-auth/pull/4909) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
