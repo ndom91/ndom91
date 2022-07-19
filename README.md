@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#107](https://github.com/tauri-apps/tauri-plugin-store/issues/107) in [tauri-apps/tauri-plugin-store](https://github.com/tauri-apps/tauri-plugin-store)
-3. ❗️ Closed issue [#3](https://github.com/ndom91/briefkasten/issues/3) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#203](https://github.com/stefanjudis/tiny-helpers/issues/203) in [stefanjudis/tiny-helpers](https://github.com/stefanjudis/tiny-helpers)
-5. 🗣 Commented on [#3](https://github.com/ndom91/briefkasten/issues/3) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🎉 Merged PR [#2](https://github.com/ndom91/briefkasten/pull/2) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. ❗️ Closed issue [#6](https://github.com/ndom91/briefkasten/issues/6) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. ❗️ Closed issue [#7](https://github.com/ndom91/briefkasten/issues/7) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. ❗️ Closed issue [#5](https://github.com/ndom91/briefkasten/issues/5) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. ❗️ Opened issue [#7](https://github.com/ndom91/briefkasten/issues/7) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
