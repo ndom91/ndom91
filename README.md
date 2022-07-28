@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🎉 Merged PR [#2](https://github.com/ndom91/briefkasten/pull/2) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. ❗️ Closed issue [#6](https://github.com/ndom91/briefkasten/issues/6) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. ❗️ Closed issue [#7](https://github.com/ndom91/briefkasten/issues/7) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. ❗️ Closed issue [#5](https://github.com/ndom91/briefkasten/issues/5) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🎉 Merged PR [#2](https://github.com/ndom91/briefkasten/pull/2) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. ❗️ Closed issue [#6](https://github.com/ndom91/briefkasten/issues/6) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. ❗️ Closed issue [#7](https://github.com/ndom91/briefkasten/issues/7) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
