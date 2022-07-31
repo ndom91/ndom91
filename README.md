@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5050](https://github.com/nextauthjs/next-auth/issues/5050) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#75](https://github.com/ndom91/react-timezone-select/issues/75) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 2. 🗣 Commented on [#5050](https://github.com/nextauthjs/next-auth/issues/5050) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
-4. ❗️ Opened issue [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
-5. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#5050](https://github.com/nextauthjs/next-auth/issues/5050) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
+5. ❗️ Opened issue [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
 <!--END_SECTION:activity-->
