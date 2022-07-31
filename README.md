@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
-2. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
+2. ❗️ Opened issue [#52](https://github.com/charmbracelet/gum/issues/52) in [charmbracelet/gum](https://github.com/charmbracelet/gum)
+3. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 4. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. 🎉 Merged PR [#2](https://github.com/ndom91/briefkasten/pull/2) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
