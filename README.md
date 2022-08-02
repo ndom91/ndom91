@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. 🗣 Commented on [#5062](https://github.com/nextauthjs/next-auth/issues/5062) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+2. ❗️ Opened issue [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
 3. 🗣 Commented on [#5062](https://github.com/nextauthjs/next-auth/issues/5062) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#5062](https://github.com/nextauthjs/next-auth/pull/5062) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#75](https://github.com/ndom91/react-timezone-select/issues/75) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#5062](https://github.com/nextauthjs/next-auth/issues/5062) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#5062](https://github.com/nextauthjs/next-auth/pull/5062) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
