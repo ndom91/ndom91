@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-2. ❗️ Opened issue [#3](https://github.com/bagisto/nextjs-commerce/issues/3) in [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce)
-3. 🗣 Commented on [#3572](https://github.com/home-assistant/brands/issues/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
-4. 💪 Opened PR [#3572](https://github.com/home-assistant/brands/pull/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
-5. 🗣 Commented on [#5062](https://github.com/nextauthjs/next-auth/issues/5062) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+3. ❗️ Opened issue [#3](https://github.com/bagisto/nextjs-commerce/issues/3) in [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce)
+4. 🗣 Commented on [#3572](https://github.com/home-assistant/brands/issues/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
+5. 💪 Opened PR [#3572](https://github.com/home-assistant/brands/pull/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
 <!--END_SECTION:activity-->
