@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+1. 🗣 Commented on [#3](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/3) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
 2. 🗣 Commented on [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-3. ❗️ Opened issue [#3](https://github.com/bagisto/nextjs-commerce/issues/3) in [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce)
-4. 🗣 Commented on [#3572](https://github.com/home-assistant/brands/issues/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
-5. 💪 Opened PR [#3572](https://github.com/home-assistant/brands/pull/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
+3. 🗣 Commented on [#7880](https://github.com/facebook/docusaurus/issues/7880) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
+4. ❗️ Opened issue [#3](https://github.com/bagisto/nextjs-commerce/issues/3) in [bagisto/nextjs-commerce](https://github.com/bagisto/nextjs-commerce)
+5. 🗣 Commented on [#3572](https://github.com/home-assistant/brands/issues/3572) in [home-assistant/brands](https://github.com/home-assistant/brands)
 <!--END_SECTION:activity-->
