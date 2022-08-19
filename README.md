@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#147](https://github.com/reobin/typewritten/issues/147) in [reobin/typewritten](https://github.com/reobin/typewritten)
-3. 🗣 Commented on [#489](https://github.com/vuejs/vue-jest/issues/489) in [vuejs/vue-jest](https://github.com/vuejs/vue-jest)
-4. 🗣 Commented on [#3814](https://github.com/nextauthjs/next-auth/issues/3814) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#3](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/3) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
+1. 🗣 Commented on [#9](https://github.com/ndom91/briefkasten/issues/9) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#147](https://github.com/reobin/typewritten/issues/147) in [reobin/typewritten](https://github.com/reobin/typewritten)
+4. 🗣 Commented on [#489](https://github.com/vuejs/vue-jest/issues/489) in [vuejs/vue-jest](https://github.com/vuejs/vue-jest)
+5. 🗣 Commented on [#3814](https://github.com/nextauthjs/next-auth/issues/3814) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
