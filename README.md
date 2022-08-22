@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/ndom91/briefkasten/issues/11) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#77](https://github.com/ndom91/react-timezone-select/issues/77) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🎉 Merged PR [#11](https://github.com/ndom91/briefkasten/pull/11) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#11](https://github.com/ndom91/briefkasten/issues/11) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#77](https://github.com/ndom91/react-timezone-select/issues/77) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#8](https://github.com/ndom91/briefkasten/issues/8) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 5. 🗣 Commented on [#4](https://github.com/ndom91/briefkasten/issues/4) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
