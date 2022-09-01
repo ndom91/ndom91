@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/ndom91/briefkasten/issues/14) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🎉 Merged PR [#5263](https://github.com/nextauthjs/next-auth/pull/5263) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 2. 🗣 Commented on [#14](https://github.com/ndom91/briefkasten/issues/14) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 3. 🗣 Commented on [#14](https://github.com/ndom91/briefkasten/issues/14) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. ❗️ Closed issue [#13](https://github.com/ndom91/briefkasten/issues/13) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. 🗣 Commented on [#13](https://github.com/ndom91/briefkasten/issues/13) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#14](https://github.com/ndom91/briefkasten/issues/14) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. ❗️ Closed issue [#13](https://github.com/ndom91/briefkasten/issues/13) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
