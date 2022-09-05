@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/51) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+1. 🗣 Commented on [#735](https://github.com/nextui-org/nextui/issues/735) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 2. 🗣 Commented on [#51](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/51) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-3. ❗️ Opened issue [#735](https://github.com/nextui-org/nextui/issues/735) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#5](https://github.com/gkpln3/CapsLockNoDelay/issues/5) in [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)
-5. 🗣 Commented on [#51](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/51) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+3. 🗣 Commented on [#51](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/51) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+4. ❗️ Opened issue [#735](https://github.com/nextui-org/nextui/issues/735) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#5](https://github.com/gkpln3/CapsLockNoDelay/issues/5) in [gkpln3/CapsLockNoDelay](https://github.com/gkpln3/CapsLockNoDelay)
 <!--END_SECTION:activity-->
