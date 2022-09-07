@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/ndom91/briefkasten/issues/15) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. ❗️ Opened issue [#12](https://github.com/activenode/react-use-focus-trap/issues/12) in [activenode/react-use-focus-trap](https://github.com/activenode/react-use-focus-trap)
-3. 🗣 Commented on [#5294](https://github.com/nextauthjs/next-auth/issues/5294) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. ❗️ Closed issue [#1](https://github.com/ndom91/rocketchat-otrs/issues/1) in [ndom91/rocketchat-otrs](https://github.com/ndom91/rocketchat-otrs)
-5. 🗣 Commented on [#1](https://github.com/ndom91/rocketchat-otrs/issues/1) in [ndom91/rocketchat-otrs](https://github.com/ndom91/rocketchat-otrs)
+1. 🗣 Commented on [#12](https://github.com/activenode/react-use-focus-trap/issues/12) in [activenode/react-use-focus-trap](https://github.com/activenode/react-use-focus-trap)
+2. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+3. 🗣 Commented on [#15](https://github.com/ndom91/briefkasten/issues/15) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. ❗️ Opened issue [#12](https://github.com/activenode/react-use-focus-trap/issues/12) in [activenode/react-use-focus-trap](https://github.com/activenode/react-use-focus-trap)
+5. 🗣 Commented on [#5294](https://github.com/nextauthjs/next-auth/issues/5294) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
