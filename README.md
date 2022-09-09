@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4780](https://github.com/nextauthjs/next-auth/issues/4780) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-3. 💪 Opened PR [#17](https://github.com/storybookjs/mdx2-csf/pull/17) in [storybookjs/mdx2-csf](https://github.com/storybookjs/mdx2-csf)
-4. 🗣 Commented on [#12](https://github.com/activenode/react-use-focus-trap/issues/12) in [activenode/react-use-focus-trap](https://github.com/activenode/react-use-focus-trap)
-5. ❗️ Closed issue [#12](https://github.com/activenode/react-use-focus-trap/issues/12) in [activenode/react-use-focus-trap](https://github.com/activenode/react-use-focus-trap)
+1. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+2. 🗣 Commented on [#53](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/53) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+3. 🗣 Commented on [#4780](https://github.com/nextauthjs/next-auth/issues/4780) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+5. 💪 Opened PR [#17](https://github.com/storybookjs/mdx2-csf/pull/17) in [storybookjs/mdx2-csf](https://github.com/storybookjs/mdx2-csf)
 <!--END_SECTION:activity-->
