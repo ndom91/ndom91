@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5294](https://github.com/nextauthjs/next-auth/issues/5294) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-3. 🗣 Commented on [#53](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/53) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-4. 🗣 Commented on [#4780](https://github.com/nextauthjs/next-auth/issues/4780) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+1. 🗣 Commented on [#4206](https://github.com/getsentry/sentry-javascript/issues/4206) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+2. 🗣 Commented on [#5294](https://github.com/nextauthjs/next-auth/issues/5294) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#52](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/52) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+4. 🗣 Commented on [#53](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/53) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+5. 🗣 Commented on [#4780](https://github.com/nextauthjs/next-auth/issues/4780) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
