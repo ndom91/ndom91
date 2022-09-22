@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5316](https://github.com/nextauthjs/next-auth/issues/5316) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#4698](https://github.com/nextauthjs/next-auth/issues/4698) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#5377](https://github.com/nextauthjs/next-auth/issues/5377) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#5050](https://github.com/nextauthjs/next-auth/issues/5050) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#5366](https://github.com/nextauthjs/next-auth/issues/5366) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+2. ❗️ Opened issue [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+3. 🗣 Commented on [#5316](https://github.com/nextauthjs/next-auth/issues/5316) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#4698](https://github.com/nextauthjs/next-auth/issues/4698) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#5377](https://github.com/nextauthjs/next-auth/issues/5377) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
