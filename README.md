@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
-2. ❗️ Opened issue [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
-3. ❗️ Closed issue [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
-4. 🗣 Commented on [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
-5. ❗️ Opened issue [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+2. 🗣 Commented on [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+3. ❗️ Opened issue [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+4. ❗️ Closed issue [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+5. 🗣 Commented on [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
 <!--END_SECTION:activity-->
