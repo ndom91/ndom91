@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+1. 🗣 Commented on [#57](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/57) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
 2. 🗣 Commented on [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
-3. ❗️ Opened issue [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
-4. ❗️ Closed issue [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
-5. 🗣 Commented on [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
+3. 🗣 Commented on [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+4. ❗️ Opened issue [#825](https://github.com/stackblitz/webcontainer-core/issues/825) in [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+5. ❗️ Closed issue [#537](https://github.com/nuxt-modules/tailwindcss/issues/537) in [nuxt-modules/tailwindcss](https://github.com/nuxt-modules/tailwindcss)
 <!--END_SECTION:activity-->
