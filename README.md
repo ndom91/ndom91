@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#566](https://github.com/checkly/checklyhq.com/pull/566) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-2. 🗣 Commented on [#562](https://github.com/checkly/checklyhq.com/issues/562) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 💪 Opened PR [#565](https://github.com/checkly/checklyhq.com/pull/565) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🎉 Merged PR [#79](https://github.com/ndom91/react-timezone-select/pull/79) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🎉 Merged PR [#565](https://github.com/checkly/checklyhq.com/pull/565) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+2. 💪 Opened PR [#566](https://github.com/checkly/checklyhq.com/pull/566) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+3. 🗣 Commented on [#562](https://github.com/checkly/checklyhq.com/issues/562) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+4. 💪 Opened PR [#565](https://github.com/checkly/checklyhq.com/pull/565) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
