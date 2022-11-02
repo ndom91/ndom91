@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#588](https://github.com/ellie/atuin/issues/588) in [ellie/atuin](https://github.com/ellie/atuin)
+1. 💪 Opened PR [#569](https://github.com/checkly/checklyhq.com/pull/569) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 2. 🗣 Commented on [#588](https://github.com/ellie/atuin/issues/588) in [ellie/atuin](https://github.com/ellie/atuin)
-3. ❗️ Opened issue [#588](https://github.com/ellie/atuin/issues/588) in [ellie/atuin](https://github.com/ellie/atuin)
-4. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🎉 Merged PR [#566](https://github.com/checkly/checklyhq.com/pull/566) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+3. 🗣 Commented on [#588](https://github.com/ellie/atuin/issues/588) in [ellie/atuin](https://github.com/ellie/atuin)
+4. ❗️ Opened issue [#588](https://github.com/ellie/atuin/issues/588) in [ellie/atuin](https://github.com/ellie/atuin)
+5. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
