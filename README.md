@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#573](https://github.com/checkly/checklyhq.com/issues/573) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-2. 💪 Opened PR [#573](https://github.com/checkly/checklyhq.com/pull/573) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 🎉 Merged PR [#571](https://github.com/checkly/checklyhq.com/pull/571) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 💪 Opened PR [#571](https://github.com/checkly/checklyhq.com/pull/571) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 🎉 Merged PR [#569](https://github.com/checkly/checklyhq.com/pull/569) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🗣 Commented on [#588](https://github.com/ellie/atuin/issues/588) in [ellie/atuin](https://github.com/ellie/atuin)
+2. 🗣 Commented on [#573](https://github.com/checkly/checklyhq.com/issues/573) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+3. 💪 Opened PR [#573](https://github.com/checkly/checklyhq.com/pull/573) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+4. 🎉 Merged PR [#571](https://github.com/checkly/checklyhq.com/pull/571) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 💪 Opened PR [#571](https://github.com/checkly/checklyhq.com/pull/571) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
