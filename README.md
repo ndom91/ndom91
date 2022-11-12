@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#614](https://github.com/akinsho/bufferline.nvim/issues/614) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-2. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. ❗️ Opened issue [#800](https://github.com/gdh1995/vimium-c/issues/800) in [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c)
+2. ❗️ Opened issue [#614](https://github.com/akinsho/bufferline.nvim/issues/614) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 3. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🗣 Commented on [#575](https://github.com/checkly/checklyhq.com/issues/575) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. ❌ Closed PR [#5760](https://github.com/nextauthjs/next-auth/pull/5760) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#575](https://github.com/checkly/checklyhq.com/issues/575) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
