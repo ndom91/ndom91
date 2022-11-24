@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#581](https://github.com/checkly/checklyhq.com/pull/581) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-2. 🗣 Commented on [#573](https://github.com/checkly/checklyhq.com/issues/573) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 💪 Opened PR [#581](https://github.com/checkly/checklyhq.com/pull/581) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🎉 Merged PR [#580](https://github.com/checkly/checklyhq.com/pull/580) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 💪 Opened PR [#580](https://github.com/checkly/checklyhq.com/pull/580) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🗣 Commented on [#800](https://github.com/gdh1995/vimium-c/issues/800) in [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c)
+2. 🎉 Merged PR [#581](https://github.com/checkly/checklyhq.com/pull/581) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+3. 🗣 Commented on [#573](https://github.com/checkly/checklyhq.com/issues/573) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+4. 💪 Opened PR [#581](https://github.com/checkly/checklyhq.com/pull/581) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🎉 Merged PR [#580](https://github.com/checkly/checklyhq.com/pull/580) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
