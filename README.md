@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5604](https://github.com/nextauthjs/next-auth/issues/5604) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#21](https://github.com/ndom91/briefkasten/issues/21) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. 🎉 Merged PR [#594](https://github.com/checkly/checklyhq.com/pull/594) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🗣 Commented on [#594](https://github.com/checkly/checklyhq.com/issues/594) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 💪 Opened PR [#594](https://github.com/checkly/checklyhq.com/pull/594) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🎉 Merged PR [#593](https://github.com/checkly/checklyhq.com/pull/593) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+2. 🗣 Commented on [#5604](https://github.com/nextauthjs/next-auth/issues/5604) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#21](https://github.com/ndom91/briefkasten/issues/21) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🎉 Merged PR [#594](https://github.com/checkly/checklyhq.com/pull/594) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🗣 Commented on [#594](https://github.com/checkly/checklyhq.com/issues/594) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
