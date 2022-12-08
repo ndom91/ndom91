@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/checkly/handlebars/pull/96) in [checkly/handlebars](https://github.com/checkly/handlebars)
-2. 💪 Opened PR [#1607](https://github.com/hacs/default/pull/1607) in [hacs/default](https://github.com/hacs/default)
-3. 💪 Opened PR [#597](https://github.com/checkly/checklyhq.com/pull/597) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🎉 Merged PR [#596](https://github.com/checkly/checklyhq.com/pull/596) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 💪 Opened PR [#596](https://github.com/checkly/checklyhq.com/pull/596) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🎉 Merged PR [#597](https://github.com/checkly/checklyhq.com/pull/597) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+2. 🎉 Merged PR [#96](https://github.com/checkly/handlebars/pull/96) in [checkly/handlebars](https://github.com/checkly/handlebars)
+3. 💪 Opened PR [#1607](https://github.com/hacs/default/pull/1607) in [hacs/default](https://github.com/hacs/default)
+4. 💪 Opened PR [#597](https://github.com/checkly/checklyhq.com/pull/597) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🎉 Merged PR [#596](https://github.com/checkly/checklyhq.com/pull/596) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
