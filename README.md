@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#6020](https://github.com/nextauthjs/next-auth/issues/6020) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. ❌ Closed PR [#5761](https://github.com/nextauthjs/next-auth/pull/5761) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#5761](https://github.com/nextauthjs/next-auth/issues/5761) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. ❗️ Closed issue [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🎉 Merged PR [#29](https://github.com/ndom91/briefkasten/pull/29) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#6020](https://github.com/nextauthjs/next-auth/issues/6020) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. ❌ Closed PR [#5761](https://github.com/nextauthjs/next-auth/pull/5761) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
