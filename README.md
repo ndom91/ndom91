@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5761](https://github.com/nextauthjs/next-auth/issues/5761) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ❗️ Closed issue [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. 🗣 Commented on [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 💪 Opened PR [#29](https://github.com/ndom91/briefkasten/pull/29) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#6020](https://github.com/nextauthjs/next-auth/issues/6020) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. ❌ Closed PR [#5761](https://github.com/nextauthjs/next-auth/pull/5761) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#5761](https://github.com/nextauthjs/next-auth/issues/5761) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. ❗️ Closed issue [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 5. 🗣 Commented on [#24](https://github.com/ndom91/briefkasten/issues/24) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
