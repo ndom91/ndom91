@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6037](https://github.com/nextauthjs/next-auth/issues/6037) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#5663](https://github.com/nextauthjs/next-auth/issues/5663) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#6075](https://github.com/nextauthjs/next-auth/issues/6075) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#6065](https://github.com/nextauthjs/next-auth/pull/6065) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#6063](https://github.com/nextauthjs/next-auth/pull/6063) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#6037](https://github.com/nextauthjs/next-auth/pull/6037) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#6037](https://github.com/nextauthjs/next-auth/issues/6037) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#5663](https://github.com/nextauthjs/next-auth/issues/5663) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#6075](https://github.com/nextauthjs/next-auth/issues/6075) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
