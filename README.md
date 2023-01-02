@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#63](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/63) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-2. 💪 Opened PR [#1019](https://github.com/netbox-community/devicetype-library/pull/1019) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-3. 🗣 Commented on [#63](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/63) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-4. ❗️ Opened issue [#63](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/63) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-5. 💪 Opened PR [#2](https://github.com/tribp/netbox/pull/2) in [tribp/netbox](https://github.com/tribp/netbox)
+2. 🗣 Commented on [#63](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/63) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+3. 💪 Opened PR [#1019](https://github.com/netbox-community/devicetype-library/pull/1019) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
+4. 🗣 Commented on [#63](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/63) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+5. ❗️ Opened issue [#63](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/63) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
 <!--END_SECTION:activity-->
