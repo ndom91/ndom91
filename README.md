@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ndom91/checkly-vscode/pull/2) in [ndom91/checkly-vscode](https://github.com/ndom91/checkly-vscode)
-2. 💪 Opened PR [#2](https://github.com/ndom91/checkly-vscode/pull/2) in [ndom91/checkly-vscode](https://github.com/ndom91/checkly-vscode)
-3. 💪 Opened PR [#610](https://github.com/checkly/checklyhq.com/pull/610) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🎉 Merged PR [#609](https://github.com/checkly/checklyhq.com/pull/609) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 💪 Opened PR [#609](https://github.com/checkly/checklyhq.com/pull/609) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🎉 Merged PR [#610](https://github.com/checkly/checklyhq.com/pull/610) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+2. 🎉 Merged PR [#2](https://github.com/ndom91/checkly-vscode/pull/2) in [ndom91/checkly-vscode](https://github.com/ndom91/checkly-vscode)
+3. 💪 Opened PR [#2](https://github.com/ndom91/checkly-vscode/pull/2) in [ndom91/checkly-vscode](https://github.com/ndom91/checkly-vscode)
+4. 💪 Opened PR [#610](https://github.com/checkly/checklyhq.com/pull/610) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🎉 Merged PR [#609](https://github.com/checkly/checklyhq.com/pull/609) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
