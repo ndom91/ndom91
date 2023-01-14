@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#613](https://github.com/checkly/checklyhq.com/pull/613) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-2. 🎉 Merged PR [#611](https://github.com/checkly/checklyhq.com/pull/611) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 💪 Opened PR [#613](https://github.com/checkly/checklyhq.com/pull/613) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 💪 Opened PR [#611](https://github.com/checkly/checklyhq.com/pull/611) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 🗣 Commented on [#33](https://github.com/ndom91/briefkasten/issues/33) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#36](https://github.com/ndom91/briefkasten/issues/36) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#35](https://github.com/ndom91/briefkasten/issues/35) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. ❗️ Closed issue [#28](https://github.com/ndom91/briefkasten/issues/28) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
