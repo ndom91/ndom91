@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
-2. 🗣 Commented on [#29](https://github.com/sjm-steffann/netbox-ddns/issues/29) in [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns)
-3. 🗣 Commented on [#5739](https://github.com/nextauthjs/next-auth/issues/5739) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#30](https://github.com/c-base/c-beam/pull/30) in [c-base/c-beam](https://github.com/c-base/c-beam)
-5. 🗣 Commented on [#1](https://github.com/ndom91/briefkasten-scrape/issues/1) in [ndom91/briefkasten-scrape](https://github.com/ndom91/briefkasten-scrape)
+1. 💪 Opened PR [#59](https://github.com/boringdesigners/boring-avatars/pull/59) in [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars)
+2. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+3. 🗣 Commented on [#29](https://github.com/sjm-steffann/netbox-ddns/issues/29) in [sjm-steffann/netbox-ddns](https://github.com/sjm-steffann/netbox-ddns)
+4. 🗣 Commented on [#5739](https://github.com/nextauthjs/next-auth/issues/5739) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#30](https://github.com/c-base/c-beam/pull/30) in [c-base/c-beam](https://github.com/c-base/c-beam)
 <!--END_SECTION:activity-->
