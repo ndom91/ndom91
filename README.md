@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
-2. 🗣 Commented on [#465](https://github.com/checkly/checkly-cli/issues/465) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-3. 🗣 Commented on [#6555](https://github.com/nextauthjs/next-auth/issues/6555) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#40](https://github.com/ndom91/briefkasten/issues/40) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. ❌ Closed PR [#34](https://github.com/ndom91/briefkasten/pull/34) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. ❌ Closed PR [#222](https://github.com/aviaryan/awesome-no-login-web-apps/pull/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+2. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+3. 💪 Opened PR [#293](https://github.com/aviaryan/awesome-no-login-web-apps/pull/293) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+4. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+5. 🗣 Commented on [#465](https://github.com/checkly/checkly-cli/issues/465) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
 <!--END_SECTION:activity-->
