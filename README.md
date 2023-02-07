@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#222](https://github.com/aviaryan/awesome-no-login-web-apps/pull/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
-2. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
-3. 💪 Opened PR [#293](https://github.com/aviaryan/awesome-no-login-web-apps/pull/293) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
-4. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
-5. 🗣 Commented on [#465](https://github.com/checkly/checkly-cli/issues/465) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. 💪 Opened PR [#41](https://github.com/ndom91/briefkasten/pull/41) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. ❌ Closed PR [#222](https://github.com/aviaryan/awesome-no-login-web-apps/pull/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+3. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+4. 💪 Opened PR [#293](https://github.com/aviaryan/awesome-no-login-web-apps/pull/293) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+5. 🗣 Commented on [#222](https://github.com/aviaryan/awesome-no-login-web-apps/issues/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 <!--END_SECTION:activity-->
