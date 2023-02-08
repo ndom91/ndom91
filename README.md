@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/65) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
-2. 🎉 Merged PR [#641](https://github.com/checkly/checklyhq.com/pull/641) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 💪 Opened PR [#641](https://github.com/checkly/checklyhq.com/pull/641) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 💪 Opened PR [#41](https://github.com/ndom91/briefkasten/pull/41) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. ❌ Closed PR [#222](https://github.com/aviaryan/awesome-no-login-web-apps/pull/222) in [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps)
+1. 💪 Opened PR [#3](https://github.com/hellolol2016/EquilibriNews/pull/3) in [hellolol2016/EquilibriNews](https://github.com/hellolol2016/EquilibriNews)
+2. 🗣 Commented on [#65](https://github.com/minitriga/Netbox-Device-Type-Library-Import/issues/65) in [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import)
+3. 🎉 Merged PR [#641](https://github.com/checkly/checklyhq.com/pull/641) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+4. 💪 Opened PR [#641](https://github.com/checkly/checklyhq.com/pull/641) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 💪 Opened PR [#41](https://github.com/ndom91/briefkasten/pull/41) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
