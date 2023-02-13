@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/chocolateofpain/moominsay/pull/4) in [chocolateofpain/moominsay](https://github.com/chocolateofpain/moominsay)
-2. 💪 Opened PR [#3](https://github.com/chocolateofpain/moominsay/pull/3) in [chocolateofpain/moominsay](https://github.com/chocolateofpain/moominsay)
-3. 🗣 Commented on [#3](https://github.com/hellolol2016/EquilibriNews/issues/3) in [hellolol2016/EquilibriNews](https://github.com/hellolol2016/EquilibriNews)
+1. 🗣 Commented on [#3](https://github.com/hellolol2016/EquilibriNews/issues/3) in [hellolol2016/EquilibriNews](https://github.com/hellolol2016/EquilibriNews)
+2. 💪 Opened PR [#4](https://github.com/chocolateofpain/moominsay/pull/4) in [chocolateofpain/moominsay](https://github.com/chocolateofpain/moominsay)
+3. 💪 Opened PR [#3](https://github.com/chocolateofpain/moominsay/pull/3) in [chocolateofpain/moominsay](https://github.com/chocolateofpain/moominsay)
 4. 🗣 Commented on [#3](https://github.com/hellolol2016/EquilibriNews/issues/3) in [hellolol2016/EquilibriNews](https://github.com/hellolol2016/EquilibriNews)
-5. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#3](https://github.com/hellolol2016/EquilibriNews/issues/3) in [hellolol2016/EquilibriNews](https://github.com/hellolol2016/EquilibriNews)
 <!--END_SECTION:activity-->
