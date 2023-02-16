@@ -24,7 +24,7 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 2. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-3. 🎉 Merged PR [#659](https://github.com/checkly/checklyhq.com/pull/659) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🗣 Commented on [#6697](https://github.com/nextauthjs/next-auth/issues/6697) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#659](https://github.com/checkly/checklyhq.com/pull/659) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+3. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+4. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+5. 🎉 Merged PR [#659](https://github.com/checkly/checklyhq.com/pull/659) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
