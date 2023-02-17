@@ -26,5 +26,5 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 2. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 3. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 4. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-5. 🎉 Merged PR [#659](https://github.com/checkly/checklyhq.com/pull/659) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 <!--END_SECTION:activity-->
