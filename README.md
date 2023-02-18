@@ -22,7 +22,7 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+1. 💪 Opened PR [#1514](https://github.com/beekeeper-studio/beekeeper-studio/pull/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 2. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 3. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 4. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
