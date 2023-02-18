@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
-2. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-3. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-4. 💪 Opened PR [#1514](https://github.com/beekeeper-studio/beekeeper-studio/pull/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-5. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+1. 🗣 Commented on [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
+2. 💪 Opened PR [#1525](https://github.com/shuding/nextra/pull/1525) in [shuding/nextra](https://github.com/shuding/nextra)
+3. ❗️ Opened issue [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
+4. 🗣 Commented on [#1443](https://github.com/beekeeper-studio/beekeeper-studio/issues/1443) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+5. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 <!--END_SECTION:activity-->
