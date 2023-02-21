@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
-2. 🗣 Commented on [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
+1. ❌ Closed PR [#1525](https://github.com/shuding/nextra/pull/1525) in [shuding/nextra](https://github.com/shuding/nextra)
+2. ❗️ Closed issue [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
 3. 🗣 Commented on [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
-4. 💪 Opened PR [#1525](https://github.com/shuding/nextra/pull/1525) in [shuding/nextra](https://github.com/shuding/nextra)
-5. ❗️ Opened issue [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
+4. 🗣 Commented on [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
+5. 🗣 Commented on [#1523](https://github.com/shuding/nextra/issues/1523) in [shuding/nextra](https://github.com/shuding/nextra)
 <!--END_SECTION:activity-->
