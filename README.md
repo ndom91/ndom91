@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/jellyfin/jellyfin-plugin-tmdb/issues/29) in [jellyfin/jellyfin-plugin-tmdb](https://github.com/jellyfin/jellyfin-plugin-tmdb)
-2. 🗣 Commented on [#29](https://github.com/jellyfin/jellyfin-plugin-tmdb/issues/29) in [jellyfin/jellyfin-plugin-tmdb](https://github.com/jellyfin/jellyfin-plugin-tmdb)
-3. ❗️ Opened issue [#29](https://github.com/jellyfin/jellyfin-plugin-tmdb/issues/29) in [jellyfin/jellyfin-plugin-tmdb](https://github.com/jellyfin/jellyfin-plugin-tmdb)
-4. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-5. ❌ Closed PR [#1525](https://github.com/shuding/nextra/pull/1525) in [shuding/nextra](https://github.com/shuding/nextra)
+1. ❗️ Opened issue [#9399](https://github.com/jellyfin/jellyfin/issues/9399) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. ❗️ Closed issue [#29](https://github.com/jellyfin/jellyfin-plugin-tmdb/issues/29) in [jellyfin/jellyfin-plugin-tmdb](https://github.com/jellyfin/jellyfin-plugin-tmdb)
+3. 🗣 Commented on [#29](https://github.com/jellyfin/jellyfin-plugin-tmdb/issues/29) in [jellyfin/jellyfin-plugin-tmdb](https://github.com/jellyfin/jellyfin-plugin-tmdb)
+4. ❗️ Opened issue [#29](https://github.com/jellyfin/jellyfin-plugin-tmdb/issues/29) in [jellyfin/jellyfin-plugin-tmdb](https://github.com/jellyfin/jellyfin-plugin-tmdb)
+5. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 <!--END_SECTION:activity-->
