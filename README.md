@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-2. 🗣 Commented on [#695](https://github.com/checkly/checklyhq.com/issues/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. ❌ Closed PR [#695](https://github.com/checkly/checklyhq.com/pull/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🗣 Commented on [#695](https://github.com/checkly/checklyhq.com/issues/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. ❗️ Opened issue [#42](https://github.com/ndom91/briefkasten/issues/42) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+3. 🗣 Commented on [#695](https://github.com/checkly/checklyhq.com/issues/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+4. ❌ Closed PR [#695](https://github.com/checkly/checklyhq.com/pull/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 5. 🗣 Commented on [#695](https://github.com/checkly/checklyhq.com/issues/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
