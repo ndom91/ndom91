@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21336](https://github.com/microsoft/playwright/issues/21336) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 💪 Opened PR [#21336](https://github.com/microsoft/playwright/pull/21336) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. ❗️ Opened issue [#42](https://github.com/ndom91/briefkasten/issues/42) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-5. 🗣 Commented on [#695](https://github.com/checkly/checklyhq.com/issues/695) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🎉 Merged PR [#41](https://github.com/ndom91/briefkasten/pull/41) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#21336](https://github.com/microsoft/playwright/issues/21336) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 💪 Opened PR [#21336](https://github.com/microsoft/playwright/pull/21336) in [microsoft/playwright](https://github.com/microsoft/playwright)
+4. ❗️ Opened issue [#42](https://github.com/ndom91/briefkasten/issues/42) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 <!--END_SECTION:activity-->
