@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. ❗️ Closed issue [#63](https://github.com/netbox-community/Device-Type-Library-Import/issues/63) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
-3. 🗣 Commented on [#63](https://github.com/netbox-community/Device-Type-Library-Import/issues/63) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
-4. 🗣 Commented on [#21336](https://github.com/microsoft/playwright/issues/21336) in [microsoft/playwright](https://github.com/microsoft/playwright)
+1. 💪 Opened PR [#6883](https://github.com/nextauthjs/next-auth/pull/6883) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. ❗️ Closed issue [#63](https://github.com/netbox-community/Device-Type-Library-Import/issues/63) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
+4. 🗣 Commented on [#63](https://github.com/netbox-community/Device-Type-Library-Import/issues/63) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
 5. 🗣 Commented on [#21336](https://github.com/microsoft/playwright/issues/21336) in [microsoft/playwright](https://github.com/microsoft/playwright)
 <!--END_SECTION:activity-->
