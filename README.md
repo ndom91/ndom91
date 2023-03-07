@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6892](https://github.com/nextauthjs/next-auth/pull/6892) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-3. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-4. 🗣 Commented on [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
-5. ❗️ Opened issue [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
+1. 🗣 Commented on [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
+2. 💪 Opened PR [#6892](https://github.com/nextauthjs/next-auth/pull/6892) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+4. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+5. 🗣 Commented on [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
 <!--END_SECTION:activity-->
