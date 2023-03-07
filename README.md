@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
-2. ❗️ Closed issue [#920](https://github.com/home-assistant/companion.home-assistant/issues/920) in [home-assistant/companion.home-assistant](https://github.com/home-assistant/companion.home-assistant)
-3. ❗️ Opened issue [#920](https://github.com/home-assistant/companion.home-assistant/issues/920) in [home-assistant/companion.home-assistant](https://github.com/home-assistant/companion.home-assistant)
-4. 💪 Opened PR [#6883](https://github.com/nextauthjs/next-auth/pull/6883) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
+2. ❗️ Opened issue [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
+3. ❗️ Closed issue [#920](https://github.com/home-assistant/companion.home-assistant/issues/920) in [home-assistant/companion.home-assistant](https://github.com/home-assistant/companion.home-assistant)
+4. ❗️ Opened issue [#920](https://github.com/home-assistant/companion.home-assistant/issues/920) in [home-assistant/companion.home-assistant](https://github.com/home-assistant/companion.home-assistant)
+5. 💪 Opened PR [#6883](https://github.com/nextauthjs/next-auth/pull/6883) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
