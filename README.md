@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
-2. 🗣 Commented on [#3404](https://github.com/home-assistant/android/issues/3404) in [home-assistant/android](https://github.com/home-assistant/android)
-3. ❗️ Opened issue [#210](https://github.com/tadashi0713/circleci-graviton-fargate-demo/issues/210) in [tadashi0713/circleci-graviton-fargate-demo](https://github.com/tadashi0713/circleci-graviton-fargate-demo)
-4. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-5. 🗣 Commented on [#86](https://github.com/ndom91/react-timezone-select/issues/86) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🎉 Merged PR [#44](https://github.com/ndom91/briefkasten/pull/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#45](https://github.com/ndom91/briefkasten/issues/45) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#46](https://github.com/ndom91/briefkasten/issues/46) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
