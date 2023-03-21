@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9399](https://github.com/jellyfin/jellyfin/issues/9399) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-2. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. 🗣 Commented on [#6935](https://github.com/nextauthjs/next-auth/issues/6935) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#651](https://github.com/StyraHem/ShellyForHASS/issues/651) in [StyraHem/ShellyForHASS](https://github.com/StyraHem/ShellyForHASS)
-5. 🎉 Merged PR [#44](https://github.com/ndom91/briefkasten/pull/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. ❗️ Closed issue [#9399](https://github.com/jellyfin/jellyfin/issues/9399) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+2. 🗣 Commented on [#9399](https://github.com/jellyfin/jellyfin/issues/9399) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+3. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#6935](https://github.com/nextauthjs/next-auth/issues/6935) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#651](https://github.com/StyraHem/ShellyForHASS/issues/651) in [StyraHem/ShellyForHASS](https://github.com/StyraHem/ShellyForHASS)
 <!--END_SECTION:activity-->
