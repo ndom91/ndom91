@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6935](https://github.com/nextauthjs/next-auth/issues/6935) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#651](https://github.com/StyraHem/ShellyForHASS/issues/651) in [StyraHem/ShellyForHASS](https://github.com/StyraHem/ShellyForHASS)
-3. 🎉 Merged PR [#44](https://github.com/ndom91/briefkasten/pull/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#45](https://github.com/ndom91/briefkasten/issues/45) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. 🗣 Commented on [#46](https://github.com/ndom91/briefkasten/issues/46) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#6935](https://github.com/nextauthjs/next-auth/issues/6935) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#651](https://github.com/StyraHem/ShellyForHASS/issues/651) in [StyraHem/ShellyForHASS](https://github.com/StyraHem/ShellyForHASS)
+4. 🎉 Merged PR [#44](https://github.com/ndom91/briefkasten/pull/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#45](https://github.com/ndom91/briefkasten/issues/45) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
