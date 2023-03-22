@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9526](https://github.com/jellyfin/jellyfin/issues/9526) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-2. ❗️ Opened issue [#9526](https://github.com/jellyfin/jellyfin/issues/9526) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-3. ❗️ Closed issue [#9399](https://github.com/jellyfin/jellyfin/issues/9399) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-4. 🗣 Commented on [#9399](https://github.com/jellyfin/jellyfin/issues/9399) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-5. 🗣 Commented on [#44](https://github.com/ndom91/briefkasten/issues/44) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🎉 Merged PR [#7028](https://github.com/nextauthjs/next-auth/pull/7028) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#7028](https://github.com/nextauthjs/next-auth/issues/7028) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#6953](https://github.com/nextauthjs/next-auth/issues/6953) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9526](https://github.com/jellyfin/jellyfin/issues/9526) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
+5. ❗️ Opened issue [#9526](https://github.com/jellyfin/jellyfin/issues/9526) in [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
 <!--END_SECTION:activity-->
