@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
-2. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-3. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-4. 🎉 Merged PR [#7028](https://github.com/nextauthjs/next-auth/pull/7028) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#7028](https://github.com/nextauthjs/next-auth/issues/7028) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
+2. ❗️ Opened issue [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
+3. 🗣 Commented on [#1514](https://github.com/beekeeper-studio/beekeeper-studio/issues/1514) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+4. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+5. 🎉 Merged PR [#7028](https://github.com/nextauthjs/next-auth/pull/7028) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
