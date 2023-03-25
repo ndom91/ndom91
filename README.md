@@ -26,5 +26,5 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 2. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
 3. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
 4. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
-5. 🗣 Commented on [#1033](https://github.com/trapexit/mergerfs/issues/1033) in [trapexit/mergerfs](https://github.com/trapexit/mergerfs)
+5. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
 <!--END_SECTION:activity-->
