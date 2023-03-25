@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/trapexit/mergerfs/issues/1033) in [trapexit/mergerfs](https://github.com/trapexit/mergerfs)
+1. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
 2. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
 3. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
 4. 🗣 Commented on [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
-5. ❗️ Opened issue [#62](https://github.com/gvigroux/hon/issues/62) in [gvigroux/hon](https://github.com/gvigroux/hon)
+5. 🗣 Commented on [#1033](https://github.com/trapexit/mergerfs/issues/1033) in [trapexit/mergerfs](https://github.com/trapexit/mergerfs)
 <!--END_SECTION:activity-->
