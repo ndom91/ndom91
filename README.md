@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7050](https://github.com/nextauthjs/next-auth/pull/7050) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#7069](https://github.com/nextauthjs/next-auth/pull/7069) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#7074](https://github.com/nextauthjs/next-auth/pull/7074) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#6436](https://github.com/nextauthjs/next-auth/issues/6436) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#6436](https://github.com/nextauthjs/next-auth/issues/6436) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❗️ Closed issue [#60](https://github.com/ndom91/react-timezone-select/issues/60) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🎉 Merged PR [#82](https://github.com/ndom91/react-timezone-select/pull/82) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#82](https://github.com/ndom91/react-timezone-select/issues/82) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🎉 Merged PR [#89](https://github.com/ndom91/react-timezone-select/pull/89) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#88](https://github.com/ndom91/react-timezone-select/pull/88) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
