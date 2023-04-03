@@ -24,7 +24,7 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
 2. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
-3. ❗️ Opened issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
-4. 🎉 Merged PR [#7130](https://github.com/nextauthjs/next-auth/pull/7130) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#87](https://github.com/ndom91/react-timezone-select/issues/87) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
+4. ❗️ Opened issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
+5. 🎉 Merged PR [#7130](https://github.com/nextauthjs/next-auth/pull/7130) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
