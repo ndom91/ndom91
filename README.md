@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7130](https://github.com/nextauthjs/next-auth/pull/7130) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#87](https://github.com/ndom91/react-timezone-select/issues/87) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#81](https://github.com/ndom91/react-timezone-select/issues/81) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. ❗️ Closed issue [#64](https://github.com/ndom91/react-timezone-select/issues/64) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#64](https://github.com/ndom91/react-timezone-select/issues/64) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. ❗️ Opened issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
+2. 🎉 Merged PR [#7130](https://github.com/nextauthjs/next-auth/pull/7130) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#87](https://github.com/ndom91/react-timezone-select/issues/87) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#81](https://github.com/ndom91/react-timezone-select/issues/81) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. ❗️ Closed issue [#64](https://github.com/ndom91/react-timezone-select/issues/64) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
