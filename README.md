@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
+1. ❗️ Closed issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
 2. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
 3. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
 4. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
-5. ❗️ Opened issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
+5. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
 <!--END_SECTION:activity-->
