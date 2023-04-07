@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#895](https://github.com/paperless-ngx/paperless-ngx/issues/895) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-2. 💪 Opened PR [#173](https://github.com/hyprwm/hyprland-wiki/pull/173) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-3. ❗️ Opened issue [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. ❗️ Closed issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
-5. 🗣 Commented on [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
+1. 🗣 Commented on [#155](https://github.com/gioxx/MarvellousSuspender/issues/155) in [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender)
+2. 🗣 Commented on [#895](https://github.com/paperless-ngx/paperless-ngx/issues/895) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+3. 💪 Opened PR [#173](https://github.com/hyprwm/hyprland-wiki/pull/173) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+4. ❗️ Opened issue [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
+5. ❗️ Closed issue [#236](https://github.com/jellyfin/jellyfin-ffmpeg/issues/236) in [jellyfin/jellyfin-ffmpeg](https://github.com/jellyfin/jellyfin-ffmpeg)
 <!--END_SECTION:activity-->
