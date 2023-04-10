@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/hyprwm/hyprland-wiki/issues/173) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-2. 🗣 Commented on [#155](https://github.com/gioxx/MarvellousSuspender/issues/155) in [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender)
-3. 🗣 Commented on [#895](https://github.com/paperless-ngx/paperless-ngx/issues/895) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-4. 💪 Opened PR [#173](https://github.com/hyprwm/hyprland-wiki/pull/173) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-5. ❗️ Opened issue [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
+1. ❗️ Opened issue [#2019](https://github.com/hyprwm/Hyprland/issues/2019) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+2. 🗣 Commented on [#173](https://github.com/hyprwm/hyprland-wiki/issues/173) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+3. 🗣 Commented on [#155](https://github.com/gioxx/MarvellousSuspender/issues/155) in [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender)
+4. 🗣 Commented on [#895](https://github.com/paperless-ngx/paperless-ngx/issues/895) in [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+5. 💪 Opened PR [#173](https://github.com/hyprwm/hyprland-wiki/pull/173) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 <!--END_SECTION:activity-->
