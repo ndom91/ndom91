@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/gvigroux/hon/issues/65) in [gvigroux/hon](https://github.com/gvigroux/hon)
-2. 🗣 Commented on [#2019](https://github.com/hyprwm/Hyprland/issues/2019) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-3. 🗣 Commented on [#2019](https://github.com/hyprwm/Hyprland/issues/2019) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 💪 Opened PR [#780](https://github.com/checkly/checklyhq.com/pull/780) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+2. 💪 Opened PR [#779](https://github.com/checkly/checklyhq.com/pull/779) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+3. 🗣 Commented on [#65](https://github.com/gvigroux/hon/issues/65) in [gvigroux/hon](https://github.com/gvigroux/hon)
 4. 🗣 Commented on [#2019](https://github.com/hyprwm/Hyprland/issues/2019) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 5. 🗣 Commented on [#2019](https://github.com/hyprwm/Hyprland/issues/2019) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
