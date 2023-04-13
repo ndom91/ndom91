@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406](https://github.com/muammar/mkchromecast/issues/406) in [muammar/mkchromecast](https://github.com/muammar/mkchromecast)
-2. 🗣 Commented on [#411](https://github.com/muammar/mkchromecast/issues/411) in [muammar/mkchromecast](https://github.com/muammar/mkchromecast)
-3. 💪 Opened PR [#780](https://github.com/checkly/checklyhq.com/pull/780) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 💪 Opened PR [#779](https://github.com/checkly/checklyhq.com/pull/779) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 🗣 Commented on [#65](https://github.com/gvigroux/hon/issues/65) in [gvigroux/hon](https://github.com/gvigroux/hon)
+1. 🗣 Commented on [#48](https://github.com/ccgauche/ytermusic/issues/48) in [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic)
+2. 💪 Opened PR [#50](https://github.com/ccgauche/ytermusic/pull/50) in [ccgauche/ytermusic](https://github.com/ccgauche/ytermusic)
+3. 🗣 Commented on [#406](https://github.com/muammar/mkchromecast/issues/406) in [muammar/mkchromecast](https://github.com/muammar/mkchromecast)
+4. 🗣 Commented on [#411](https://github.com/muammar/mkchromecast/issues/411) in [muammar/mkchromecast](https://github.com/muammar/mkchromecast)
+5. 💪 Opened PR [#780](https://github.com/checkly/checklyhq.com/pull/780) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
