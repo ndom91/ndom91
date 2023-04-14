@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/ndom91/briefkasten/issues/43) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. ❗️ Closed issue [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. 🗣 Commented on [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#49](https://github.com/ndom91/briefkasten/issues/49) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. ❗️ Closed issue [#31](https://github.com/ndom91/briefkasten/issues/31) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. ❗️ Opened issue [#15](https://github.com/segeljakt/vim-silicon/issues/15) in [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon)
+2. 🗣 Commented on [#43](https://github.com/ndom91/briefkasten/issues/43) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. ❗️ Closed issue [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#49](https://github.com/ndom91/briefkasten/issues/49) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
