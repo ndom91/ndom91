@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/gvigroux/hon/issues/65) in [gvigroux/hon](https://github.com/gvigroux/hon)
-2. ❗️ Opened issue [#15](https://github.com/segeljakt/vim-silicon/issues/15) in [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon)
-3. 🗣 Commented on [#43](https://github.com/ndom91/briefkasten/issues/43) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. ❗️ Closed issue [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. 🗣 Commented on [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#629](https://github.com/checkly/checkly-cli/issues/629) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 🗣 Commented on [#65](https://github.com/gvigroux/hon/issues/65) in [gvigroux/hon](https://github.com/gvigroux/hon)
+3. ❗️ Opened issue [#15](https://github.com/segeljakt/vim-silicon/issues/15) in [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon)
+4. 🗣 Commented on [#43](https://github.com/ndom91/briefkasten/issues/43) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. ❗️ Closed issue [#47](https://github.com/ndom91/briefkasten/issues/47) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
