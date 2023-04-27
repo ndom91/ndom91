@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ndom91/next-auth-example-sign-in-page/issues/3) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
-2. 🗣 Commented on [#3](https://github.com/Kirottu/watershot/issues/3) in [Kirottu/watershot](https://github.com/Kirottu/watershot)
-3. ❗️ Opened issue [#3](https://github.com/Kirottu/watershot/issues/3) in [Kirottu/watershot](https://github.com/Kirottu/watershot)
-4. 🗣 Commented on [#65](https://github.com/gvigroux/hon/issues/65) in [gvigroux/hon](https://github.com/gvigroux/hon)
-5. 🗣 Commented on [#629](https://github.com/checkly/checkly-cli/issues/629) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. ❌ Closed PR [#664](https://github.com/checkly/checkly-cli/pull/664) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 💪 Opened PR [#1](https://github.com/benben/checkly-cli/pull/1) in [benben/checkly-cli](https://github.com/benben/checkly-cli)
+3. 💪 Opened PR [#664](https://github.com/checkly/checkly-cli/pull/664) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+4. 🗣 Commented on [#3](https://github.com/ndom91/next-auth-example-sign-in-page/issues/3) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
+5. 🗣 Commented on [#3](https://github.com/Kirottu/watershot/issues/3) in [Kirottu/watershot](https://github.com/Kirottu/watershot)
 <!--END_SECTION:activity-->
