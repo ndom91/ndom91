@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
+1. 🗣 Commented on [#27](https://github.com/ndom91/home2021/issues/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
 2. 🗣 Commented on [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
 3. 🗣 Commented on [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. 🗣 Commented on [#4](https://github.com/ndom91/next-auth-example-sign-in-page/issues/4) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
-5. ❌ Closed PR [#664](https://github.com/checkly/checkly-cli/pull/664) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+4. 🗣 Commented on [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
+5. 🗣 Commented on [#4](https://github.com/ndom91/next-auth-example-sign-in-page/issues/4) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
 <!--END_SECTION:activity-->
