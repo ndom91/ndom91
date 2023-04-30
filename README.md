@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🎉 Merged PR [#7397](https://github.com/nextauthjs/next-auth/pull/7397) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#27](https://github.com/ndom91/home2021/issues/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. 🗣 Commented on [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
+2. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🎉 Merged PR [#7397](https://github.com/nextauthjs/next-auth/pull/7397) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#27](https://github.com/ndom91/home2021/issues/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
 5. 🗣 Commented on [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
 <!--END_SECTION:activity-->
