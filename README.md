@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
-2. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#5626](https://github.com/nextauthjs/next-auth/issues/5626) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#7252](https://github.com/supabase/supabase/issues/7252) in [supabase/supabase](https://github.com/supabase/supabase)
 3. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🎉 Merged PR [#7397](https://github.com/nextauthjs/next-auth/pull/7397) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#27](https://github.com/ndom91/home2021/issues/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
+4. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#7397](https://github.com/nextauthjs/next-auth/pull/7397) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
