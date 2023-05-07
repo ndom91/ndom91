@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7471](https://github.com/nextauthjs/next-auth/pull/7471) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#54](https://github.com/ndom91/briefkasten/issues/54) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. ❌ Closed PR [#7471](https://github.com/nextauthjs/next-auth/pull/7471) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 💪 Opened PR [#7471](https://github.com/nextauthjs/next-auth/pull/7471) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 3. 🗣 Commented on [#54](https://github.com/ndom91/briefkasten/issues/54) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🎉 Merged PR [#4](https://github.com/ndom91/next-auth-example-sign-in-page/pull/4) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
-5. ❌ Closed PR [#27](https://github.com/ndom91/home2021/pull/27) in [ndom91/home2021](https://github.com/ndom91/home2021)
+4. 🗣 Commented on [#54](https://github.com/ndom91/briefkasten/issues/54) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🎉 Merged PR [#4](https://github.com/ndom91/next-auth-example-sign-in-page/pull/4) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
 <!--END_SECTION:activity-->
