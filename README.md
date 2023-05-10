@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#800](https://github.com/checkly/checklyhq.com/pull/800) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-2. 🗣 Commented on [#800](https://github.com/checkly/checklyhq.com/issues/800) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-3. 💪 Opened PR [#800](https://github.com/checkly/checklyhq.com/pull/800) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. 🎉 Merged PR [#799](https://github.com/checkly/checklyhq.com/pull/799) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-5. 💪 Opened PR [#799](https://github.com/checkly/checklyhq.com/pull/799) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+1. 🗣 Commented on [#54](https://github.com/ndom91/briefkasten/issues/54) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🎉 Merged PR [#7504](https://github.com/nextauthjs/next-auth/pull/7504) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#7469](https://github.com/nextauthjs/next-auth/issues/7469) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. ❌ Closed PR [#800](https://github.com/checkly/checklyhq.com/pull/800) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. 🗣 Commented on [#800](https://github.com/checkly/checklyhq.com/issues/800) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
 <!--END_SECTION:activity-->
