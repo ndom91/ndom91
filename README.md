@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/checkly/og-image/pull/7) in [checkly/og-image](https://github.com/checkly/og-image)
-2. 💪 Opened PR [#7](https://github.com/checkly/og-image/pull/7) in [checkly/og-image](https://github.com/checkly/og-image)
-3. 🗣 Commented on [#803](https://github.com/checkly/checklyhq.com/issues/803) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
-4. ❗️ Reopened issue [#65](https://github.com/ndom91/react-timezone-select/issues/65) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#65](https://github.com/ndom91/react-timezone-select/issues/65) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#728](https://github.com/checkly/checkly-cli/issues/728) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 🎉 Merged PR [#7](https://github.com/checkly/og-image/pull/7) in [checkly/og-image](https://github.com/checkly/og-image)
+3. 💪 Opened PR [#7](https://github.com/checkly/og-image/pull/7) in [checkly/og-image](https://github.com/checkly/og-image)
+4. 🗣 Commented on [#803](https://github.com/checkly/checklyhq.com/issues/803) in [checkly/checklyhq.com](https://github.com/checkly/checklyhq.com)
+5. ❗️ Reopened issue [#65](https://github.com/ndom91/react-timezone-select/issues/65) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
