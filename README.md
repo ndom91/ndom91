@@ -26,5 +26,5 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 2. 🗣 Commented on [#93](https://github.com/netbox-community/Device-Type-Library-Import/issues/93) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
 3. 🗣 Commented on [#48](https://github.com/charmbracelet/mods/issues/48) in [charmbracelet/mods](https://github.com/charmbracelet/mods)
 4. 🎉 Merged PR [#97](https://github.com/ndom91/react-timezone-select/pull/97) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. ❗️ Closed issue [#65](https://github.com/ndom91/react-timezone-select/issues/65) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🔒 Closed issue [#65](https://github.com/ndom91/react-timezone-select/issues/65) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
