@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6690](https://github.com/nextauthjs/next-auth/issues/6690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#98](https://github.com/ndom91/react-timezone-select/pull/98) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 💪 Opened PR [#743](https://github.com/checkly/checkly-cli/pull/743) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-4. 🗣 Commented on [#93](https://github.com/netbox-community/Device-Type-Library-Import/issues/93) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
-5. 🗣 Commented on [#48](https://github.com/charmbracelet/mods/issues/48) in [charmbracelet/mods](https://github.com/charmbracelet/mods)
+1. 🗣 Commented on [#94](https://github.com/gvigroux/hon/issues/94) in [gvigroux/hon](https://github.com/gvigroux/hon)
+2. 🗣 Commented on [#6690](https://github.com/nextauthjs/next-auth/issues/6690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#98](https://github.com/ndom91/react-timezone-select/pull/98) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 💪 Opened PR [#743](https://github.com/checkly/checkly-cli/pull/743) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+5. 🗣 Commented on [#93](https://github.com/netbox-community/Device-Type-Library-Import/issues/93) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
 <!--END_SECTION:activity-->
