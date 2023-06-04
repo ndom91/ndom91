@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
-2. ❗ Opened issue [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
-3. 🗣 Commented on [#4](https://github.com/ryanbateman/bvg-sensor/issues/4) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
-4. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
-5. 🗣 Commented on [#94](https://github.com/gvigroux/hon/issues/94) in [gvigroux/hon](https://github.com/gvigroux/hon)
+2. 💪 Opened PR [#10](https://github.com/ryanbateman/bvg-sensor/pull/10) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+3. 🗣 Commented on [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+4. ❗ Opened issue [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+5. 🗣 Commented on [#4](https://github.com/ryanbateman/bvg-sensor/issues/4) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
 <!--END_SECTION:activity-->
