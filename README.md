@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
-2. 🗣 Commented on [#94](https://github.com/gvigroux/hon/issues/94) in [gvigroux/hon](https://github.com/gvigroux/hon)
-3. 🗣 Commented on [#6690](https://github.com/nextauthjs/next-auth/issues/6690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#98](https://github.com/ndom91/react-timezone-select/pull/98) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 💪 Opened PR [#743](https://github.com/checkly/checkly-cli/pull/743) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. 🗣 Commented on [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+2. ❗ Opened issue [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+3. 🗣 Commented on [#4](https://github.com/ryanbateman/bvg-sensor/issues/4) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+4. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
+5. 🗣 Commented on [#94](https://github.com/gvigroux/hon/issues/94) in [gvigroux/hon](https://github.com/gvigroux/hon)
 <!--END_SECTION:activity-->
