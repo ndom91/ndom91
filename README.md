@@ -23,8 +23,8 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
-2. 🗣 Commented on [#99](https://github.com/ndom91/react-timezone-select/issues/99) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
-4. 💪 Opened PR [#10](https://github.com/ryanbateman/bvg-sensor/pull/10) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
-5. 🗣 Commented on [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+2. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
+3. 🗣 Commented on [#99](https://github.com/ndom91/react-timezone-select/issues/99) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#9](https://github.com/ryanbateman/bvg-sensor/issues/9) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+5. 💪 Opened PR [#10](https://github.com/ryanbateman/bvg-sensor/pull/10) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
 <!--END_SECTION:activity-->
