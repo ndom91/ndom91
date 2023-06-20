@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2047](https://github.com/jellyfin/jellyfin-vue/issues/2047) in [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue)
-2. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 💪 Opened PR [#828](https://github.com/checkly/docs.checklyhq.com/pull/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+2. 🗣 Commented on [#2047](https://github.com/jellyfin/jellyfin-vue/issues/2047) in [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue)
 3. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
+4. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 5. 🗣 Commented on [#58](https://github.com/Andre0512/hon/issues/58) in [Andre0512/hon](https://github.com/Andre0512/hon)
 <!--END_SECTION:activity-->
