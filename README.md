@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
-2. 💪 Opened PR [#828](https://github.com/checkly/docs.checklyhq.com/pull/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-3. 🗣 Commented on [#2047](https://github.com/jellyfin/jellyfin-vue/issues/2047) in [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue)
-4. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. 🗣 Commented on [#32](https://github.com/ndom91/briefkasten/issues/32) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🔒 Reopened issue [#27](https://github.com/ndom91/briefkasten/issues/27) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#27](https://github.com/ndom91/briefkasten/issues/27) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🗣 Commented on [#1529](https://github.com/beekeeper-studio/beekeeper-studio/issues/1529) in [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
+4. 💪 Opened PR [#828](https://github.com/checkly/docs.checklyhq.com/pull/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+5. 🗣 Commented on [#2047](https://github.com/jellyfin/jellyfin-vue/issues/2047) in [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue)
 <!--END_SECTION:activity-->
