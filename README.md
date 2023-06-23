@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3261](https://github.com/Aircoookie/WLED/issues/3261) in [Aircoookie/WLED](https://github.com/Aircoookie/WLED)
-2. 🎉 Merged PR [#829](https://github.com/checkly/docs.checklyhq.com/pull/829) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-3. 💪 Opened PR [#829](https://github.com/checkly/docs.checklyhq.com/pull/829) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-4. 🗣 Commented on [#828](https://github.com/checkly/docs.checklyhq.com/issues/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-5. 🔒 Reopened issue [#27](https://github.com/ndom91/briefkasten/issues/27) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🎉 Merged PR [#828](https://github.com/checkly/docs.checklyhq.com/pull/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+2. 🗣 Commented on [#3261](https://github.com/Aircoookie/WLED/issues/3261) in [Aircoookie/WLED](https://github.com/Aircoookie/WLED)
+3. 🎉 Merged PR [#829](https://github.com/checkly/docs.checklyhq.com/pull/829) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+4. 💪 Opened PR [#829](https://github.com/checkly/docs.checklyhq.com/pull/829) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+5. 🗣 Commented on [#828](https://github.com/checkly/docs.checklyhq.com/issues/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
 <!--END_SECTION:activity-->
