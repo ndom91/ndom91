@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#834](https://github.com/checkly/docs.checklyhq.com/pull/834) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-2. 💪 Opened PR [#834](https://github.com/checkly/docs.checklyhq.com/pull/834) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-3. 🎉 Merged PR [#828](https://github.com/checkly/docs.checklyhq.com/pull/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-4. 🗣 Commented on [#3261](https://github.com/Aircoookie/WLED/issues/3261) in [Aircoookie/WLED](https://github.com/Aircoookie/WLED)
-5. 🎉 Merged PR [#829](https://github.com/checkly/docs.checklyhq.com/pull/829) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+1. 🗣 Commented on [#711](https://github.com/custom-cards/button-card/issues/711) in [custom-cards/button-card](https://github.com/custom-cards/button-card)
+2. 🎉 Merged PR [#834](https://github.com/checkly/docs.checklyhq.com/pull/834) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+3. 💪 Opened PR [#834](https://github.com/checkly/docs.checklyhq.com/pull/834) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+4. 🎉 Merged PR [#828](https://github.com/checkly/docs.checklyhq.com/pull/828) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+5. 🗣 Commented on [#3261](https://github.com/Aircoookie/WLED/issues/3261) in [Aircoookie/WLED](https://github.com/Aircoookie/WLED)
 <!--END_SECTION:activity-->
