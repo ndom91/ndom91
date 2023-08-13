@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8214](https://github.com/nextauthjs/next-auth/pull/8214#issuecomment-1663849422) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1655683112) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#2163](https://github.com/esphome/feature-requests/issues/2163#issuecomment-1640351844) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-4. 🗣 Commented on [#29](https://github.com/wez/govee-lan-hass/issues/29#issuecomment-1637208087) in [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass)
-5. 🗣 Commented on [#711](https://github.com/custom-cards/button-card/issues/711#issuecomment-1623873468) in [custom-cards/button-card](https://github.com/custom-cards/button-card)
+1. 🗣 Commented on [#29](https://github.com/wez/govee-lan-hass/issues/29#issuecomment-1676386892) in [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass)
+2. 🗣 Commented on [#8214](https://github.com/nextauthjs/next-auth/pull/8214#issuecomment-1663849422) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1655683112) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#2163](https://github.com/esphome/feature-requests/issues/2163#issuecomment-1640351844) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+5. 🗣 Commented on [#29](https://github.com/wez/govee-lan-hass/issues/29#issuecomment-1637208087) in [wez/govee-lan-hass](https://github.com/wez/govee-lan-hass)
 <!--END_SECTION:activity-->
