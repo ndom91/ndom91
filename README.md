@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1689585743) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1688441650) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1688368980) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1688356891) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. ❗ Opened issue [#1329](https://github.com/johnlindquist/kit/issues/1329) in [johnlindquist/kit](https://github.com/johnlindquist/kit)
+1. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1690216523) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1690216456) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1690216424) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1690216232) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#5](https://github.com/ndom91/react-timezone-select/pull/5#issuecomment-1690216208) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
