@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#475](https://github.com/sbdchd/neoformat/issues/475) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
-2. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1705579867) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
-3. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1703313085) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
-4. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1703311961) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
-5. ❗ Opened issue [#475](https://github.com/sbdchd/neoformat/issues/475) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
+1. 🗣 Commented on [#2](https://github.com/Theo-Steiner/theosteiner.de/issues/2#issuecomment-1712167123) in [Theo-Steiner/theosteiner.de](https://github.com/Theo-Steiner/theosteiner.de)
+2. 🔒 Closed issue [#475](https://github.com/sbdchd/neoformat/issues/475) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
+3. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1705579867) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
+4. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1703313085) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
+5. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1703311961) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
 <!--END_SECTION:activity-->
