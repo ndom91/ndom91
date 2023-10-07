@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#561](https://github.com/lukas-reineke/indent-blankline.nvim/issues/561#issuecomment-1742799836) in [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
-2. 🗣 Commented on [#2](https://github.com/Theo-Steiner/theosteiner.de/issues/2#issuecomment-1712167123) in [Theo-Steiner/theosteiner.de](https://github.com/Theo-Steiner/theosteiner.de)
-3. 🔒 Closed issue [#475](https://github.com/sbdchd/neoformat/issues/475) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
-4. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1705579867) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
-5. 🗣 Commented on [#475](https://github.com/sbdchd/neoformat/issues/475#issuecomment-1703313085) in [sbdchd/neoformat](https://github.com/sbdchd/neoformat)
+1. 🗣 Commented on [#52](https://github.com/ndom91/briefkasten/issues/52#issuecomment-1751774868) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🗣 Commented on [#52](https://github.com/ndom91/briefkasten/issues/52#issuecomment-1751774489) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🔒 Closed issue [#61](https://github.com/ndom91/briefkasten/issues/61) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#61](https://github.com/ndom91/briefkasten/issues/61#issuecomment-1751774125) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#561](https://github.com/lukas-reineke/indent-blankline.nvim/issues/561#issuecomment-1742799836) in [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
 <!--END_SECTION:activity-->
