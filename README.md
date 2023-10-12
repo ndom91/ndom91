@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/ndom91/briefkasten/issues/52#issuecomment-1751774868) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-2. 🗣 Commented on [#52](https://github.com/ndom91/briefkasten/issues/52#issuecomment-1751774489) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-3. 🔒 Closed issue [#61](https://github.com/ndom91/briefkasten/issues/61) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-4. 🗣 Commented on [#61](https://github.com/ndom91/briefkasten/issues/61#issuecomment-1751774125) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
-5. 🗣 Commented on [#561](https://github.com/lukas-reineke/indent-blankline.nvim/issues/561#issuecomment-1742799836) in [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim)
+1. 🗣 Commented on [#864](https://github.com/checkly/checkly-cli/pull/864#issuecomment-1759407234) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 💪 Opened PR [#868](https://github.com/checkly/checkly-cli/pull/868) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+3. 🗣 Commented on [#52](https://github.com/ndom91/briefkasten/issues/52#issuecomment-1751774868) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#52](https://github.com/ndom91/briefkasten/issues/52#issuecomment-1751774489) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🔒 Closed issue [#61](https://github.com/ndom91/briefkasten/issues/61) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
