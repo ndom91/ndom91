@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#925](https://github.com/checkly/docs.checklyhq.com/pull/925) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-2. 🗣 Commented on [#864](https://github.com/checkly/checkly-cli/pull/864#issuecomment-1759667493) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-3. 💪 Opened PR [#926](https://github.com/checkly/docs.checklyhq.com/pull/926) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-4. 🗣 Commented on [#864](https://github.com/checkly/checkly-cli/pull/864#issuecomment-1759407234) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-5. 💪 Opened PR [#868](https://github.com/checkly/checkly-cli/pull/868) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. 🎉 Merged PR [#868](https://github.com/checkly/checkly-cli/pull/868) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 🎉 Merged PR [#925](https://github.com/checkly/docs.checklyhq.com/pull/925) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+3. 🗣 Commented on [#864](https://github.com/checkly/checkly-cli/pull/864#issuecomment-1759667493) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+4. 💪 Opened PR [#926](https://github.com/checkly/docs.checklyhq.com/pull/926) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+5. 🗣 Commented on [#864](https://github.com/checkly/checkly-cli/pull/864#issuecomment-1759407234) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
 <!--END_SECTION:activity-->
