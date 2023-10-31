@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#268](https://github.com/Alex313031/thorium/issues/268) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
-2. 🗣 Commented on [#268](https://github.com/Alex313031/thorium/issues/268#issuecomment-1768827893) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
-3. ❗ Opened issue [#268](https://github.com/Alex313031/thorium/issues/268) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
-4. 💪 Opened PR [#9](https://github.com/checkly/og-image/pull/9) in [checkly/og-image](https://github.com/checkly/og-image)
-5. ❌ Closed PR [#864](https://github.com/checkly/checkly-cli/pull/864) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. 🎉 Merged PR [#875](https://github.com/checkly/checkly-cli/pull/875) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 💪 Opened PR [#875](https://github.com/checkly/checkly-cli/pull/875) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+3. 🔒 Closed issue [#268](https://github.com/Alex313031/thorium/issues/268) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
+4. 🗣 Commented on [#268](https://github.com/Alex313031/thorium/issues/268#issuecomment-1768827893) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
+5. ❗ Opened issue [#268](https://github.com/Alex313031/thorium/issues/268) in [Alex313031/thorium](https://github.com/Alex313031/thorium)
 <!--END_SECTION:activity-->
