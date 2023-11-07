@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.3.1](https://github.com/checkly/checkly-cli/releases/tag/v4.3.1) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-2. 🚀 Published release [v4.3.0](https://github.com/checkly/checkly-cli/releases/tag/v4.3.0) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-3. 🗣 Commented on [#4533](https://github.com/jellyfin/jellyfin-web/pull/4533#issuecomment-1794598980) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-4. 🗣 Commented on [#930](https://github.com/checkly/docs.checklyhq.com/pull/930#issuecomment-1791115877) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-5. 🎉 Merged PR [#875](https://github.com/checkly/checkly-cli/pull/875) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. 🗣 Commented on [#933](https://github.com/checkly/docs.checklyhq.com/pull/933#issuecomment-1799183486) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+2. 🚀 Published release [v4.3.1](https://github.com/checkly/checkly-cli/releases/tag/v4.3.1) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+3. 🚀 Published release [v4.3.0](https://github.com/checkly/checkly-cli/releases/tag/v4.3.0) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+4. 🗣 Commented on [#4533](https://github.com/jellyfin/jellyfin-web/pull/4533#issuecomment-1794598980) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+5. 🗣 Commented on [#930](https://github.com/checkly/docs.checklyhq.com/pull/930#issuecomment-1791115877) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
 <!--END_SECTION:activity-->
