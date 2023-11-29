@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1830688581) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
-2. 💪 Opened PR [#4](https://github.com/everywall/ladder-rules/pull/4) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
-3. 🗣 Commented on [#38](https://github.com/everywall/ladder/issues/38#issuecomment-1829573309) in [everywall/ladder](https://github.com/everywall/ladder)
-4. ❌ Closed PR [#926](https://github.com/checkly/docs.checklyhq.com/pull/926) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
-5. 🗣 Commented on [#933](https://github.com/checkly/docs.checklyhq.com/pull/933#issuecomment-1799183486) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
+1. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1832354347) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1830688581) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
+3. 💪 Opened PR [#4](https://github.com/everywall/ladder-rules/pull/4) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
+4. 🗣 Commented on [#38](https://github.com/everywall/ladder/issues/38#issuecomment-1829573309) in [everywall/ladder](https://github.com/everywall/ladder)
+5. ❌ Closed PR [#926](https://github.com/checkly/docs.checklyhq.com/pull/926) in [checkly/docs.checklyhq.com](https://github.com/checkly/docs.checklyhq.com)
 <!--END_SECTION:activity-->
