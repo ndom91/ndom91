@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838648792) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-2. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832587366) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
-3. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832583114) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
-4. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1832354347) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1830688581) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
+1. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838674533) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+2. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838648792) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+3. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832587366) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
+4. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832583114) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
+5. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1832354347) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
