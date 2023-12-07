@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#281](https://github.com/checkly/terraform-provider-checkly/pull/281#issuecomment-1838969326) in [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly)
-2. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838674533) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-3. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838648792) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
-4. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832587366) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
-5. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832583114) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
+1. ❗ Opened issue [#49](https://github.com/outfoxxed/hy3/issues/49) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
+2. 🗣 Commented on [#281](https://github.com/checkly/terraform-provider-checkly/pull/281#issuecomment-1838969326) in [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly)
+3. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838674533) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+4. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838648792) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+5. 🗣 Commented on [#4](https://github.com/everywall/ladder-rules/pull/4#issuecomment-1832587366) in [everywall/ladder-rules](https://github.com/everywall/ladder-rules)
 <!--END_SECTION:activity-->
