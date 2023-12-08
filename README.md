@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/outfoxxed/hy3/issues/49#issuecomment-1846913519) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-2. 🗣 Commented on [#37](https://github.com/Alex313031/Thorium-Android/issues/37#issuecomment-1846909383) in [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android)
-3. ❗ Opened issue [#49](https://github.com/outfoxxed/hy3/issues/49) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-4. 🗣 Commented on [#281](https://github.com/checkly/terraform-provider-checkly/pull/281#issuecomment-1838969326) in [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly)
-5. 🗣 Commented on [#900](https://github.com/checkly/checkly-cli/pull/900#issuecomment-1838674533) in [checkly/checkly-cli](https://github.com/checkly/checkly-cli)
+1. 🗣 Commented on [#2](https://github.com/outfoxxed/hy3/issues/2#issuecomment-1847061965) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
+2. 🗣 Commented on [#49](https://github.com/outfoxxed/hy3/issues/49#issuecomment-1846913519) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
+3. 🗣 Commented on [#37](https://github.com/Alex313031/Thorium-Android/issues/37#issuecomment-1846909383) in [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android)
+4. ❗ Opened issue [#49](https://github.com/outfoxxed/hy3/issues/49) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
+5. 🗣 Commented on [#281](https://github.com/checkly/terraform-provider-checkly/pull/281#issuecomment-1838969326) in [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly)
 <!--END_SECTION:activity-->
