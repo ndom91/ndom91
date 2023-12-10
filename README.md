@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/outfoxxed/hy3/issues/2#issuecomment-1847061965) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-2. 🗣 Commented on [#49](https://github.com/outfoxxed/hy3/issues/49#issuecomment-1846913519) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-3. 🗣 Commented on [#37](https://github.com/Alex313031/Thorium-Android/issues/37#issuecomment-1846909383) in [Alex313031/Thorium-Android](https://github.com/Alex313031/Thorium-Android)
-4. ❗ Opened issue [#49](https://github.com/outfoxxed/hy3/issues/49) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-5. 🗣 Commented on [#281](https://github.com/checkly/terraform-provider-checkly/pull/281#issuecomment-1838969326) in [checkly/terraform-provider-checkly](https://github.com/checkly/terraform-provider-checkly)
+1. 🗣 Commented on [#93](https://github.com/ndom91/react-timezone-select/issues/93#issuecomment-1848944980) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🔒 Closed issue [#93](https://github.com/ndom91/react-timezone-select/issues/93) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#106](https://github.com/ndom91/react-timezone-select/issues/106#issuecomment-1848944356) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🔒 Closed issue [#106](https://github.com/ndom91/react-timezone-select/issues/106) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#109](https://github.com/ndom91/react-timezone-select/pull/109) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
