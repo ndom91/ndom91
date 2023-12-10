@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/ndom91/react-timezone-select/issues/93#issuecomment-1848944980) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🔒 Closed issue [#93](https://github.com/ndom91/react-timezone-select/issues/93) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#106](https://github.com/ndom91/react-timezone-select/issues/106#issuecomment-1848944356) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🔒 Closed issue [#106](https://github.com/ndom91/react-timezone-select/issues/106) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🎉 Merged PR [#109](https://github.com/ndom91/react-timezone-select/pull/109) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#71](https://github.com/ndom91/react-timezone-select/issues/71#issuecomment-1848966665) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#86](https://github.com/ndom91/react-timezone-select/issues/86#issuecomment-1848965778) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🔒 Closed issue [#87](https://github.com/ndom91/react-timezone-select/issues/87) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#93](https://github.com/ndom91/react-timezone-select/issues/93#issuecomment-1848944980) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🔒 Closed issue [#93](https://github.com/ndom91/react-timezone-select/issues/93) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
