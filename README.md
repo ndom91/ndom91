@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/ndom91/react-timezone-select/pull/110) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. ❌ Closed PR [#102](https://github.com/ndom91/react-timezone-select/pull/102) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. ❌ Closed PR [#107](https://github.com/ndom91/react-timezone-select/pull/107) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. ❌ Closed PR [#105](https://github.com/ndom91/react-timezone-select/pull/105) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. ❌ Closed PR [#104](https://github.com/ndom91/react-timezone-select/pull/104) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🚀 Published release [Code cleanup and remove `maxAbbrLength` prop](https://github.com/ndom91/react-timezone-select/releases/tag/v3.0.2) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🎉 Merged PR [#110](https://github.com/ndom91/react-timezone-select/pull/110) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. ❌ Closed PR [#102](https://github.com/ndom91/react-timezone-select/pull/102) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. ❌ Closed PR [#107](https://github.com/ndom91/react-timezone-select/pull/107) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. ❌ Closed PR [#105](https://github.com/ndom91/react-timezone-select/pull/105) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
