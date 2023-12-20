@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#279](https://github.com/wukko/cobalt/pull/279#issuecomment-1862794868) in [wukko/cobalt](https://github.com/wukko/cobalt)
-2. 🗣 Commented on [#279](https://github.com/wukko/cobalt/pull/279#issuecomment-1862793016) in [wukko/cobalt](https://github.com/wukko/cobalt)
-3. 💪 Opened PR [#279](https://github.com/wukko/cobalt/pull/279) in [wukko/cobalt](https://github.com/wukko/cobalt)
-4. ❗ Opened issue [#40](https://github.com/hapakaien/archlinux-package-action/issues/40) in [hapakaien/archlinux-package-action](https://github.com/hapakaien/archlinux-package-action)
-5. 🚀 Published release [Code cleanup and remove `maxAbbrLength` prop](https://github.com/ndom91/react-timezone-select/releases/tag/v3.0.2) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85#issuecomment-1864345880) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#279](https://github.com/wukko/cobalt/pull/279#issuecomment-1862794868) in [wukko/cobalt](https://github.com/wukko/cobalt)
+3. 🗣 Commented on [#279](https://github.com/wukko/cobalt/pull/279#issuecomment-1862793016) in [wukko/cobalt](https://github.com/wukko/cobalt)
+4. 💪 Opened PR [#279](https://github.com/wukko/cobalt/pull/279) in [wukko/cobalt](https://github.com/wukko/cobalt)
+5. ❗ Opened issue [#40](https://github.com/hapakaien/archlinux-package-action/issues/40) in [hapakaien/archlinux-package-action](https://github.com/hapakaien/archlinux-package-action)
 <!--END_SECTION:activity-->
