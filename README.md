@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#801](https://github.com/akinsho/bufferline.nvim/issues/801#issuecomment-1872175598) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-2. 🗣 Commented on [#801](https://github.com/akinsho/bufferline.nvim/issues/801#issuecomment-1872130202) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-3. 💪 Opened PR [#1](https://github.com/ubbe-xyz/nextra-docs/pull/1) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-4. 🗣 Commented on [#8810](https://github.com/nextauthjs/next-auth/pull/8810#issuecomment-1871975613) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#9177](https://github.com/nextauthjs/next-auth/issues/9177#issuecomment-1871952207) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❌ Closed PR [#5799](https://github.com/nextauthjs/next-auth/pull/5799) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#1](https://github.com/ubbe-xyz/nextra-docs/pull/1) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 🗣 Commented on [#801](https://github.com/akinsho/bufferline.nvim/issues/801#issuecomment-1872175598) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+4. 🗣 Commented on [#801](https://github.com/akinsho/bufferline.nvim/issues/801#issuecomment-1872130202) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+5. 💪 Opened PR [#1](https://github.com/ubbe-xyz/nextra-docs/pull/1) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
 <!--END_SECTION:activity-->
