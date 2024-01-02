@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7124](https://github.com/nextauthjs/next-auth/pull/7124#issuecomment-1874131457) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#119](https://github.com/netbox-community/Device-Type-Library-Import/issues/119#issuecomment-1874100028) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
-3. 💪 Opened PR [#121](https://github.com/netbox-community/Device-Type-Library-Import/pull/121) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
-4. 🎉 Merged PR [#9516](https://github.com/nextauthjs/next-auth/pull/9516) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#9514](https://github.com/nextauthjs/next-auth/pull/9514#issuecomment-1873684900) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#9326](https://github.com/nextauthjs/next-auth/pull/9326#issuecomment-1874161376) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#7124](https://github.com/nextauthjs/next-auth/pull/7124#issuecomment-1874131457) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#119](https://github.com/netbox-community/Device-Type-Library-Import/issues/119#issuecomment-1874100028) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
+4. 💪 Opened PR [#121](https://github.com/netbox-community/Device-Type-Library-Import/pull/121) in [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import)
+5. 🎉 Merged PR [#9516](https://github.com/nextauthjs/next-auth/pull/9516) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
