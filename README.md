@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer. During the day I'm a f
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ubbe-xyz/nextra-docs/pull/3#issuecomment-1879698620) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-2. 🗣 Commented on [#9560](https://github.com/nextauthjs/next-auth/pull/9560#issuecomment-1879685362) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#9560](https://github.com/nextauthjs/next-auth/pull/9560#issuecomment-1879685277) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#3](https://github.com/ubbe-xyz/nextra-docs/pull/3) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. 🗣 Commented on [#9560](https://github.com/nextauthjs/next-auth/pull/9560#issuecomment-1879662535) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#9566](https://github.com/nextauthjs/next-auth/pull/9566) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#3](https://github.com/ubbe-xyz/nextra-docs/pull/3#issuecomment-1879698620) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 🗣 Commented on [#9560](https://github.com/nextauthjs/next-auth/pull/9560#issuecomment-1879685362) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9560](https://github.com/nextauthjs/next-auth/pull/9560#issuecomment-1879685277) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#3](https://github.com/ubbe-xyz/nextra-docs/pull/3) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
 <!--END_SECTION:activity-->
