@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7550](https://github.com/prisma/prisma/issues/7550#issuecomment-1880917617) in [prisma/prisma](https://github.com/prisma/prisma)
-2. 🗣 Commented on [#9566](https://github.com/nextauthjs/next-auth/pull/9566#issuecomment-1880062233) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#9567](https://github.com/nextauthjs/next-auth/pull/9567#issuecomment-1879903744) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#9567](https://github.com/nextauthjs/next-auth/pull/9567) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#9566](https://github.com/nextauthjs/next-auth/pull/9566) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#4](https://github.com/ubbe-xyz/nextra-docs/pull/4) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+2. 🗣 Commented on [#7550](https://github.com/prisma/prisma/issues/7550#issuecomment-1880917617) in [prisma/prisma](https://github.com/prisma/prisma)
+3. 🗣 Commented on [#9566](https://github.com/nextauthjs/next-auth/pull/9566#issuecomment-1880062233) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9567](https://github.com/nextauthjs/next-auth/pull/9567#issuecomment-1879903744) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#9567](https://github.com/nextauthjs/next-auth/pull/9567) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
