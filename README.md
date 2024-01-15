@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/svecosystem/svelte-interactions/pull/8) in [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions)
-2. 💪 Opened PR [#5](https://github.com/ubbe-xyz/nextra-docs/pull/5) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1891864096) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#9642](https://github.com/nextauthjs/next-auth/pull/9642) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#9570](https://github.com/nextauthjs/next-auth/pull/9570) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#113](https://github.com/ndom91/react-timezone-select/pull/113) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 💪 Opened PR [#8](https://github.com/svecosystem/svelte-interactions/pull/8) in [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions)
+3. 💪 Opened PR [#5](https://github.com/ubbe-xyz/nextra-docs/pull/5) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+4. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1891864096) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#9642](https://github.com/nextauthjs/next-auth/pull/9642) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
