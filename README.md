@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892646153) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892621150) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892619823) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🚀 Published release [v3.2.0](https://github.com/ndom91/react-timezone-select/releases/tag/v3.2.0) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#113](https://github.com/ndom91/react-timezone-select/pull/113#issuecomment-1892288589) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#8](https://github.com/svecosystem/svelte-interactions/pull/8#issuecomment-1893304215) in [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions)
+2. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892646153) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892621150) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892619823) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🚀 Published release [v3.2.0](https://github.com/ndom91/react-timezone-select/releases/tag/v3.2.0) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
