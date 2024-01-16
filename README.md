@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#281](https://github.com/janosh/svelte-multiselect/issues/281) in [janosh/svelte-multiselect](https://github.com/janosh/svelte-multiselect)
-2. 🗣 Commented on [#8](https://github.com/svecosystem/svelte-interactions/pull/8#issuecomment-1893304215) in [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions)
-3. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892646153) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892621150) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892619823) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#5](https://github.com/ubbe-xyz/nextra-docs/pull/5) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+2. ❗ Opened issue [#281](https://github.com/janosh/svelte-multiselect/issues/281) in [janosh/svelte-multiselect](https://github.com/janosh/svelte-multiselect)
+3. 🗣 Commented on [#8](https://github.com/svecosystem/svelte-interactions/pull/8#issuecomment-1893304215) in [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions)
+4. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892646153) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-1892621150) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
