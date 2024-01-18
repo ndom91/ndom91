@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ubbe-xyz/nextra-docs/pull/12) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-2. 💪 Opened PR [#13](https://github.com/ubbe-xyz/nextra-docs/pull/13) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 💪 Opened PR [#12](https://github.com/ubbe-xyz/nextra-docs/pull/12) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-4. 🎉 Merged PR [#8](https://github.com/ubbe-xyz/nextra-docs/pull/8) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. 🗣 Commented on [#8](https://github.com/ubbe-xyz/nextra-docs/pull/8#issuecomment-1897345342) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+1. 🗣 Commented on [#9677](https://github.com/nextauthjs/next-auth/pull/9677#issuecomment-1899126937) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#12](https://github.com/ubbe-xyz/nextra-docs/pull/12) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 💪 Opened PR [#13](https://github.com/ubbe-xyz/nextra-docs/pull/13) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+4. 💪 Opened PR [#12](https://github.com/ubbe-xyz/nextra-docs/pull/12) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+5. 🎉 Merged PR [#8](https://github.com/ubbe-xyz/nextra-docs/pull/8) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
 <!--END_SECTION:activity-->
