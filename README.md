@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9497](https://github.com/nextauthjs/next-auth/pull/9497#issuecomment-1902169760) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#15](https://github.com/ubbe-xyz/nextra-docs/pull/15) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 💪 Opened PR [#29](https://github.com/ndom91/home2021/pull/29) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. 🗣 Commented on [#15](https://github.com/ubbe-xyz/nextra-docs/pull/15#issuecomment-1899514473) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. 🗣 Commented on [#15](https://github.com/ubbe-xyz/nextra-docs/pull/15#issuecomment-1899501307) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+1. ❌ Closed PR [#33](https://github.com/ndom91/home2021/pull/33) in [ndom91/home2021](https://github.com/ndom91/home2021)
+2. ❌ Closed PR [#32](https://github.com/ndom91/home2021/pull/32) in [ndom91/home2021](https://github.com/ndom91/home2021)
+3. ❌ Closed PR [#31](https://github.com/ndom91/home2021/pull/31) in [ndom91/home2021](https://github.com/ndom91/home2021)
+4. ❌ Closed PR [#30](https://github.com/ndom91/home2021/pull/30) in [ndom91/home2021](https://github.com/ndom91/home2021)
+5. 🔒 Closed issue [#28](https://github.com/ndom91/home2021/issues/28) in [ndom91/home2021](https://github.com/ndom91/home2021)
 <!--END_SECTION:activity-->
