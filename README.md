@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/ubbe-xyz/nextra-docs/pull/17) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-2. 🎉 Merged PR [#16](https://github.com/ubbe-xyz/nextra-docs/pull/16) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 💪 Opened PR [#9713](https://github.com/nextauthjs/next-auth/pull/9713) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#117](https://github.com/ndom91/react-timezone-select/issues/117#issuecomment-1903628151) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 💪 Opened PR [#16](https://github.com/ubbe-xyz/nextra-docs/pull/16) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+1. ❗ Opened issue [#4836](https://github.com/wez/wezterm/issues/4836) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#14](https://github.com/ubbe-xyz/nextra-docs/pull/14#issuecomment-1903871230) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 💪 Opened PR [#17](https://github.com/ubbe-xyz/nextra-docs/pull/17) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+4. 🎉 Merged PR [#16](https://github.com/ubbe-xyz/nextra-docs/pull/16) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+5. 💪 Opened PR [#9713](https://github.com/nextauthjs/next-auth/pull/9713) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
