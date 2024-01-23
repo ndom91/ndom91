@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/ubbe-xyz/nextra-docs/pull/19#issuecomment-1905173015) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-2. 💪 Opened PR [#1](https://github.com/ndom91/sveltekasten/pull/1) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
-3. 🗣 Commented on [#117](https://github.com/ndom91/react-timezone-select/issues/117#issuecomment-1905107876) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🚀 Published release [v3.2.3](https://github.com/ndom91/react-timezone-select/releases/tag/v3.2.3) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#8378](https://github.com/oven-sh/bun/pull/8378#issuecomment-1905077805) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🔒 Closed issue [#117](https://github.com/ndom91/react-timezone-select/issues/117) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#19](https://github.com/ubbe-xyz/nextra-docs/pull/19#issuecomment-1905173015) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 💪 Opened PR [#1](https://github.com/ndom91/sveltekasten/pull/1) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+4. 🗣 Commented on [#117](https://github.com/ndom91/react-timezone-select/issues/117#issuecomment-1905107876) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🚀 Published release [v3.2.3](https://github.com/ndom91/react-timezone-select/releases/tag/v3.2.3) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
