@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9817](https://github.com/nextauthjs/next-auth/pull/9817) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#30](https://github.com/ubbe-xyz/nextra-docs/pull/30) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 💪 Opened PR [#29](https://github.com/ubbe-xyz/nextra-docs/pull/29) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-4. 💪 Opened PR [#28](https://github.com/ubbe-xyz/nextra-docs/pull/28) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. 🗣 Commented on [#8808](https://github.com/nextauthjs/next-auth/pull/8808#issuecomment-1911265579) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#9714](https://github.com/nextauthjs/next-auth/pull/9714#issuecomment-1912371988) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#2](https://github.com/ndom91/sveltekasten/pull/2) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+3. 💪 Opened PR [#2](https://github.com/ndom91/sveltekasten/pull/2) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+4. 🎉 Merged PR [#1](https://github.com/ndom91/sveltekasten/pull/1) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+5. 💪 Opened PR [#9817](https://github.com/nextauthjs/next-auth/pull/9817) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
