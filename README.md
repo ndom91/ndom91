@@ -22,9 +22,9 @@ I'm Nico Domino, command-line warrior and open sourcerer - I love working on sof
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/ubbe-xyz/nextra-docs/pull/35) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-2. 💪 Opened PR [#35](https://github.com/ubbe-xyz/nextra-docs/pull/35) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 🗣 Commented on [#28](https://github.com/ubbe-xyz/nextra-docs/pull/28#issuecomment-1913386096) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-4. 🎉 Merged PR [#30](https://github.com/ubbe-xyz/nextra-docs/pull/30) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. 🗣 Commented on [#30](https://github.com/ubbe-xyz/nextra-docs/pull/30#issuecomment-1913125549) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+1. 💪 Opened PR [#37](https://github.com/ubbe-xyz/nextra-docs/pull/37) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+2. 🎉 Merged PR [#35](https://github.com/ubbe-xyz/nextra-docs/pull/35) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 💪 Opened PR [#35](https://github.com/ubbe-xyz/nextra-docs/pull/35) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+4. 🗣 Commented on [#28](https://github.com/ubbe-xyz/nextra-docs/pull/28#issuecomment-1913386096) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+5. 🎉 Merged PR [#30](https://github.com/ubbe-xyz/nextra-docs/pull/30) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
 <!--END_SECTION:activity-->
