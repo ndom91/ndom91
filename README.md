@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10991](https://github.com/tailscale/tailscale/issues/10991) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-2. 🗣 Commented on [#41](https://github.com/ubbe-xyz/nextra-docs/pull/41#issuecomment-1919227162) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 💪 Opened PR [#41](https://github.com/ubbe-xyz/nextra-docs/pull/41) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-4. ❌ Closed PR [#40](https://github.com/ubbe-xyz/nextra-docs/pull/40) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. 🗣 Commented on [#40](https://github.com/ubbe-xyz/nextra-docs/pull/40#issuecomment-1919085415) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+1. 🗣 Commented on [#39](https://github.com/ubbe-xyz/nextra-docs/pull/39#issuecomment-1921733709) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+2. ❗ Opened issue [#10991](https://github.com/tailscale/tailscale/issues/10991) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+3. 🗣 Commented on [#41](https://github.com/ubbe-xyz/nextra-docs/pull/41#issuecomment-1919227162) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+4. 💪 Opened PR [#41](https://github.com/ubbe-xyz/nextra-docs/pull/41) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+5. ❌ Closed PR [#40](https://github.com/ubbe-xyz/nextra-docs/pull/40) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
 <!--END_SECTION:activity-->
