@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/ubbe-xyz/nextra-docs/pull/46) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-2. 💪 Opened PR [#46](https://github.com/ubbe-xyz/nextra-docs/pull/46) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-3. 💪 Opened PR [#45](https://github.com/ubbe-xyz/nextra-docs/pull/45) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-4. 🗣 Commented on [#39](https://github.com/ubbe-xyz/nextra-docs/pull/39#issuecomment-1921733709) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
-5. ❗ Opened issue [#10991](https://github.com/tailscale/tailscale/issues/10991) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+1. 💪 Opened PR [#47](https://github.com/ubbe-xyz/nextra-docs/pull/47) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+2. ❌ Closed PR [#46](https://github.com/ubbe-xyz/nextra-docs/pull/46) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+3. 💪 Opened PR [#46](https://github.com/ubbe-xyz/nextra-docs/pull/46) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+4. 💪 Opened PR [#45](https://github.com/ubbe-xyz/nextra-docs/pull/45) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
+5. 🗣 Commented on [#39](https://github.com/ubbe-xyz/nextra-docs/pull/39#issuecomment-1921733709) in [ubbe-xyz/nextra-docs](https://github.com/ubbe-xyz/nextra-docs)
 <!--END_SECTION:activity-->
