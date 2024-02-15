@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10015](https://github.com/nextauthjs/next-auth/pull/10015) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#10033](https://github.com/nextauthjs/next-auth/pull/10033) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#10000](https://github.com/nextauthjs/next-auth/pull/10000#issuecomment-1945467147) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#10000](https://github.com/nextauthjs/next-auth/pull/10000#issuecomment-1944368904) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. ❌ Closed PR [#10028](https://github.com/nextauthjs/next-auth/pull/10028) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#9992](https://github.com/nextauthjs/next-auth/issues/9992#issuecomment-1945741364) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 💪 Opened PR [#1](https://github.com/aspen-cloud/next-auth/pull/1) in [aspen-cloud/next-auth](https://github.com/aspen-cloud/next-auth)
+3. 🗣 Commented on [#9978](https://github.com/nextauthjs/next-auth/pull/9978#issuecomment-1945704644) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🔒 Closed issue [#9847](https://github.com/nextauthjs/next-auth/issues/9847) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#10019](https://github.com/nextauthjs/next-auth/pull/10019) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
