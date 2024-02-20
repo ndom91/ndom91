@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#58](https://github.com/huntabyte/cmdk-sv/issues/58) in [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv)
-2. 🗣 Commented on [#10492](https://github.com/sveltejs/svelte/issues/10492#issuecomment-1954650335) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-3. 🗣 Commented on [#9849](https://github.com/nextauthjs/next-auth/pull/9849#issuecomment-1952240354) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#10068](https://github.com/nextauthjs/next-auth/pull/10068) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#10068](https://github.com/nextauthjs/next-auth/pull/10068) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🔒 Closed issue [#58](https://github.com/huntabyte/cmdk-sv/issues/58) in [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv)
+2. ❗ Opened issue [#58](https://github.com/huntabyte/cmdk-sv/issues/58) in [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv)
+3. 🗣 Commented on [#10492](https://github.com/sveltejs/svelte/issues/10492#issuecomment-1954650335) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+4. 🗣 Commented on [#9849](https://github.com/nextauthjs/next-auth/pull/9849#issuecomment-1952240354) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#10068](https://github.com/nextauthjs/next-auth/pull/10068) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
