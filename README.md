@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10580](https://github.com/sveltejs/svelte/issues/10580#issuecomment-1955228861) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-2. 🔒 Closed issue [#10580](https://github.com/sveltejs/svelte/issues/10580) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-3. ❗ Opened issue [#10580](https://github.com/sveltejs/svelte/issues/10580) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-4. 🔒 Closed issue [#58](https://github.com/huntabyte/cmdk-sv/issues/58) in [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv)
-5. ❗ Opened issue [#58](https://github.com/huntabyte/cmdk-sv/issues/58) in [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv)
+1. 🗣 Commented on [#58](https://github.com/huntabyte/cmdk-sv/issues/58#issuecomment-1955231121) in [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv)
+2. 🗣 Commented on [#10492](https://github.com/sveltejs/svelte/issues/10492#issuecomment-1955230854) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+3. 🗣 Commented on [#10580](https://github.com/sveltejs/svelte/issues/10580#issuecomment-1955228861) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+4. 🔒 Closed issue [#10580](https://github.com/sveltejs/svelte/issues/10580) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+5. ❗ Opened issue [#10580](https://github.com/sveltejs/svelte/issues/10580) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
 <!--END_SECTION:activity-->
