@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10108](https://github.com/nextauthjs/next-auth/pull/10108) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#10118](https://github.com/nextauthjs/next-auth/pull/10118) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#1979](https://github.com/InfiniTimeOrg/InfiniTime/issues/1979#issuecomment-1961180196) in [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
-4. 🗣 Commented on [#356](https://github.com/ciscoheat/sveltekit-superforms/issues/356#issuecomment-1959693917) in [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms)
-5. 💪 Opened PR [#44](https://github.com/johannschopplich/unlazy/pull/44) in [johannschopplich/unlazy](https://github.com/johannschopplich/unlazy)
+1. 🗣 Commented on [#10117](https://github.com/nextauthjs/next-auth/pull/10117#issuecomment-1962427988) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#10118](https://github.com/nextauthjs/next-auth/pull/10118#issuecomment-1962425335) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#10108](https://github.com/nextauthjs/next-auth/pull/10108) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 💪 Opened PR [#10118](https://github.com/nextauthjs/next-auth/pull/10118) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#1979](https://github.com/InfiniTimeOrg/InfiniTime/issues/1979#issuecomment-1961180196) in [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
 <!--END_SECTION:activity-->
