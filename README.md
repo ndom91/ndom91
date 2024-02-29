@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10117](https://github.com/nextauthjs/next-auth/pull/10117#issuecomment-1971198103) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#15](https://github.com/segeljakt/vim-silicon/issues/15#issuecomment-1971184474) in [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon)
-3. 🗣 Commented on [#8865](https://github.com/nextauthjs/next-auth/pull/8865#issuecomment-1971150810) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#8865](https://github.com/nextauthjs/next-auth/pull/8865#issuecomment-1971143608) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#10154](https://github.com/nextauthjs/next-auth/pull/10154#issuecomment-1970973678) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#10164](https://github.com/nextauthjs/next-auth/pull/10164) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 💪 Opened PR [#10164](https://github.com/nextauthjs/next-auth/pull/10164) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#10117](https://github.com/nextauthjs/next-auth/pull/10117#issuecomment-1971198103) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#15](https://github.com/segeljakt/vim-silicon/issues/15#issuecomment-1971184474) in [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon)
+5. 🗣 Commented on [#8865](https://github.com/nextauthjs/next-auth/pull/8865#issuecomment-1971150810) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
