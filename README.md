@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10216](https://github.com/nextauthjs/next-auth/pull/10216) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#10216](https://github.com/nextauthjs/next-auth/pull/10216) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. ❗ Opened issue [#2](https://github.com/ndom91/svelte-infinite/issues/2) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-4. 🗣 Commented on [#10094](https://github.com/nextauthjs/next-auth/pull/10094#issuecomment-1976554368) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1975939669) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-1977019831) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#10200](https://github.com/nextauthjs/next-auth/pull/10200) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#9836](https://github.com/nextauthjs/next-auth/issues/9836#issuecomment-1977015067) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#10216](https://github.com/nextauthjs/next-auth/pull/10216) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#10216](https://github.com/nextauthjs/next-auth/pull/10216) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
