@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/ndom91/svelte-infinite/releases/tag/v0.1.1) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-2. 🎉 Merged PR [#10205](https://github.com/nextauthjs/next-auth/pull/10205) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 💪 Opened PR [#10205](https://github.com/nextauthjs/next-auth/pull/10205) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. ❗ Opened issue [#1](https://github.com/ndom91/svelte-infinite/issues/1) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-5. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-1975187056) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#101](https://github.com/ndom91/react-timezone-select/issues/101#issuecomment-1975939669) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🚀 Published release [v0.1.1](https://github.com/ndom91/svelte-infinite/releases/tag/v0.1.1) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+3. 🎉 Merged PR [#10205](https://github.com/nextauthjs/next-auth/pull/10205) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 💪 Opened PR [#10205](https://github.com/nextauthjs/next-auth/pull/10205) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. ❗ Opened issue [#1](https://github.com/ndom91/svelte-infinite/issues/1) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
