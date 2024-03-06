@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10081](https://github.com/nextauthjs/next-auth/issues/10081#issuecomment-1980078210) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ❌ Closed PR [#10227](https://github.com/nextauthjs/next-auth/pull/10227) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#10227](https://github.com/nextauthjs/next-auth/pull/10227#issuecomment-1979964527) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#10081](https://github.com/nextauthjs/next-auth/issues/10081#issuecomment-1979962879) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#10225](https://github.com/nextauthjs/next-auth/pull/10225) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#16](https://github.com/rocketlaunchr/awesome-svelte/pull/16) in [rocketlaunchr/awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte)
+2. 💪 Opened PR [#595](https://github.com/svelte-society/sveltesociety.dev/pull/595) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 🗣 Commented on [#10081](https://github.com/nextauthjs/next-auth/issues/10081#issuecomment-1980078210) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. ❌ Closed PR [#10227](https://github.com/nextauthjs/next-auth/pull/10227) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#10227](https://github.com/nextauthjs/next-auth/pull/10227#issuecomment-1979964527) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
