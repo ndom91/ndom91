@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8865](https://github.com/nextauthjs/next-auth/pull/8865#issuecomment-1983463258) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#10239](https://github.com/nextauthjs/next-auth/pull/10239) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#121](https://github.com/ndom91/react-timezone-select/issues/121#issuecomment-1983106118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-1981194584) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#10231](https://github.com/nextauthjs/next-auth/pull/10231) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❌ Closed PR [#10](https://github.com/ryanbateman/bvg-sensor/pull/10) in [ryanbateman/bvg-sensor](https://github.com/ryanbateman/bvg-sensor)
+2. 🗣 Commented on [#8865](https://github.com/nextauthjs/next-auth/pull/8865#issuecomment-1983463258) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 💪 Opened PR [#10239](https://github.com/nextauthjs/next-auth/pull/10239) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#121](https://github.com/ndom91/react-timezone-select/issues/121#issuecomment-1983106118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-1981194584) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
