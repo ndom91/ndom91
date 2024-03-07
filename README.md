@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/ndom91/react-timezone-select/issues/121#issuecomment-1983106118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-1981194584) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 💪 Opened PR [#10231](https://github.com/nextauthjs/next-auth/pull/10231) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#3](https://github.com/ndom91/svelte-infinite/pull/3) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-5. 💪 Opened PR [#3](https://github.com/ndom91/svelte-infinite/pull/3) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+1. 💪 Opened PR [#10239](https://github.com/nextauthjs/next-auth/pull/10239) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#121](https://github.com/ndom91/react-timezone-select/issues/121#issuecomment-1983106118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-1981194584) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 💪 Opened PR [#10231](https://github.com/nextauthjs/next-auth/pull/10231) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#3](https://github.com/ndom91/svelte-infinite/pull/3) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
