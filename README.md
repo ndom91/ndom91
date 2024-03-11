@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7189](https://github.com/opnsense/core/issues/7189#issuecomment-1988511584) in [opnsense/core](https://github.com/opnsense/core)
-2. 🗣 Commented on [#399](https://github.com/ErikReider/SwayNotificationCenter/issues/399#issuecomment-1987281077) in [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
-3. ❗ Opened issue [#399](https://github.com/ErikReider/SwayNotificationCenter/issues/399) in [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
-4. 🗣 Commented on [#1979](https://github.com/InfiniTimeOrg/InfiniTime/issues/1979#issuecomment-1987166312) in [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
-5. 🗣 Commented on [#67576](https://github.com/NixOS/nixpkgs/pull/67576#issuecomment-1986846372) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#9856](https://github.com/nextauthjs/next-auth/pull/9856#issuecomment-1988844710) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#7189](https://github.com/opnsense/core/issues/7189#issuecomment-1988511584) in [opnsense/core](https://github.com/opnsense/core)
+3. 🗣 Commented on [#399](https://github.com/ErikReider/SwayNotificationCenter/issues/399#issuecomment-1987281077) in [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
+4. ❗ Opened issue [#399](https://github.com/ErikReider/SwayNotificationCenter/issues/399) in [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
+5. 🗣 Commented on [#1979](https://github.com/InfiniTimeOrg/InfiniTime/issues/1979#issuecomment-1987166312) in [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
 <!--END_SECTION:activity-->
