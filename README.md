@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10285](https://github.com/nextauthjs/next-auth/pull/10285#issuecomment-1991979898) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🚀 Published release [v0.1.0](https://github.com/ndom91/rose-pine-cursor-hyprcursor/releases/tag/v0.1.0) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
-3. 🗣 Commented on [#9856](https://github.com/nextauthjs/next-auth/pull/9856#issuecomment-1988844710) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#7189](https://github.com/opnsense/core/issues/7189#issuecomment-1988511584) in [opnsense/core](https://github.com/opnsense/core)
-5. 🗣 Commented on [#399](https://github.com/ErikReider/SwayNotificationCenter/issues/399#issuecomment-1987281077) in [ErikReider/SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter)
+1. 🚀 Published release [v0.2.0](https://github.com/ndom91/rose-pine-cursor-hyprcursor/releases/tag/v0.2.0) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
+2. 🗣 Commented on [#10285](https://github.com/nextauthjs/next-auth/pull/10285#issuecomment-1991979898) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🚀 Published release [v0.1.0](https://github.com/ndom91/rose-pine-cursor-hyprcursor/releases/tag/v0.1.0) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
+4. 🗣 Commented on [#9856](https://github.com/nextauthjs/next-auth/pull/9856#issuecomment-1988844710) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#7189](https://github.com/opnsense/core/issues/7189#issuecomment-1988511584) in [opnsense/core](https://github.com/opnsense/core)
 <!--END_SECTION:activity-->
