@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-1997134700) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#9856](https://github.com/nextauthjs/next-auth/pull/9856#issuecomment-1997128535) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#1](https://github.com/ndom91/rose-pine-cursor-hyprcursor/issues/1#issuecomment-1997112051) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
-4. 💪 Opened PR [#10305](https://github.com/nextauthjs/next-auth/pull/10305) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#9253](https://github.com/nextauthjs/next-auth/issues/9253#issuecomment-1995820413) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#1](https://github.com/ndom91/rose-pine-cursor-hyprcursor/issues/1#issuecomment-1997438029) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
+2. 🔒 Closed issue [#1](https://github.com/ndom91/rose-pine-cursor-hyprcursor/issues/1) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
+3. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-1997134700) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9856](https://github.com/nextauthjs/next-auth/pull/9856#issuecomment-1997128535) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#1](https://github.com/ndom91/rose-pine-cursor-hyprcursor/issues/1#issuecomment-1997112051) in [ndom91/rose-pine-cursor-hyprcursor](https://github.com/ndom91/rose-pine-cursor-hyprcursor)
 <!--END_SECTION:activity-->
