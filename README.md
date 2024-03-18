@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.1](https://github.com/ndom91/rose-pine-hyprcursor/releases/tag/v0.3.1) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-2. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2002597462) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-3. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2002399717) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
-4. 🗣 Commented on [#10339](https://github.com/nextauthjs/next-auth/pull/10339#issuecomment-2002294595) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#10117](https://github.com/nextauthjs/next-auth/pull/10117#issuecomment-2002039983) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#3](https://github.com/ndom91/sveltekasten/pull/3) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+2. 💪 Opened PR [#3](https://github.com/ndom91/sveltekasten/pull/3) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+3. 🚀 Published release [v0.3.1](https://github.com/ndom91/rose-pine-hyprcursor/releases/tag/v0.3.1) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+4. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2002597462) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+5. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2002399717) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
 <!--END_SECTION:activity-->
