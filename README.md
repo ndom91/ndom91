@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/Mosc/Glider/issues/68#issuecomment-2007661004) in [Mosc/Glider](https://github.com/Mosc/Glider)
-2. 🎉 Merged PR [#10329](https://github.com/nextauthjs/next-auth/pull/10329) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-2004555252) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#3](https://github.com/ndom91/sveltekasten/pull/3) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
-5. 💪 Opened PR [#3](https://github.com/ndom91/sveltekasten/pull/3) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+1. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-2007976099) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#68](https://github.com/Mosc/Glider/issues/68#issuecomment-2007661004) in [Mosc/Glider](https://github.com/Mosc/Glider)
+3. 🎉 Merged PR [#10329](https://github.com/nextauthjs/next-auth/pull/10329) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-2004555252) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#3](https://github.com/ndom91/sveltekasten/pull/3) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
 <!--END_SECTION:activity-->
