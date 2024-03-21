@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10369](https://github.com/nextauthjs/next-auth/pull/10369) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#10346](https://github.com/nextauthjs/next-auth/issues/10346#issuecomment-2010197726) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🔒 Closed issue [#10346](https://github.com/nextauthjs/next-auth/issues/10346) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-2007976099) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#68](https://github.com/Mosc/Glider/issues/68#issuecomment-2007661004) in [Mosc/Glider](https://github.com/Mosc/Glider)
+1. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2012218517) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
+2. ❌ Closed PR [#10369](https://github.com/nextauthjs/next-auth/pull/10369) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#10346](https://github.com/nextauthjs/next-auth/issues/10346#issuecomment-2010197726) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🔒 Closed issue [#10346](https://github.com/nextauthjs/next-auth/issues/10346) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-2007976099) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
