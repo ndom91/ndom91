@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2014558335) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
-2. 🎉 Merged PR [#10372](https://github.com/nextauthjs/next-auth/pull/10372) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2012218517) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
-4. ❌ Closed PR [#10369](https://github.com/nextauthjs/next-auth/pull/10369) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#10346](https://github.com/nextauthjs/next-auth/issues/10346#issuecomment-2010197726) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016721391) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+2. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2014558335) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
+3. 🎉 Merged PR [#10372](https://github.com/nextauthjs/next-auth/pull/10372) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2012218517) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
+5. ❌ Closed PR [#10369](https://github.com/nextauthjs/next-auth/pull/10369) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
