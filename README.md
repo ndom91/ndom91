@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016876519) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-2. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016721391) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-3. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2014558335) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
-4. 🎉 Merged PR [#10372](https://github.com/nextauthjs/next-auth/pull/10372) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2012218517) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
+1. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016884638) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+2. 🚀 Published release [v0.3.2](https://github.com/ndom91/rose-pine-hyprcursor/releases/tag/v0.3.2) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+3. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016876519) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+4. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016721391) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+5. 🗣 Commented on [#18](https://github.com/VortexCoyote/hyprfocus/issues/18#issuecomment-2014558335) in [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus)
 <!--END_SECTION:activity-->
