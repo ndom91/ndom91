@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10305](https://github.com/nextauthjs/next-auth/pull/10305) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016884638) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-3. 🚀 Published release [v0.3.2](https://github.com/ndom91/rose-pine-hyprcursor/releases/tag/v0.3.2) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-4. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016876519) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-5. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016721391) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+1. 💪 Opened PR [#10400](https://github.com/nextauthjs/next-auth/pull/10400) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#10305](https://github.com/nextauthjs/next-auth/pull/10305) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016884638) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+4. 🚀 Published release [v0.3.2](https://github.com/ndom91/rose-pine-hyprcursor/releases/tag/v0.3.2) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+5. 🗣 Commented on [#3](https://github.com/ndom91/rose-pine-hyprcursor/issues/3#issuecomment-2016876519) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
 <!--END_SECTION:activity-->
