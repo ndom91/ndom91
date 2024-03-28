@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10305](https://github.com/nextauthjs/next-auth/pull/10305#issuecomment-2022939939) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#10401](https://github.com/nextauthjs/next-auth/pull/10401#issuecomment-2022402274) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#9871](https://github.com/nextauthjs/next-auth/pull/9871#issuecomment-2020798242) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#10401](https://github.com/nextauthjs/next-auth/pull/10401#issuecomment-2020789557) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#9587](https://github.com/nextauthjs/next-auth/pull/9587#issuecomment-2020783536) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#10411](https://github.com/nextauthjs/next-auth/pull/10411#issuecomment-2025764358) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🔒 Closed issue [#20](https://github.com/ndom91/newtelco-timeoff/issues/20) in [ndom91/newtelco-timeoff](https://github.com/ndom91/newtelco-timeoff)
+3. 🗣 Commented on [#20](https://github.com/ndom91/newtelco-timeoff/issues/20#issuecomment-2025760469) in [ndom91/newtelco-timeoff](https://github.com/ndom91/newtelco-timeoff)
+4. 🗣 Commented on [#10305](https://github.com/nextauthjs/next-auth/pull/10305#issuecomment-2022939939) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#10401](https://github.com/nextauthjs/next-auth/pull/10401#issuecomment-2022402274) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
