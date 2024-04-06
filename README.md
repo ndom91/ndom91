@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10492](https://github.com/nextauthjs/next-auth/pull/10492) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#8950](https://github.com/prisma/prisma/issues/8950#issuecomment-2041032581) in [prisma/prisma](https://github.com/prisma/prisma)
-3. 🗣 Commented on [#58](https://github.com/charmbracelet/freeze/issues/58#issuecomment-2037023105) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
-4. 🗣 Commented on [#22145](https://github.com/prisma/prisma/issues/22145#issuecomment-2035226489) in [prisma/prisma](https://github.com/prisma/prisma)
-5. ❌ Closed PR [#10455](https://github.com/nextauthjs/next-auth/pull/10455) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#10493](https://github.com/nextauthjs/next-auth/pull/10493) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 💪 Opened PR [#10492](https://github.com/nextauthjs/next-auth/pull/10492) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#8950](https://github.com/prisma/prisma/issues/8950#issuecomment-2041032581) in [prisma/prisma](https://github.com/prisma/prisma)
+4. 🗣 Commented on [#58](https://github.com/charmbracelet/freeze/issues/58#issuecomment-2037023105) in [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+5. 🗣 Commented on [#22145](https://github.com/prisma/prisma/issues/22145#issuecomment-2035226489) in [prisma/prisma](https://github.com/prisma/prisma)
 <!--END_SECTION:activity-->
