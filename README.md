@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10297](https://github.com/nextauthjs/next-auth/pull/10297#issuecomment-2061679791) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#10297](https://github.com/nextauthjs/next-auth/pull/10297#issuecomment-2061648052) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#10616](https://github.com/nextauthjs/next-auth/pull/10616#issuecomment-2061546345) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#10600](https://github.com/nextauthjs/next-auth/pull/10600#issuecomment-2061539861) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#10339](https://github.com/nextauthjs/next-auth/pull/10339#issuecomment-2061526025) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❗ Opened issue [#21](https://github.com/Chleba/netscanner/issues/21) in [Chleba/netscanner](https://github.com/Chleba/netscanner)
+2. 🗣 Commented on [#64](https://github.com/MHNightCat/superfile/issues/64#issuecomment-2061777010) in [MHNightCat/superfile](https://github.com/MHNightCat/superfile)
+3. 🗣 Commented on [#10297](https://github.com/nextauthjs/next-auth/pull/10297#issuecomment-2061679791) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#10297](https://github.com/nextauthjs/next-auth/pull/10297#issuecomment-2061648052) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#10616](https://github.com/nextauthjs/next-auth/pull/10616#issuecomment-2061546345) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
