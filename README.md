@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/ndom91/home2021/pull/34) in [ndom91/home2021](https://github.com/ndom91/home2021)
-2. ❌ Closed PR [#35](https://github.com/ndom91/home2021/pull/35) in [ndom91/home2021](https://github.com/ndom91/home2021)
-3. 🗣 Commented on [#10669](https://github.com/nextauthjs/next-auth/pull/10669#issuecomment-2068176621) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#10676](https://github.com/nextauthjs/next-auth/pull/10676#issuecomment-2068176157) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#10602](https://github.com/nextauthjs/next-auth/pull/10602) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#830](https://github.com/catppuccin/userstyles/pull/830#issuecomment-2068185162) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+2. 🗣 Commented on [#5](https://github.com/ndom91/next-auth-example-sign-in-page/issues/5#issuecomment-2068184594) in [ndom91/next-auth-example-sign-in-page](https://github.com/ndom91/next-auth-example-sign-in-page)
+3. 💪 Opened PR [#830](https://github.com/catppuccin/userstyles/pull/830) in [catppuccin/userstyles](https://github.com/catppuccin/userstyles)
+4. ❌ Closed PR [#34](https://github.com/ndom91/home2021/pull/34) in [ndom91/home2021](https://github.com/ndom91/home2021)
+5. ❌ Closed PR [#35](https://github.com/ndom91/home2021/pull/35) in [ndom91/home2021](https://github.com/ndom91/home2021)
 <!--END_SECTION:activity-->
