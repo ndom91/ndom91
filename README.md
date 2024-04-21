@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10616](https://github.com/nextauthjs/next-auth/pull/10616#issuecomment-2068174339) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#10297](https://github.com/nextauthjs/next-auth/pull/10297#issuecomment-2068172599) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#10603](https://github.com/nextauthjs/next-auth/pull/10603) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#10675](https://github.com/nextauthjs/next-auth/pull/10675) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#10673](https://github.com/nextauthjs/next-auth/pull/10673) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❌ Closed PR [#34](https://github.com/ndom91/home2021/pull/34) in [ndom91/home2021](https://github.com/ndom91/home2021)
+2. ❌ Closed PR [#35](https://github.com/ndom91/home2021/pull/35) in [ndom91/home2021](https://github.com/ndom91/home2021)
+3. 🗣 Commented on [#10669](https://github.com/nextauthjs/next-auth/pull/10669#issuecomment-2068176621) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#10676](https://github.com/nextauthjs/next-auth/pull/10676#issuecomment-2068176157) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#10602](https://github.com/nextauthjs/next-auth/pull/10602) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
