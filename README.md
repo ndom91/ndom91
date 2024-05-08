@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10731](https://github.com/nextauthjs/next-auth/issues/10731#issuecomment-2098183406) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#10833](https://github.com/nextauthjs/next-auth/pull/10833) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#10832](https://github.com/nextauthjs/next-auth/pull/10832) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#10832](https://github.com/nextauthjs/next-auth/pull/10832) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#10723](https://github.com/nextauthjs/next-auth/pull/10723#issuecomment-2095869178) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#10750](https://github.com/nextauthjs/next-auth/pull/10750) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#10731](https://github.com/nextauthjs/next-auth/issues/10731#issuecomment-2098183406) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 💪 Opened PR [#10833](https://github.com/nextauthjs/next-auth/pull/10833) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#10832](https://github.com/nextauthjs/next-auth/pull/10832) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#10832](https://github.com/nextauthjs/next-auth/pull/10832) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
