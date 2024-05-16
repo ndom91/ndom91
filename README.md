@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85#issuecomment-2115415252) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🔒 Closed issue [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🗣 Commented on [#123](https://github.com/ndom91/react-timezone-select/issues/123#issuecomment-2115414395) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🔒 Closed issue [#123](https://github.com/ndom91/react-timezone-select/issues/123) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🎉 Merged PR [#124](https://github.com/ndom91/react-timezone-select/pull/124) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🎉 Merged PR [#120](https://github.com/ndom91/react-timezone-select/pull/120) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. ❌ Closed PR [#118](https://github.com/ndom91/react-timezone-select/pull/118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. ❌ Closed PR [#122](https://github.com/ndom91/react-timezone-select/pull/122) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🗣 Commented on [#99](https://github.com/ndom91/react-timezone-select/issues/99#issuecomment-2115422073) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#83](https://github.com/ndom91/react-timezone-select/issues/83#issuecomment-2115419464) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
