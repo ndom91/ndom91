@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10939](https://github.com/nextauthjs/next-auth/pull/10939) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#9638](https://github.com/nextauthjs/next-auth/pull/9638#issuecomment-2115308443) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#10921](https://github.com/nextauthjs/next-auth/pull/10921) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#720](https://github.com/t3-oss/create-t3-turbo/pull/720#issuecomment-2114696860) in [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo)
-5. 🗣 Commented on [#10834](https://github.com/nextauthjs/next-auth/pull/10834#issuecomment-2114687400) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#85](https://github.com/ndom91/react-timezone-select/issues/85#issuecomment-2115415252) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🔒 Closed issue [#85](https://github.com/ndom91/react-timezone-select/issues/85) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#123](https://github.com/ndom91/react-timezone-select/issues/123#issuecomment-2115414395) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🔒 Closed issue [#123](https://github.com/ndom91/react-timezone-select/issues/123) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#124](https://github.com/ndom91/react-timezone-select/pull/124) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
