@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10834](https://github.com/nextauthjs/next-auth/pull/10834#issuecomment-2114687400) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🔒 Closed issue [#9300](https://github.com/nextauthjs/next-auth/issues/9300) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-2114680656) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#10882](https://github.com/nextauthjs/next-auth/pull/10882) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#10893](https://github.com/nextauthjs/next-auth/pull/10893) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#720](https://github.com/t3-oss/create-t3-turbo/pull/720#issuecomment-2114696860) in [t3-oss/create-t3-turbo](https://github.com/t3-oss/create-t3-turbo)
+2. 🗣 Commented on [#10834](https://github.com/nextauthjs/next-auth/pull/10834#issuecomment-2114687400) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🔒 Closed issue [#9300](https://github.com/nextauthjs/next-auth/issues/9300) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#9300](https://github.com/nextauthjs/next-auth/issues/9300#issuecomment-2114680656) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#10882](https://github.com/nextauthjs/next-auth/pull/10882) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
