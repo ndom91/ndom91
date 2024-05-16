@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115748493) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-2. 🎉 Merged PR [#120](https://github.com/ndom91/react-timezone-select/pull/120) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. ❌ Closed PR [#118](https://github.com/ndom91/react-timezone-select/pull/118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. ❌ Closed PR [#122](https://github.com/ndom91/react-timezone-select/pull/122) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#99](https://github.com/ndom91/react-timezone-select/issues/99#issuecomment-2115422073) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115779368) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+2. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115778592) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+3. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115748493) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+4. 🎉 Merged PR [#120](https://github.com/ndom91/react-timezone-select/pull/120) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. ❌ Closed PR [#118](https://github.com/ndom91/react-timezone-select/pull/118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
