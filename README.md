@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115779368) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-2. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115778592) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-3. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115748493) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-4. 🎉 Merged PR [#120](https://github.com/ndom91/react-timezone-select/pull/120) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. ❌ Closed PR [#118](https://github.com/ndom91/react-timezone-select/pull/118) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#10941](https://github.com/nextauthjs/next-auth/issues/10941#issuecomment-2117321612) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#10799](https://github.com/nextauthjs/next-auth/issues/10799#issuecomment-2117317990) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🔒 Closed issue [#10799](https://github.com/nextauthjs/next-auth/issues/10799) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115779368) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+5. 🗣 Commented on [#903](https://github.com/akinsho/bufferline.nvim/issues/903#issuecomment-2115778592) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 <!--END_SECTION:activity-->
