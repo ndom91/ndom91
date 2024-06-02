@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/huntabyte/vaul-svelte/issues/52#issuecomment-2143499293) in [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte)
-2. 🎉 Merged PR [#9953](https://github.com/nextauthjs/next-auth/pull/9953) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#10491](https://github.com/nextauthjs/next-auth/pull/10491) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#10996](https://github.com/nextauthjs/next-auth/pull/10996#issuecomment-2143404897) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#10978](https://github.com/nextauthjs/next-auth/pull/10978) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#10401](https://github.com/nextauthjs/next-auth/pull/10401#issuecomment-2143810694) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#7189](https://github.com/opnsense/core/issues/7189#issuecomment-2143810560) in [opnsense/core](https://github.com/opnsense/core)
+3. 🗣 Commented on [#52](https://github.com/huntabyte/vaul-svelte/issues/52#issuecomment-2143499293) in [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte)
+4. 🎉 Merged PR [#9953](https://github.com/nextauthjs/next-auth/pull/9953) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#10491](https://github.com/nextauthjs/next-auth/pull/10491) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
