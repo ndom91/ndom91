@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10632](https://github.com/nextauthjs/next-auth/issues/10632#issuecomment-2156019162) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#11098](https://github.com/nextauthjs/next-auth/pull/11098#issuecomment-2156018344) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#11106](https://github.com/nextauthjs/next-auth/pull/11106) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#11107](https://github.com/nextauthjs/next-auth/pull/11107) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#11097](https://github.com/nextauthjs/next-auth/pull/11097) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#302759](https://github.com/NixOS/nixpkgs/pull/302759#issuecomment-2156041620) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#318252](https://github.com/NixOS/nixpkgs/pull/318252#issuecomment-2156039673) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❌ Closed PR [#318252](https://github.com/NixOS/nixpkgs/pull/318252) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#10632](https://github.com/nextauthjs/next-auth/issues/10632#issuecomment-2156019162) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#11098](https://github.com/nextauthjs/next-auth/pull/11098#issuecomment-2156018344) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
