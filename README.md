@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/outfoxxed/hy3/issues/120#issuecomment-2161531184) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
-2. 🗣 Commented on [#4038](https://github.com/gitbutlerapp/gitbutler/issues/4038#issuecomment-2161307225) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#4063](https://github.com/gitbutlerapp/gitbutler/pull/4063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#4063](https://github.com/gitbutlerapp/gitbutler/pull/4063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#4056](https://github.com/gitbutlerapp/gitbutler/pull/4056) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#4](https://github.com/ndom91/rose-pine-hyprcursor/pull/4) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+2. 🗣 Commented on [#120](https://github.com/outfoxxed/hy3/issues/120#issuecomment-2161531184) in [outfoxxed/hy3](https://github.com/outfoxxed/hy3)
+3. 🗣 Commented on [#4038](https://github.com/gitbutlerapp/gitbutler/issues/4038#issuecomment-2161307225) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🎉 Merged PR [#4063](https://github.com/gitbutlerapp/gitbutler/pull/4063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#4063](https://github.com/gitbutlerapp/gitbutler/pull/4063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
