@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4056](https://github.com/gitbutlerapp/gitbutler/pull/4056) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#10693](https://github.com/tailscale/tailscale/issues/10693#issuecomment-2171668653) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
-3. 🗣 Commented on [#33](https://github.com/rose-pine/tmux/issues/33#issuecomment-2170426380) in [rose-pine/tmux](https://github.com/rose-pine/tmux)
-4. ❗ Opened issue [#33](https://github.com/rose-pine/tmux/issues/33) in [rose-pine/tmux](https://github.com/rose-pine/tmux)
-5. 🗣 Commented on [#11117](https://github.com/nextauthjs/next-auth/pull/11117#issuecomment-2166090832) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#178](https://github.com/umami-software/website/issues/178#issuecomment-2173993942) in [umami-software/website](https://github.com/umami-software/website)
+2. 🎉 Merged PR [#4056](https://github.com/gitbutlerapp/gitbutler/pull/4056) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#10693](https://github.com/tailscale/tailscale/issues/10693#issuecomment-2171668653) in [tailscale/tailscale](https://github.com/tailscale/tailscale)
+4. 🗣 Commented on [#33](https://github.com/rose-pine/tmux/issues/33#issuecomment-2170426380) in [rose-pine/tmux](https://github.com/rose-pine/tmux)
+5. ❗ Opened issue [#33](https://github.com/rose-pine/tmux/issues/33) in [rose-pine/tmux](https://github.com/rose-pine/tmux)
 <!--END_SECTION:activity-->
