@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4122](https://github.com/gitbutlerapp/gitbutler/pull/4122) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#587](https://github.com/sveltejs/eslint-plugin-svelte/issues/587#issuecomment-2178479932) in [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte)
-3. 🗣 Commented on [#4007](https://github.com/gitbutlerapp/gitbutler/issues/4007#issuecomment-2178275017) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#178](https://github.com/umami-software/website/issues/178#issuecomment-2177983030) in [umami-software/website](https://github.com/umami-software/website)
-5. 🎉 Merged PR [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-2178830105) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#4122](https://github.com/gitbutlerapp/gitbutler/pull/4122) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#587](https://github.com/sveltejs/eslint-plugin-svelte/issues/587#issuecomment-2178479932) in [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte)
+4. 🗣 Commented on [#4007](https://github.com/gitbutlerapp/gitbutler/issues/4007#issuecomment-2178275017) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#178](https://github.com/umami-software/website/issues/178#issuecomment-2177983030) in [umami-software/website](https://github.com/umami-software/website)
 <!--END_SECTION:activity-->
