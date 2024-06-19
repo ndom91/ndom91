@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114#issuecomment-2176540847) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🎉 Merged PR [#4113](https://github.com/gitbutlerapp/gitbutler/pull/4113) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#587](https://github.com/sveltejs/eslint-plugin-svelte/issues/587#issuecomment-2176453692) in [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte)
+1. 🗣 Commented on [#178](https://github.com/umami-software/website/issues/178#issuecomment-2177983030) in [umami-software/website](https://github.com/umami-software/website)
+2. 🎉 Merged PR [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114#issuecomment-2176540847) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#4114](https://github.com/gitbutlerapp/gitbutler/pull/4114) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🎉 Merged PR [#4113](https://github.com/gitbutlerapp/gitbutler/pull/4113) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
