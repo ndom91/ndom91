@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11232](https://github.com/nextauthjs/next-auth/pull/11232#issuecomment-2185503666) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ❌ Closed PR [#11241](https://github.com/nextauthjs/next-auth/pull/11241) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#11241](https://github.com/nextauthjs/next-auth/pull/11241#issuecomment-2185501284) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#15](https://github.com/ergin/nginx-cloudflare-real-ip/pull/15) in [ergin/nginx-cloudflare-real-ip](https://github.com/ergin/nginx-cloudflare-real-ip)
-5. 🔒 Closed issue [#4836](https://github.com/wez/wezterm/issues/4836) in [wez/wezterm](https://github.com/wez/wezterm)
+1. 🗣 Commented on [#4143](https://github.com/gitbutlerapp/gitbutler/pull/4143#issuecomment-2186770401) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#11232](https://github.com/nextauthjs/next-auth/pull/11232#issuecomment-2185503666) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. ❌ Closed PR [#11241](https://github.com/nextauthjs/next-auth/pull/11241) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#11241](https://github.com/nextauthjs/next-auth/pull/11241#issuecomment-2185501284) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#15](https://github.com/ergin/nginx-cloudflare-real-ip/pull/15) in [ergin/nginx-cloudflare-real-ip](https://github.com/ergin/nginx-cloudflare-real-ip)
 <!--END_SECTION:activity-->
