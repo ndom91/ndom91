@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2203542591) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#4222](https://github.com/gitbutlerapp/gitbutler/pull/4222#issuecomment-2203533062) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#4226](https://github.com/gitbutlerapp/gitbutler/pull/4226) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#4222](https://github.com/gitbutlerapp/gitbutler/pull/4222) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ❗ Opened issue [#3403](https://github.com/Alexays/Waybar/issues/3403) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+1. ❗ Opened issue [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
+2. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2203542591) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4222](https://github.com/gitbutlerapp/gitbutler/pull/4222#issuecomment-2203533062) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#4226](https://github.com/gitbutlerapp/gitbutler/pull/4226) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#4222](https://github.com/gitbutlerapp/gitbutler/pull/4222) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
