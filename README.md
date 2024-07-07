@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17#issuecomment-2211829523) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
-2. 🔒 Closed issue [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
-3. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2211802013) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
-5. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2203542591) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#3026](https://github.com/prisma/prisma/issues/3026#issuecomment-2212453505) in [prisma/prisma](https://github.com/prisma/prisma)
+2. 🗣 Commented on [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17#issuecomment-2211829523) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
+3. 🔒 Closed issue [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
+4. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2211802013) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❗ Opened issue [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
 <!--END_SECTION:activity-->
