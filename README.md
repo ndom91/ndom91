@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2213359823) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#3026](https://github.com/prisma/prisma/issues/3026#issuecomment-2212453505) in [prisma/prisma](https://github.com/prisma/prisma)
-3. 🗣 Commented on [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17#issuecomment-2211829523) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
-4. 🔒 Closed issue [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
-5. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2211802013) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#4267](https://github.com/gitbutlerapp/gitbutler/pull/4267) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#4267](https://github.com/gitbutlerapp/gitbutler/pull/4267) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2213359823) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#3026](https://github.com/prisma/prisma/issues/3026#issuecomment-2212453505) in [prisma/prisma](https://github.com/prisma/prisma)
+5. 🗣 Commented on [#17](https://github.com/lenovo/lenovo-wwan-unlock/issues/17#issuecomment-2211829523) in [lenovo/lenovo-wwan-unlock](https://github.com/lenovo/lenovo-wwan-unlock)
 <!--END_SECTION:activity-->
