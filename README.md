@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2217251071) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#4299](https://github.com/gitbutlerapp/gitbutler/pull/4299) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4533](https://github.com/jellyfin/jellyfin-web/pull/4533#issuecomment-2216927674) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
-4. 🎉 Merged PR [#4293](https://github.com/gitbutlerapp/gitbutler/pull/4293) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#4293](https://github.com/gitbutlerapp/gitbutler/pull/4293) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🔒 Closed issue [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#4299](https://github.com/gitbutlerapp/gitbutler/pull/4299) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4209](https://github.com/gitbutlerapp/gitbutler/issues/4209#issuecomment-2217251071) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#4299](https://github.com/gitbutlerapp/gitbutler/pull/4299) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#4533](https://github.com/jellyfin/jellyfin-web/pull/4533#issuecomment-2216927674) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
 <!--END_SECTION:activity-->
