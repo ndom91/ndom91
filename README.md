@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/fuma-nama/fumadocs/issues/592#issuecomment-2221218149) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-2. ❗ Opened issue [#592](https://github.com/fuma-nama/fumadocs/issues/592) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-3. 💪 Opened PR [#8](https://github.com/gitbutlerapp/gitbutler-docs/pull/8) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-4. 🎉 Merged PR [#7](https://github.com/gitbutlerapp/gitbutler-docs/pull/7) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-5. 💪 Opened PR [#7](https://github.com/gitbutlerapp/gitbutler-docs/pull/7) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+1. 🗣 Commented on [#592](https://github.com/fuma-nama/fumadocs/issues/592#issuecomment-2222523652) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+2. 🗣 Commented on [#4533](https://github.com/jellyfin/jellyfin-web/pull/4533#issuecomment-2222520867) in [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web)
+3. 🗣 Commented on [#4312](https://github.com/gitbutlerapp/gitbutler/pull/4312#issuecomment-2222514833) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#592](https://github.com/fuma-nama/fumadocs/issues/592#issuecomment-2221218149) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+5. ❗ Opened issue [#592](https://github.com/fuma-nama/fumadocs/issues/592) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
 <!--END_SECTION:activity-->
