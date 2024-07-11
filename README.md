@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4332](https://github.com/gitbutlerapp/gitbutler/pull/4332) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#11460](https://github.com/sveltejs/kit/issues/11460#issuecomment-2222723399) in [sveltejs/kit](https://github.com/sveltejs/kit)
-3. 🎉 Merged PR [#4330](https://github.com/gitbutlerapp/gitbutler/pull/4330) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#4330](https://github.com/gitbutlerapp/gitbutler/pull/4330) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#592](https://github.com/fuma-nama/fumadocs/issues/592#issuecomment-2222523652) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+1. 🎉 Merged PR [#4333](https://github.com/gitbutlerapp/gitbutler/pull/4333) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#4333](https://github.com/gitbutlerapp/gitbutler/pull/4333) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🎉 Merged PR [#4332](https://github.com/gitbutlerapp/gitbutler/pull/4332) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#4332](https://github.com/gitbutlerapp/gitbutler/pull/4332) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#11460](https://github.com/sveltejs/kit/issues/11460#issuecomment-2222723399) in [sveltejs/kit](https://github.com/sveltejs/kit)
 <!--END_SECTION:activity-->
