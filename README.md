@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8254](https://github.com/tauri-apps/tauri/issues/8254#issuecomment-2225564650) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. 🎉 Merged PR [#4337](https://github.com/gitbutlerapp/gitbutler/pull/4337) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#8254](https://github.com/tauri-apps/tauri/issues/8254#issuecomment-2225113718) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. 💪 Opened PR [#4337](https://github.com/gitbutlerapp/gitbutler/pull/4337) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#4335](https://github.com/gitbutlerapp/gitbutler/pull/4335) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#9](https://github.com/gitbutlerapp/gitbutler-docs/pull/9) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+2. 💪 Opened PR [#9](https://github.com/gitbutlerapp/gitbutler-docs/pull/9) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+3. 🗣 Commented on [#8254](https://github.com/tauri-apps/tauri/issues/8254#issuecomment-2225564650) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+4. 🎉 Merged PR [#4337](https://github.com/gitbutlerapp/gitbutler/pull/4337) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#8254](https://github.com/tauri-apps/tauri/issues/8254#issuecomment-2225113718) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--END_SECTION:activity-->
