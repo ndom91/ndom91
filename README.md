@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12558](https://github.com/sveltejs/svelte/issues/12558#issuecomment-2245431081) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-2. ❗ Opened issue [#12558](https://github.com/sveltejs/svelte/issues/12558) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
-3. 🗣 Commented on [#10633](https://github.com/nextauthjs/next-auth/issues/10633#issuecomment-2243890409) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🔒 Closed issue [#11415](https://github.com/nextauthjs/next-auth/issues/11415) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#11421](https://github.com/nextauthjs/next-auth/pull/11421) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🔒 Closed issue [#127](https://github.com/ndom91/react-timezone-select/issues/127) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🔒 Closed issue [#99](https://github.com/ndom91/react-timezone-select/issues/99) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🔒 Closed issue [#83](https://github.com/ndom91/react-timezone-select/issues/83) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🚀 Published release [v3.2.7](https://github.com/ndom91/react-timezone-select/releases/tag/v3.2.7) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#125](https://github.com/ndom91/react-timezone-select/issues/125#issuecomment-2245880491) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
