@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4522](https://github.com/gitbutlerapp/gitbutler/pull/4522) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#4522](https://github.com/gitbutlerapp/gitbutler/pull/4522) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❗ Opened issue [#239](https://github.com/unjs/ipx/issues/239) in [unjs/ipx](https://github.com/unjs/ipx)
-4. 🗣 Commented on [#230](https://github.com/Andre0512/hon/issues/230#issuecomment-2254498566) in [Andre0512/hon](https://github.com/Andre0512/hon)
-5. 🎉 Merged PR [#20](https://github.com/gitbutlerapp/gitbutler-docs/pull/20) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+1. 💪 Opened PR [#4526](https://github.com/gitbutlerapp/gitbutler/pull/4526) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#4522](https://github.com/gitbutlerapp/gitbutler/pull/4522) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#4522](https://github.com/gitbutlerapp/gitbutler/pull/4522) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ❗ Opened issue [#239](https://github.com/unjs/ipx/issues/239) in [unjs/ipx](https://github.com/unjs/ipx)
+5. 🗣 Commented on [#230](https://github.com/Andre0512/hon/issues/230#issuecomment-2254498566) in [Andre0512/hon](https://github.com/Andre0512/hon)
 <!--END_SECTION:activity-->
