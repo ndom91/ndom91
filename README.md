@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/unjs/ipx/issues/239#issuecomment-2282204766) in [unjs/ipx](https://github.com/unjs/ipx)
-2. 💪 Opened PR [#2532](https://github.com/tauri-apps/tauri-docs/pull/2532) in [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs)
-3. 🗣 Commented on [#4664](https://github.com/gitbutlerapp/gitbutler/pull/4664#issuecomment-2281203216) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🎉 Merged PR [#4664](https://github.com/gitbutlerapp/gitbutler/pull/4664) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#4664](https://github.com/gitbutlerapp/gitbutler/pull/4664) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#4643](https://github.com/gitbutlerapp/gitbutler/pull/4643#issuecomment-2285706341) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. ❌ Closed PR [#4661](https://github.com/gitbutlerapp/gitbutler/pull/4661) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#239](https://github.com/unjs/ipx/issues/239#issuecomment-2282204766) in [unjs/ipx](https://github.com/unjs/ipx)
+4. 💪 Opened PR [#2532](https://github.com/tauri-apps/tauri-docs/pull/2532) in [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs)
+5. 🗣 Commented on [#4664](https://github.com/gitbutlerapp/gitbutler/pull/4664#issuecomment-2281203216) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
