@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4693](https://github.com/gitbutlerapp/gitbutler/pull/4693) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#9002](https://github.com/vercel/turborepo/issues/9002#issuecomment-2290965212) in [vercel/turborepo](https://github.com/vercel/turborepo)
-3. 🔒 Closed issue [#9002](https://github.com/vercel/turborepo/issues/9002) in [vercel/turborepo](https://github.com/vercel/turborepo)
-4. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2290847463) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2290846781) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#4686](https://github.com/gitbutlerapp/gitbutler/pull/4686) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#6](https://github.com/ndom91/rose-pine-hyprcursor/issues/6#issuecomment-2290988720) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+3. 💪 Opened PR [#4693](https://github.com/gitbutlerapp/gitbutler/pull/4693) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#9002](https://github.com/vercel/turborepo/issues/9002#issuecomment-2290965212) in [vercel/turborepo](https://github.com/vercel/turborepo)
+5. 🔒 Closed issue [#9002](https://github.com/vercel/turborepo/issues/9002) in [vercel/turborepo](https://github.com/vercel/turborepo)
 <!--END_SECTION:activity-->
