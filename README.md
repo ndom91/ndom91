@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961#issuecomment-2291846587) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
-2. 🔒 Closed issue [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
-3. 🗣 Commented on [#4699](https://github.com/gitbutlerapp/gitbutler/pull/4699#issuecomment-2291683292) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
-5. 🗣 Commented on [#2684](https://github.com/gitbutlerapp/gitbutler/issues/2684#issuecomment-2291332520) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🚀 Published release [release/0.12.20](https://github.com/gitbutlerapp/gitbutler/releases/tag/release/0.12.20) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961#issuecomment-2291846587) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
+3. 🔒 Closed issue [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
+4. 🗣 Commented on [#4699](https://github.com/gitbutlerapp/gitbutler/pull/4699#issuecomment-2291683292) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❗ Opened issue [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
 <!--END_SECTION:activity-->
