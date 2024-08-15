@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2290847463) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2290846781) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4685](https://github.com/gitbutlerapp/gitbutler/issues/4685#issuecomment-2290810967) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#4685](https://github.com/gitbutlerapp/gitbutler/issues/4685#issuecomment-2289102563) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#4685](https://github.com/gitbutlerapp/gitbutler/issues/4685#issuecomment-2289060238) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 💪 Opened PR [#4693](https://github.com/gitbutlerapp/gitbutler/pull/4693) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#9002](https://github.com/vercel/turborepo/issues/9002#issuecomment-2290965212) in [vercel/turborepo](https://github.com/vercel/turborepo)
+3. 🔒 Closed issue [#9002](https://github.com/vercel/turborepo/issues/9002) in [vercel/turborepo](https://github.com/vercel/turborepo)
+4. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2290847463) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2290846781) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
