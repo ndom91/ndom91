@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4705](https://github.com/gitbutlerapp/gitbutler/pull/4705) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2293059554) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❌ Closed PR [#4697](https://github.com/gitbutlerapp/gitbutler/pull/4697) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#4704](https://github.com/gitbutlerapp/gitbutler/pull/4704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#4703](https://github.com/gitbutlerapp/gitbutler/pull/4703) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961#issuecomment-2293082430) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
+2. 💪 Opened PR [#4705](https://github.com/gitbutlerapp/gitbutler/pull/4705) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4692](https://github.com/gitbutlerapp/gitbutler/pull/4692#issuecomment-2293059554) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ❌ Closed PR [#4697](https://github.com/gitbutlerapp/gitbutler/pull/4697) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#4704](https://github.com/gitbutlerapp/gitbutler/pull/4704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
