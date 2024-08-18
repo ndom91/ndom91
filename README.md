@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4712](https://github.com/gitbutlerapp/gitbutler/pull/4712#issuecomment-2294934461) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#4705](https://github.com/gitbutlerapp/gitbutler/pull/4705#issuecomment-2293826670) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❗ Opened issue [#4713](https://github.com/gitbutlerapp/gitbutler/issues/4713) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#4712](https://github.com/gitbutlerapp/gitbutler/pull/4712) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#4710](https://github.com/gitbutlerapp/gitbutler/pull/4710) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#80](https://github.com/devon-mar/netbox-kea/issues/80#issuecomment-2295203104) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+2. 🗣 Commented on [#109](https://github.com/devon-mar/netbox-kea/issues/109#issuecomment-2295202454) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+3. 🔒 Closed issue [#109](https://github.com/devon-mar/netbox-kea/issues/109) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+4. ❗ Opened issue [#109](https://github.com/devon-mar/netbox-kea/issues/109) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+5. 🗣 Commented on [#4712](https://github.com/gitbutlerapp/gitbutler/pull/4712#issuecomment-2294934461) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
