@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/devon-mar/netbox-kea/issues/109#issuecomment-2305312550) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
-2. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2305285334) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2305195544) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#4741](https://github.com/gitbutlerapp/gitbutler/pull/4741) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2305069252) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961#issuecomment-2305469289) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
+2. 🔓 Reopened issue [#961](https://github.com/sveltejs/vite-plugin-svelte/issues/961) in [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte)
+3. 🗣 Commented on [#109](https://github.com/devon-mar/netbox-kea/issues/109#issuecomment-2305312550) in [devon-mar/netbox-kea](https://github.com/devon-mar/netbox-kea)
+4. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2305285334) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2305195544) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
