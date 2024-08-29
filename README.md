@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11708](https://github.com/nextauthjs/next-auth/pull/11708) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#11708](https://github.com/nextauthjs/next-auth/pull/11708#issuecomment-2316769462) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#11707](https://github.com/nextauthjs/next-auth/pull/11707) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#6](https://github.com/ndom91/rose-pine-hyprcursor/issues/6#issuecomment-2316174008) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-5. 🗣 Commented on [#6](https://github.com/ndom91/rose-pine-hyprcursor/issues/6#issuecomment-2316170767) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+1. 🗣 Commented on [#7767](https://github.com/refined-github/refined-github/issues/7767#issuecomment-2316994192) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#2765](https://github.com/gitbutlerapp/gitbutler/issues/2765#issuecomment-2316990115) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#3313](https://github.com/gitbutlerapp/gitbutler/issues/3313#issuecomment-2316968865) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🎉 Merged PR [#11708](https://github.com/nextauthjs/next-auth/pull/11708) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#11708](https://github.com/nextauthjs/next-auth/pull/11708#issuecomment-2316769462) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
