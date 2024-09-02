@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11749](https://github.com/nextauthjs/next-auth/pull/11749) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#11749](https://github.com/nextauthjs/next-auth/pull/11749#issuecomment-2324844318) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#4643](https://github.com/gitbutlerapp/gitbutler/pull/4643#issuecomment-2324836886) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❌ Closed PR [#4643](https://github.com/gitbutlerapp/gitbutler/pull/4643) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#4643](https://github.com/gitbutlerapp/gitbutler/pull/4643#issuecomment-2324836473) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#789](https://github.com/fuma-nama/fumadocs/issues/789#issuecomment-2324899616) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+2. 🎉 Merged PR [#11749](https://github.com/nextauthjs/next-auth/pull/11749) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#11749](https://github.com/nextauthjs/next-auth/pull/11749#issuecomment-2324844318) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#4643](https://github.com/gitbutlerapp/gitbutler/pull/4643#issuecomment-2324836886) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❌ Closed PR [#4643](https://github.com/gitbutlerapp/gitbutler/pull/4643) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
