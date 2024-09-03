@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#129](https://github.com/ndom91/react-timezone-select/pull/129) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🎉 Merged PR [#30](https://github.com/gitbutlerapp/gitbutler-docs/pull/30) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-3. 💪 Opened PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-4. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2326253594) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🔒 Closed issue [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#129](https://github.com/ndom91/react-timezone-select/pull/129#issuecomment-2326698444) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2326667801) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🎉 Merged PR [#129](https://github.com/ndom91/react-timezone-select/pull/129) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🎉 Merged PR [#30](https://github.com/gitbutlerapp/gitbutler-docs/pull/30) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+5. 💪 Opened PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
