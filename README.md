@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/ndom91/react-timezone-select/pull/129#issuecomment-2326698444) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2326667801) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#129](https://github.com/ndom91/react-timezone-select/pull/129) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🎉 Merged PR [#30](https://github.com/gitbutlerapp/gitbutler-docs/pull/30) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-5. 💪 Opened PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+1. 🗣 Commented on [#10686](https://github.com/tauri-apps/tauri/issues/10686#issuecomment-2326748649) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+2. 🗣 Commented on [#129](https://github.com/ndom91/react-timezone-select/pull/129#issuecomment-2326698444) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2326667801) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🎉 Merged PR [#129](https://github.com/ndom91/react-timezone-select/pull/129) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#30](https://github.com/gitbutlerapp/gitbutler-docs/pull/30) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
 <!--END_SECTION:activity-->
