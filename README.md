@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2326253594) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🔒 Closed issue [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#795](https://github.com/fuma-nama/fumadocs/issues/795#issuecomment-2326251827) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-4. 🔒 Closed issue [#795](https://github.com/fuma-nama/fumadocs/issues/795) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-5. 🗣 Commented on [#2509](https://github.com/gitbutlerapp/gitbutler/issues/2509#issuecomment-2326055800) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 💪 Opened PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+2. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2326253594) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🔒 Closed issue [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#795](https://github.com/fuma-nama/fumadocs/issues/795#issuecomment-2326251827) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+5. 🔒 Closed issue [#795](https://github.com/fuma-nama/fumadocs/issues/795) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
 <!--END_SECTION:activity-->
