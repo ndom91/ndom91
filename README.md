@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4814](https://github.com/gitbutlerapp/gitbutler/pull/4814#issuecomment-2329258337) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#4828](https://github.com/gitbutlerapp/gitbutler/pull/4828) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#4827](https://github.com/gitbutlerapp/gitbutler/pull/4827) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#4808](https://github.com/gitbutlerapp/gitbutler/pull/4808#issuecomment-2328851221) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#10686](https://github.com/tauri-apps/tauri/issues/10686#issuecomment-2326748649) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🗣 Commented on [#4814](https://github.com/gitbutlerapp/gitbutler/pull/4814#issuecomment-2329302148) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#4814](https://github.com/gitbutlerapp/gitbutler/pull/4814#issuecomment-2329258337) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#4828](https://github.com/gitbutlerapp/gitbutler/pull/4828) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#4827](https://github.com/gitbutlerapp/gitbutler/pull/4827) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#4808](https://github.com/gitbutlerapp/gitbutler/pull/4808#issuecomment-2328851221) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
