@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4734](https://github.com/gitbutlerapp/gitbutler/issues/4734#issuecomment-2340045595) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#10686](https://github.com/tauri-apps/tauri/issues/10686#issuecomment-2339512554) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. 🗣 Commented on [#6767](https://github.com/nextauthjs/next-auth/pull/6767#issuecomment-2339509136) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 💪 Opened PR [#4860](https://github.com/gitbutlerapp/gitbutler/pull/4860) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#4855](https://github.com/gitbutlerapp/gitbutler/pull/4855#issuecomment-2337636668) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#3313](https://github.com/gitbutlerapp/gitbutler/issues/3313#issuecomment-2340162537) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#4734](https://github.com/gitbutlerapp/gitbutler/issues/4734#issuecomment-2340045595) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#10686](https://github.com/tauri-apps/tauri/issues/10686#issuecomment-2339512554) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+4. 🗣 Commented on [#6767](https://github.com/nextauthjs/next-auth/pull/6767#issuecomment-2339509136) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 💪 Opened PR [#4860](https://github.com/gitbutlerapp/gitbutler/pull/4860) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
