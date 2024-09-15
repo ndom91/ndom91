@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4914](https://github.com/gitbutlerapp/gitbutler/issues/4914#issuecomment-2351400023) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#2111](https://github.com/rust-lang/rustlings/issues/2111#issuecomment-2351082373) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-3. 🔒 Closed issue [#2111](https://github.com/rust-lang/rustlings/issues/2111) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-4. ❗ Opened issue [#2111](https://github.com/rust-lang/rustlings/issues/2111) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-5. 🗣 Commented on [#20](https://github.com/neuralinkcorp/tsui/pull/20#issuecomment-2351016627) in [neuralinkcorp/tsui](https://github.com/neuralinkcorp/tsui)
+1. 🗣 Commented on [#4914](https://github.com/gitbutlerapp/gitbutler/issues/4914#issuecomment-2351487036) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#4914](https://github.com/gitbutlerapp/gitbutler/issues/4914#issuecomment-2351400023) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#2111](https://github.com/rust-lang/rustlings/issues/2111#issuecomment-2351082373) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+4. 🔒 Closed issue [#2111](https://github.com/rust-lang/rustlings/issues/2111) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+5. ❗ Opened issue [#2111](https://github.com/rust-lang/rustlings/issues/2111) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 <!--END_SECTION:activity-->
