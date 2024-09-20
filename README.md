@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/git/git-merge/pull/5#issuecomment-2363324742) in [git/git-merge](https://github.com/git/git-merge)
-2. ❌ Closed PR [#5](https://github.com/git/git-merge/pull/5) in [git/git-merge](https://github.com/git/git-merge)
-3. 💪 Opened PR [#5](https://github.com/git/git-merge/pull/5) in [git/git-merge](https://github.com/git/git-merge)
-4. 🎉 Merged PR [#4950](https://github.com/gitbutlerapp/gitbutler/pull/4950) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#11872](https://github.com/nextauthjs/next-auth/pull/11872) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#6](https://github.com/git/git-merge/pull/6#issuecomment-2363348336) in [git/git-merge](https://github.com/git/git-merge)
+2. 💪 Opened PR [#6](https://github.com/git/git-merge/pull/6) in [git/git-merge](https://github.com/git/git-merge)
+3. 🗣 Commented on [#5](https://github.com/git/git-merge/pull/5#issuecomment-2363324742) in [git/git-merge](https://github.com/git/git-merge)
+4. ❌ Closed PR [#5](https://github.com/git/git-merge/pull/5) in [git/git-merge](https://github.com/git/git-merge)
+5. 💪 Opened PR [#5](https://github.com/git/git-merge/pull/5) in [git/git-merge](https://github.com/git/git-merge)
 <!--END_SECTION:activity-->
