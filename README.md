@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11719](https://github.com/nextauthjs/next-auth/pull/11719#issuecomment-2366246794) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2365155079) in [lusingander/serie](https://github.com/lusingander/serie)
-3. 🗣 Commented on [#6](https://github.com/git/git-merge/pull/6#issuecomment-2363348336) in [git/git-merge](https://github.com/git/git-merge)
-4. 💪 Opened PR [#6](https://github.com/git/git-merge/pull/6) in [git/git-merge](https://github.com/git/git-merge)
-5. 🗣 Commented on [#5](https://github.com/git/git-merge/pull/5#issuecomment-2363324742) in [git/git-merge](https://github.com/git/git-merge)
+1. 🗣 Commented on [#5](https://github.com/ndom91/rose-pine-hyprcursor/issues/5#issuecomment-2366884073) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+2. 🎉 Merged PR [#11855](https://github.com/nextauthjs/next-auth/pull/11855) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#128](https://github.com/ndom91/react-timezone-select/pull/128) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🎉 Merged PR [#131](https://github.com/ndom91/react-timezone-select/pull/131) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#11888](https://github.com/nextauthjs/next-auth/pull/11888) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
