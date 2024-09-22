@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2365155079) in [lusingander/serie](https://github.com/lusingander/serie)
-2. 🗣 Commented on [#6](https://github.com/git/git-merge/pull/6#issuecomment-2363348336) in [git/git-merge](https://github.com/git/git-merge)
-3. 💪 Opened PR [#6](https://github.com/git/git-merge/pull/6) in [git/git-merge](https://github.com/git/git-merge)
-4. 🗣 Commented on [#5](https://github.com/git/git-merge/pull/5#issuecomment-2363324742) in [git/git-merge](https://github.com/git/git-merge)
-5. ❌ Closed PR [#5](https://github.com/git/git-merge/pull/5) in [git/git-merge](https://github.com/git/git-merge)
+1. 🗣 Commented on [#11719](https://github.com/nextauthjs/next-auth/pull/11719#issuecomment-2366246794) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2365155079) in [lusingander/serie](https://github.com/lusingander/serie)
+3. 🗣 Commented on [#6](https://github.com/git/git-merge/pull/6#issuecomment-2363348336) in [git/git-merge](https://github.com/git/git-merge)
+4. 💪 Opened PR [#6](https://github.com/git/git-merge/pull/6) in [git/git-merge](https://github.com/git/git-merge)
+5. 🗣 Commented on [#5](https://github.com/git/git-merge/pull/5#issuecomment-2363324742) in [git/git-merge](https://github.com/git/git-merge)
 <!--END_SECTION:activity-->
