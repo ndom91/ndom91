@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ndom91/rose-pine-hyprcursor/issues/5#issuecomment-2366884073) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-2. 🎉 Merged PR [#11855](https://github.com/nextauthjs/next-auth/pull/11855) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#128](https://github.com/ndom91/react-timezone-select/pull/128) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🎉 Merged PR [#131](https://github.com/ndom91/react-timezone-select/pull/131) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🎉 Merged PR [#11888](https://github.com/nextauthjs/next-auth/pull/11888) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2366887426) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#5](https://github.com/ndom91/rose-pine-hyprcursor/issues/5#issuecomment-2366884073) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+3. 🎉 Merged PR [#11855](https://github.com/nextauthjs/next-auth/pull/11855) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#128](https://github.com/ndom91/react-timezone-select/pull/128) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🎉 Merged PR [#131](https://github.com/ndom91/react-timezone-select/pull/131) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
