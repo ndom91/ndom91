@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ndom91/rose-pine-hyprcursor/issues/5#issuecomment-2367772196) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-2. 🗣 Commented on [#4953](https://github.com/gitbutlerapp/gitbutler/issues/4953#issuecomment-2367760053) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4953](https://github.com/gitbutlerapp/gitbutler/issues/4953#issuecomment-2367756169) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#4955](https://github.com/gitbutlerapp/gitbutler/issues/4955#issuecomment-2367749704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#11197](https://github.com/nextauthjs/next-auth/pull/11197#issuecomment-2366887426) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❗ Opened issue [#4957](https://github.com/gitbutlerapp/gitbutler/issues/4957) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#5](https://github.com/ndom91/rose-pine-hyprcursor/issues/5#issuecomment-2367772196) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+3. 🗣 Commented on [#4953](https://github.com/gitbutlerapp/gitbutler/issues/4953#issuecomment-2367760053) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#4953](https://github.com/gitbutlerapp/gitbutler/issues/4953#issuecomment-2367756169) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#4955](https://github.com/gitbutlerapp/gitbutler/issues/4955#issuecomment-2367749704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
