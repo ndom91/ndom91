@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4978](https://github.com/gitbutlerapp/gitbutler/pull/4978#issuecomment-2389198159) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. ❌ Closed PR [#4803](https://github.com/gitbutlerapp/gitbutler/pull/4803) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4803](https://github.com/gitbutlerapp/gitbutler/pull/4803#issuecomment-2388072608) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#2522](https://github.com/sveltejs/language-tools/issues/2522#issuecomment-2387931900) in [sveltejs/language-tools](https://github.com/sveltejs/language-tools)
-5. 🗣 Commented on [#4978](https://github.com/gitbutlerapp/gitbutler/pull/4978#issuecomment-2386289534) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#4978](https://github.com/gitbutlerapp/gitbutler/pull/4978#issuecomment-2389262667) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#4978](https://github.com/gitbutlerapp/gitbutler/pull/4978#issuecomment-2389198159) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. ❌ Closed PR [#4803](https://github.com/gitbutlerapp/gitbutler/pull/4803) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#4803](https://github.com/gitbutlerapp/gitbutler/pull/4803#issuecomment-2388072608) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#2522](https://github.com/sveltejs/language-tools/issues/2522#issuecomment-2387931900) in [sveltejs/language-tools](https://github.com/sveltejs/language-tools)
 <!--END_SECTION:activity-->
