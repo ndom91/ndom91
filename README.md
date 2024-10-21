@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12078](https://github.com/nextauthjs/next-auth/pull/12078) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#182](https://github.com/sveltejs/cli/issues/182#issuecomment-2424794288) in [sveltejs/cli](https://github.com/sveltejs/cli)
-3. ❗ Opened issue [#182](https://github.com/sveltejs/cli/issues/182) in [sveltejs/cli](https://github.com/sveltejs/cli)
-4. 🎉 Merged PR [#5219](https://github.com/gitbutlerapp/gitbutler/pull/5219) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#5219](https://github.com/gitbutlerapp/gitbutler/pull/5219) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#182](https://github.com/sveltejs/cli/issues/182#issuecomment-2425999616) in [sveltejs/cli](https://github.com/sveltejs/cli)
+2. 🎉 Merged PR [#12078](https://github.com/nextauthjs/next-auth/pull/12078) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#182](https://github.com/sveltejs/cli/issues/182#issuecomment-2424794288) in [sveltejs/cli](https://github.com/sveltejs/cli)
+4. ❗ Opened issue [#182](https://github.com/sveltejs/cli/issues/182) in [sveltejs/cli](https://github.com/sveltejs/cli)
+5. 🎉 Merged PR [#5219](https://github.com/gitbutlerapp/gitbutler/pull/5219) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
