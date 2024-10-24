@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4996](https://github.com/gitbutlerapp/gitbutler/issues/4996#issuecomment-2435249171) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5282](https://github.com/gitbutlerapp/gitbutler/issues/5282#issuecomment-2435141919) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#5294](https://github.com/gitbutlerapp/gitbutler/pull/5294#issuecomment-2435021487) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❌ Closed PR [#5294](https://github.com/gitbutlerapp/gitbutler/pull/5294) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ❌ Closed PR [#5292](https://github.com/gitbutlerapp/gitbutler/pull/5292) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#68](https://github.com/ndom91/briefkasten/issues/68#issuecomment-2435269032) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. 🔒 Closed issue [#68](https://github.com/ndom91/briefkasten/issues/68) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🎉 Merged PR [#69](https://github.com/ndom91/briefkasten/pull/69) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#70](https://github.com/ndom91/briefkasten/issues/70#issuecomment-2435265231) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#4996](https://github.com/gitbutlerapp/gitbutler/issues/4996#issuecomment-2435249171) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
