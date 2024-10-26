@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5319](https://github.com/gitbutlerapp/gitbutler/pull/5319) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#5318](https://github.com/gitbutlerapp/gitbutler/pull/5318) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4996](https://github.com/gitbutlerapp/gitbutler/issues/4996#issuecomment-2439432447) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🔒 Closed issue [#567](https://github.com/sveltejs/svelte-eslint-parser/issues/567) in [sveltejs/svelte-eslint-parser](https://github.com/sveltejs/svelte-eslint-parser)
-5. 🗣 Commented on [#567](https://github.com/sveltejs/svelte-eslint-parser/issues/567#issuecomment-2439431544) in [sveltejs/svelte-eslint-parser](https://github.com/sveltejs/svelte-eslint-parser)
+1. 💪 Opened PR [#5320](https://github.com/gitbutlerapp/gitbutler/pull/5320) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#5319](https://github.com/gitbutlerapp/gitbutler/pull/5319) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#5318](https://github.com/gitbutlerapp/gitbutler/pull/5318) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#4996](https://github.com/gitbutlerapp/gitbutler/issues/4996#issuecomment-2439432447) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🔒 Closed issue [#567](https://github.com/sveltejs/svelte-eslint-parser/issues/567) in [sveltejs/svelte-eslint-parser](https://github.com/sveltejs/svelte-eslint-parser)
 <!--END_SECTION:activity-->
