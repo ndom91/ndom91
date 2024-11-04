@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8003](https://github.com/refined-github/refined-github/pull/8003#issuecomment-2453931145) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. 🗣 Commented on [#4830](https://github.com/gitbutlerapp/gitbutler/issues/4830#issuecomment-2453922294) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#18](https://github.com/ericclemmons/awesome-starter-packs/pull/18) in [ericclemmons/awesome-starter-packs](https://github.com/ericclemmons/awesome-starter-packs)
-4. 💪 Opened PR [#8003](https://github.com/refined-github/refined-github/pull/8003) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#10684](https://github.com/nextauthjs/next-auth/pull/10684#issuecomment-2453403285) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#8003](https://github.com/refined-github/refined-github/pull/8003#issuecomment-2454151403) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#8003](https://github.com/refined-github/refined-github/pull/8003#issuecomment-2453931145) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. 🗣 Commented on [#4830](https://github.com/gitbutlerapp/gitbutler/issues/4830#issuecomment-2453922294) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#18](https://github.com/ericclemmons/awesome-starter-packs/pull/18) in [ericclemmons/awesome-starter-packs](https://github.com/ericclemmons/awesome-starter-packs)
+5. 💪 Opened PR [#8003](https://github.com/refined-github/refined-github/pull/8003) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
