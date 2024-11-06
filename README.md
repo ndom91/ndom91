@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5425](https://github.com/gitbutlerapp/gitbutler/pull/5425) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#4830](https://github.com/gitbutlerapp/gitbutler/issues/4830#issuecomment-2456535803) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#4830](https://github.com/gitbutlerapp/gitbutler/issues/4830#issuecomment-2455511082) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🎉 Merged PR [#5418](https://github.com/gitbutlerapp/gitbutler/pull/5418) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#5429](https://github.com/gitbutlerapp/gitbutler/pull/5429) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#5426](https://github.com/gitbutlerapp/gitbutler/pull/5426) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#5425](https://github.com/gitbutlerapp/gitbutler/pull/5425) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#4830](https://github.com/gitbutlerapp/gitbutler/issues/4830#issuecomment-2456535803) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#4830](https://github.com/gitbutlerapp/gitbutler/issues/4830#issuecomment-2455511082) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🎉 Merged PR [#5418](https://github.com/gitbutlerapp/gitbutler/pull/5418) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
