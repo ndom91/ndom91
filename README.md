@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5999](https://github.com/flatpak/flatpak/issues/5999#issuecomment-2466158749) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
-2. ❗ Opened issue [#5999](https://github.com/flatpak/flatpak/issues/5999) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
-3. 🔒 Closed issue [#5998](https://github.com/flatpak/flatpak/issues/5998) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
-4. 🗣 Commented on [#9406](https://github.com/vercel/turborepo/pull/9406#issuecomment-2464244135) in [vercel/turborepo](https://github.com/vercel/turborepo)
-5. ❗ Opened issue [#5998](https://github.com/flatpak/flatpak/issues/5998) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+1. 🗣 Commented on [#11911](https://github.com/nextauthjs/next-auth/pull/11911#issuecomment-2466209621) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🗣 Commented on [#5999](https://github.com/flatpak/flatpak/issues/5999#issuecomment-2466158749) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+3. ❗ Opened issue [#5999](https://github.com/flatpak/flatpak/issues/5999) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+4. 🔒 Closed issue [#5998](https://github.com/flatpak/flatpak/issues/5998) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+5. 🗣 Commented on [#9406](https://github.com/vercel/turborepo/pull/9406#issuecomment-2464244135) in [vercel/turborepo](https://github.com/vercel/turborepo)
 <!--END_SECTION:activity-->
