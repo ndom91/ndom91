@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5407](https://github.com/gitbutlerapp/gitbutler/issues/5407#issuecomment-2466438704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#11911](https://github.com/nextauthjs/next-auth/pull/11911#issuecomment-2466209621) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#5999](https://github.com/flatpak/flatpak/issues/5999#issuecomment-2466158749) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
-4. ❗ Opened issue [#5999](https://github.com/flatpak/flatpak/issues/5999) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
-5. 🔒 Closed issue [#5998](https://github.com/flatpak/flatpak/issues/5998) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+1. 🗣 Commented on [#5407](https://github.com/gitbutlerapp/gitbutler/issues/5407#issuecomment-2466650976) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#5407](https://github.com/gitbutlerapp/gitbutler/issues/5407#issuecomment-2466438704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#11911](https://github.com/nextauthjs/next-auth/pull/11911#issuecomment-2466209621) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#5999](https://github.com/flatpak/flatpak/issues/5999#issuecomment-2466158749) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+5. ❗ Opened issue [#5999](https://github.com/flatpak/flatpak/issues/5999) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
 <!--END_SECTION:activity-->
