@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5407](https://github.com/gitbutlerapp/gitbutler/issues/5407#issuecomment-2466650976) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5407](https://github.com/gitbutlerapp/gitbutler/issues/5407#issuecomment-2466438704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#11911](https://github.com/nextauthjs/next-auth/pull/11911#issuecomment-2466209621) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#5999](https://github.com/flatpak/flatpak/issues/5999#issuecomment-2466158749) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
-5. ❗ Opened issue [#5999](https://github.com/flatpak/flatpak/issues/5999) in [flatpak/flatpak](https://github.com/flatpak/flatpak)
+1. 🗣 Commented on [#5473](https://github.com/gitbutlerapp/gitbutler/pull/5473#issuecomment-2467934517) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#1](https://github.com/ndom91/github-search-preview/issues/1#issuecomment-2467910032) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
+3. 🗣 Commented on [#1](https://github.com/ndom91/github-search-preview/issues/1#issuecomment-2467909163) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
+4. 🗣 Commented on [#8003](https://github.com/refined-github/refined-github/pull/8003#issuecomment-2467897575) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 🗣 Commented on [#5272](https://github.com/gitbutlerapp/gitbutler/issues/5272#issuecomment-2467884748) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
