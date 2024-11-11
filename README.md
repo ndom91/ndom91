@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11647](https://github.com/tauri-apps/tauri/issues/11647#issuecomment-2468687350) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-2. 🔒 Closed issue [#11647](https://github.com/tauri-apps/tauri/issues/11647) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-3. ❗ Opened issue [#11647](https://github.com/tauri-apps/tauri/issues/11647) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-4. 🗣 Commented on [#5473](https://github.com/gitbutlerapp/gitbutler/pull/5473#issuecomment-2467934517) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#1](https://github.com/ndom91/github-search-preview/issues/1#issuecomment-2467910032) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
+1. 🗣 Commented on [#1](https://github.com/ndom91/github-search-preview/issues/1#issuecomment-2468891835) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
+2. 🔒 Closed issue [#1](https://github.com/ndom91/github-search-preview/issues/1) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
+3. 🗣 Commented on [#11647](https://github.com/tauri-apps/tauri/issues/11647#issuecomment-2468687350) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+4. 🔒 Closed issue [#11647](https://github.com/tauri-apps/tauri/issues/11647) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+5. ❗ Opened issue [#11647](https://github.com/tauri-apps/tauri/issues/11647) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 <!--END_SECTION:activity-->
