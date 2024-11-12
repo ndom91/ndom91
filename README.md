@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/gitbutlerapp/gitbutler-docs/pull/44) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-2. ❗ Opened issue [#2](https://github.com/ndom91/github-search-preview/issues/2) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
-3. 🗣 Commented on [#1](https://github.com/ndom91/github-search-preview/issues/1#issuecomment-2468891835) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
-4. 🔒 Closed issue [#1](https://github.com/ndom91/github-search-preview/issues/1) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
-5. 🗣 Commented on [#11647](https://github.com/tauri-apps/tauri/issues/11647#issuecomment-2468687350) in [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+1. 🎉 Merged PR [#5525](https://github.com/gitbutlerapp/gitbutler/pull/5525) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#44](https://github.com/gitbutlerapp/gitbutler-docs/pull/44) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+3. 💪 Opened PR [#44](https://github.com/gitbutlerapp/gitbutler-docs/pull/44) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+4. ❗ Opened issue [#2](https://github.com/ndom91/github-search-preview/issues/2) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
+5. 🗣 Commented on [#1](https://github.com/ndom91/github-search-preview/issues/1#issuecomment-2468891835) in [ndom91/github-search-preview](https://github.com/ndom91/github-search-preview)
 <!--END_SECTION:activity-->
