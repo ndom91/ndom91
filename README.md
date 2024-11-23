@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#169](https://github.com/ndom91/dummy/pull/169) in [ndom91/dummy](https://github.com/ndom91/dummy)
-2. 🎉 Merged PR [#5648](https://github.com/gitbutlerapp/gitbutler/pull/5648) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#5647](https://github.com/gitbutlerapp/gitbutler/pull/5647) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#169](https://github.com/ndom91/dummy/pull/169) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#168](https://github.com/ndom91/dummy/pull/168) in [ndom91/dummy](https://github.com/ndom91/dummy)
+1. 🗣 Commented on [#47](https://github.com/gitbutlerapp/gitbutler-docs/pull/47#issuecomment-2495477762) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+2. ❗ Opened issue [#1100](https://github.com/fuma-nama/fumadocs/issues/1100) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+3. 🗣 Commented on [#482](https://github.com/bcherny/json-schema-to-typescript/issues/482#issuecomment-2495474904) in [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript)
+4. 🎉 Merged PR [#169](https://github.com/ndom91/dummy/pull/169) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 🎉 Merged PR [#5648](https://github.com/gitbutlerapp/gitbutler/pull/5648) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
