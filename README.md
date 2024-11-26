@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#193](https://github.com/ndom91/dummy/pull/193) in [ndom91/dummy](https://github.com/ndom91/dummy)
-3. 💪 Opened PR [#192](https://github.com/ndom91/dummy/pull/192) in [ndom91/dummy](https://github.com/ndom91/dummy)
-4. 🎉 Merged PR [#191](https://github.com/ndom91/dummy/pull/191) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#191](https://github.com/ndom91/dummy/pull/191) in [ndom91/dummy](https://github.com/ndom91/dummy)
+1. 🗣 Commented on [#1100](https://github.com/fuma-nama/fumadocs/issues/1100#issuecomment-2500786724) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+2. 🎉 Merged PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#193](https://github.com/ndom91/dummy/pull/193) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 💪 Opened PR [#192](https://github.com/ndom91/dummy/pull/192) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
