@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1100](https://github.com/fuma-nama/fumadocs/issues/1100#issuecomment-2500786724) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
-2. 🎉 Merged PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#193](https://github.com/ndom91/dummy/pull/193) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#192](https://github.com/ndom91/dummy/pull/192) in [ndom91/dummy](https://github.com/ndom91/dummy)
+1. 🗣 Commented on [#53](https://github.com/gitbutlerapp/gitbutler-docs/pull/53#issuecomment-2501089053) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+2. ❌ Closed PR [#53](https://github.com/gitbutlerapp/gitbutler-docs/pull/53) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+3. 🗣 Commented on [#1100](https://github.com/fuma-nama/fumadocs/issues/1100#issuecomment-2500786724) in [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)
+4. 🎉 Merged PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#5685](https://github.com/gitbutlerapp/gitbutler/pull/5685) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
