@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5704](https://github.com/gitbutlerapp/gitbutler/pull/5704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5395](https://github.com/gitbutlerapp/gitbutler/pull/5395#issuecomment-2506606272) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❌ Closed PR [#5395](https://github.com/gitbutlerapp/gitbutler/pull/5395) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#5709](https://github.com/gitbutlerapp/gitbutler/pull/5709) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. ❗ Opened issue [#239](https://github.com/storybookjs/addon-svelte-csf/issues/239) in [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf)
+1. 🗣 Commented on [#5709](https://github.com/gitbutlerapp/gitbutler/pull/5709#issuecomment-2506682475) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#5704](https://github.com/gitbutlerapp/gitbutler/pull/5704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#5395](https://github.com/gitbutlerapp/gitbutler/pull/5395#issuecomment-2506606272) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ❌ Closed PR [#5395](https://github.com/gitbutlerapp/gitbutler/pull/5395) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#5709](https://github.com/gitbutlerapp/gitbutler/pull/5709) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
