@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#196](https://github.com/ndom91/dummy/pull/196) in [ndom91/dummy](https://github.com/ndom91/dummy)
-2. 💪 Opened PR [#197](https://github.com/ndom91/dummy/pull/197) in [ndom91/dummy](https://github.com/ndom91/dummy)
-3. 💪 Opened PR [#196](https://github.com/ndom91/dummy/pull/196) in [ndom91/dummy](https://github.com/ndom91/dummy)
-4. 💪 Opened PR [#195](https://github.com/ndom91/dummy/pull/195) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#5704](https://github.com/gitbutlerapp/gitbutler/pull/5704) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. ❗ Opened issue [#239](https://github.com/storybookjs/addon-svelte-csf/issues/239) in [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf)
+2. 🗣 Commented on [#174](https://github.com/storybookjs/addon-svelte-csf/issues/174#issuecomment-2506579491) in [storybookjs/addon-svelte-csf](https://github.com/storybookjs/addon-svelte-csf)
+3. 🎉 Merged PR [#196](https://github.com/ndom91/dummy/pull/196) in [ndom91/dummy](https://github.com/ndom91/dummy)
+4. 💪 Opened PR [#197](https://github.com/ndom91/dummy/pull/197) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 💪 Opened PR [#196](https://github.com/ndom91/dummy/pull/196) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
