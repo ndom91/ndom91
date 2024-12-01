@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12323](https://github.com/nextauthjs/next-auth/pull/12323) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#12319](https://github.com/nextauthjs/next-auth/pull/12319) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#12320](https://github.com/nextauthjs/next-auth/pull/12320) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🗣 Commented on [#5667](https://github.com/gitbutlerapp/gitbutler/pull/5667#issuecomment-2507937741) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#12319](https://github.com/nextauthjs/next-auth/pull/12319#issuecomment-2507921367) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#138](https://github.com/ndom91/react-timezone-select/pull/138) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🎉 Merged PR [#12323](https://github.com/nextauthjs/next-auth/pull/12323) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#12319](https://github.com/nextauthjs/next-auth/pull/12319) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#12320](https://github.com/nextauthjs/next-auth/pull/12320) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🗣 Commented on [#5667](https://github.com/gitbutlerapp/gitbutler/pull/5667#issuecomment-2507937741) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
