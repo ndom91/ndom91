@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5719](https://github.com/gitbutlerapp/gitbutler/pull/5719) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#5719](https://github.com/gitbutlerapp/gitbutler/pull/5719) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#138](https://github.com/ndom91/react-timezone-select/pull/138) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🎉 Merged PR [#12323](https://github.com/nextauthjs/next-auth/pull/12323) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#12319](https://github.com/nextauthjs/next-auth/pull/12319) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#197](https://github.com/ndom91/dummy/pull/197) in [ndom91/dummy](https://github.com/ndom91/dummy)
+2. 🎉 Merged PR [#5709](https://github.com/gitbutlerapp/gitbutler/pull/5709) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🎉 Merged PR [#5719](https://github.com/gitbutlerapp/gitbutler/pull/5719) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#5719](https://github.com/gitbutlerapp/gitbutler/pull/5719) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🎉 Merged PR [#138](https://github.com/ndom91/react-timezone-select/pull/138) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
