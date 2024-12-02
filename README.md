@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/ndom91/dummy/pull/197) in [ndom91/dummy](https://github.com/ndom91/dummy)
-2. 🎉 Merged PR [#5709](https://github.com/gitbutlerapp/gitbutler/pull/5709) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#5719](https://github.com/gitbutlerapp/gitbutler/pull/5719) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#5719](https://github.com/gitbutlerapp/gitbutler/pull/5719) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#138](https://github.com/ndom91/react-timezone-select/pull/138) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 💪 Opened PR [#200](https://github.com/ndom91/dummy/pull/200) in [ndom91/dummy](https://github.com/ndom91/dummy)
+2. 🎉 Merged PR [#198](https://github.com/ndom91/dummy/pull/198) in [ndom91/dummy](https://github.com/ndom91/dummy)
+3. 💪 Opened PR [#199](https://github.com/ndom91/dummy/pull/199) in [ndom91/dummy](https://github.com/ndom91/dummy)
+4. 💪 Opened PR [#198](https://github.com/ndom91/dummy/pull/198) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 🎉 Merged PR [#197](https://github.com/ndom91/dummy/pull/197) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
