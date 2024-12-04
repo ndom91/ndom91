@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/ndom91/react-timezone-select/issues/140#issuecomment-2515694732) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-2. 🎉 Merged PR [#139](https://github.com/ndom91/react-timezone-select/pull/139) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. 🔒 Closed issue [#8](https://github.com/ndom91/rose-pine-hyprcursor/issues/8) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-4. 🎉 Merged PR [#9](https://github.com/ndom91/rose-pine-hyprcursor/pull/9) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-5. 🎉 Merged PR [#11954](https://github.com/nextauthjs/next-auth/pull/11954) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#218](https://github.com/ndom91/dummy/pull/218) in [ndom91/dummy](https://github.com/ndom91/dummy)
+2. 💪 Opened PR [#217](https://github.com/ndom91/dummy/pull/217) in [ndom91/dummy](https://github.com/ndom91/dummy)
+3. 💪 Opened PR [#216](https://github.com/ndom91/dummy/pull/216) in [ndom91/dummy](https://github.com/ndom91/dummy)
+4. 🎉 Merged PR [#215](https://github.com/ndom91/dummy/pull/215) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 💪 Opened PR [#215](https://github.com/ndom91/dummy/pull/215) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
