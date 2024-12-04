@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#213](https://github.com/ndom91/dummy/pull/213) in [ndom91/dummy](https://github.com/ndom91/dummy)
-2. 💪 Opened PR [#213](https://github.com/ndom91/dummy/pull/213) in [ndom91/dummy](https://github.com/ndom91/dummy)
-3. 💪 Opened PR [#5731](https://github.com/gitbutlerapp/gitbutler/pull/5731) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🎉 Merged PR [#211](https://github.com/ndom91/dummy/pull/211) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#212](https://github.com/ndom91/dummy/pull/212) in [ndom91/dummy](https://github.com/ndom91/dummy)
+1. 🗣 Commented on [#140](https://github.com/ndom91/react-timezone-select/issues/140#issuecomment-2515694732) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🎉 Merged PR [#139](https://github.com/ndom91/react-timezone-select/pull/139) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🔒 Closed issue [#8](https://github.com/ndom91/rose-pine-hyprcursor/issues/8) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+4. 🎉 Merged PR [#9](https://github.com/ndom91/rose-pine-hyprcursor/pull/9) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+5. 🎉 Merged PR [#11954](https://github.com/nextauthjs/next-auth/pull/11954) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
