@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525540498) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#64](https://github.com/Saghen/blink.cmp/issues/64#issuecomment-2525240738) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
-3. 🎉 Merged PR [#241](https://github.com/ndom91/dummy/pull/241) in [ndom91/dummy](https://github.com/ndom91/dummy)
-4. 💪 Opened PR [#241](https://github.com/ndom91/dummy/pull/241) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#240](https://github.com/ndom91/dummy/pull/240) in [ndom91/dummy](https://github.com/ndom91/dummy)
+1. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525542447) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525540498) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#64](https://github.com/Saghen/blink.cmp/issues/64#issuecomment-2525240738) in [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+4. 🎉 Merged PR [#241](https://github.com/ndom91/dummy/pull/241) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 💪 Opened PR [#241](https://github.com/ndom91/dummy/pull/241) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
