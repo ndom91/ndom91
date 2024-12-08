@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ndom91/domino-display/pull/1) in [ndom91/domino-display](https://github.com/ndom91/domino-display)
-2. 🗣 Commented on [#5777](https://github.com/gitbutlerapp/gitbutler/pull/5777#issuecomment-2525874746) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525550782) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525542447) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525540498) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2526290265) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#1](https://github.com/ndom91/domino-display/pull/1) in [ndom91/domino-display](https://github.com/ndom91/domino-display)
+3. 🗣 Commented on [#5777](https://github.com/gitbutlerapp/gitbutler/pull/5777#issuecomment-2525874746) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525550782) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#5776](https://github.com/gitbutlerapp/gitbutler/issues/5776#issuecomment-2525542447) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
