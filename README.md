@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#267](https://github.com/ndom91/dummy/pull/267) in [ndom91/dummy](https://github.com/ndom91/dummy)
-2. 🎉 Merged PR [#265](https://github.com/ndom91/dummy/pull/265) in [ndom91/dummy](https://github.com/ndom91/dummy)
-3. 🎉 Merged PR [#264](https://github.com/ndom91/dummy/pull/264) in [ndom91/dummy](https://github.com/ndom91/dummy)
-4. 💪 Opened PR [#266](https://github.com/ndom91/dummy/pull/266) in [ndom91/dummy](https://github.com/ndom91/dummy)
-5. 💪 Opened PR [#265](https://github.com/ndom91/dummy/pull/265) in [ndom91/dummy](https://github.com/ndom91/dummy)
+1. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2532022549) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2531984294) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#267](https://github.com/ndom91/dummy/pull/267) in [ndom91/dummy](https://github.com/ndom91/dummy)
+4. 🎉 Merged PR [#265](https://github.com/ndom91/dummy/pull/265) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 🎉 Merged PR [#264](https://github.com/ndom91/dummy/pull/264) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
