@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5804](https://github.com/gitbutlerapp/gitbutler/pull/5804) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2532097093) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#5797](https://github.com/gitbutlerapp/gitbutler/pull/5797) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2532022549) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2531984294) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#5638](https://github.com/gitbutlerapp/gitbutler/issues/5638#issuecomment-2535213969) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#5804](https://github.com/gitbutlerapp/gitbutler/pull/5804) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2532097093) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🎉 Merged PR [#5797](https://github.com/gitbutlerapp/gitbutler/pull/5797) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#5756](https://github.com/gitbutlerapp/gitbutler/pull/5756#issuecomment-2532022549) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
