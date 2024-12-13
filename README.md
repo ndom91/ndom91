@@ -19,9 +19,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5752](https://github.com/gitbutlerapp/gitbutler/issues/5752#issuecomment-2538549929) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#5820](https://github.com/gitbutlerapp/gitbutler/pull/5820) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. ❌ Closed PR [#5816](https://github.com/gitbutlerapp/gitbutler/pull/5816) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#5282](https://github.com/gitbutlerapp/gitbutler/issues/5282#issuecomment-2538402509) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#5638](https://github.com/gitbutlerapp/gitbutler/issues/5638#issuecomment-2538332427) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 💪 Opened PR [#5824](https://github.com/gitbutlerapp/gitbutler/pull/5824) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#272](https://github.com/ndom91/dummy/pull/272) in [ndom91/dummy](https://github.com/ndom91/dummy)
+3. 💪 Opened PR [#271](https://github.com/ndom91/dummy/pull/271) in [ndom91/dummy](https://github.com/ndom91/dummy)
+4. 🎉 Merged PR [#270](https://github.com/ndom91/dummy/pull/270) in [ndom91/dummy](https://github.com/ndom91/dummy)
+5. 💪 Opened PR [#270](https://github.com/ndom91/dummy/pull/270) in [ndom91/dummy](https://github.com/ndom91/dummy)
 <!--END_SECTION:activity-->
