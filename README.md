@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/gitbutlerapp/gitbutler-docs/pull/64) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-2. 💪 Opened PR [#18](https://github.com/rocketlaunchr/awesome-svelte/pull/18) in [rocketlaunchr/awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte)
-3. 🗣 Commented on [#63](https://github.com/gitbutlerapp/gitbutler-docs/issues/63#issuecomment-2560613730) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-4. 🗣 Commented on [#12383](https://github.com/nextauthjs/next-auth/pull/12383#issuecomment-2558320081) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#12275](https://github.com/nextauthjs/next-auth/pull/12275#issuecomment-2558308105) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#65](https://github.com/gitbutlerapp/gitbutler-docs/pull/65) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+2. 🎉 Merged PR [#64](https://github.com/gitbutlerapp/gitbutler-docs/pull/64) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+3. 💪 Opened PR [#18](https://github.com/rocketlaunchr/awesome-svelte/pull/18) in [rocketlaunchr/awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte)
+4. 🗣 Commented on [#63](https://github.com/gitbutlerapp/gitbutler-docs/issues/63#issuecomment-2560613730) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+5. 🗣 Commented on [#12383](https://github.com/nextauthjs/next-auth/pull/12383#issuecomment-2558320081) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
