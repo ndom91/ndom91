@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5887](https://github.com/gitbutlerapp/gitbutler/issues/5887#issuecomment-2573054271) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#5282](https://github.com/gitbutlerapp/gitbutler/issues/5282#issuecomment-2572975760) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#5888](https://github.com/gitbutlerapp/gitbutler/issues/5888#issuecomment-2572965118) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-5. 🎉 Merged PR [#12468](https://github.com/nextauthjs/next-auth/pull/12468) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. ❗ Opened issue [#89](https://github.com/chaqchase/lla/issues/89) in [chaqchase/lla](https://github.com/chaqchase/lla)
+2. 🗣 Commented on [#5887](https://github.com/gitbutlerapp/gitbutler/issues/5887#issuecomment-2573054271) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#5282](https://github.com/gitbutlerapp/gitbutler/issues/5282#issuecomment-2572975760) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#5888](https://github.com/gitbutlerapp/gitbutler/issues/5888#issuecomment-2572965118) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❗ Opened issue [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
 <!--END_SECTION:activity-->
