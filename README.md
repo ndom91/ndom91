@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#89](https://github.com/chaqchase/lla/issues/89) in [chaqchase/lla](https://github.com/chaqchase/lla)
-2. 🗣 Commented on [#89](https://github.com/chaqchase/lla/issues/89#issuecomment-2573784184) in [chaqchase/lla](https://github.com/chaqchase/lla)
-3. ❗ Opened issue [#89](https://github.com/chaqchase/lla/issues/89) in [chaqchase/lla](https://github.com/chaqchase/lla)
-4. 🗣 Commented on [#5887](https://github.com/gitbutlerapp/gitbutler/issues/5887#issuecomment-2573054271) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#5282](https://github.com/gitbutlerapp/gitbutler/issues/5282#issuecomment-2572975760) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. ❗ Opened issue [#5708](https://github.com/bambulab/BambuStudio/issues/5708) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+2. 🔒 Closed issue [#89](https://github.com/chaqchase/lla/issues/89) in [chaqchase/lla](https://github.com/chaqchase/lla)
+3. 🗣 Commented on [#89](https://github.com/chaqchase/lla/issues/89#issuecomment-2573784184) in [chaqchase/lla](https://github.com/chaqchase/lla)
+4. ❗ Opened issue [#89](https://github.com/chaqchase/lla/issues/89) in [chaqchase/lla](https://github.com/chaqchase/lla)
+5. 🗣 Commented on [#5887](https://github.com/gitbutlerapp/gitbutler/issues/5887#issuecomment-2573054271) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
