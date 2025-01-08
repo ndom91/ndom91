@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5853](https://github.com/gitbutlerapp/gitbutler/issues/5853) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🎉 Merged PR [#5900](https://github.com/gitbutlerapp/gitbutler/pull/5900) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#5900](https://github.com/gitbutlerapp/gitbutler/pull/5900) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🗣 Commented on [#8984](https://github.com/hyprwm/Hyprland/issues/8984#issuecomment-2577314045) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. 🗣 Commented on [#5708](https://github.com/bambulab/BambuStudio/issues/5708#issuecomment-2576416991) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+1. 💪 Opened PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🔒 Closed issue [#5853](https://github.com/gitbutlerapp/gitbutler/issues/5853) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🎉 Merged PR [#5900](https://github.com/gitbutlerapp/gitbutler/pull/5900) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#5900](https://github.com/gitbutlerapp/gitbutler/pull/5900) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#8984](https://github.com/hyprwm/Hyprland/issues/8984#issuecomment-2577314045) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
