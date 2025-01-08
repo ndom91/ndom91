@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8984](https://github.com/hyprwm/Hyprland/issues/8984#issuecomment-2577314045) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. 🗣 Commented on [#5708](https://github.com/bambulab/BambuStudio/issues/5708#issuecomment-2576416991) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
-3. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2576403281) in [lusingander/serie](https://github.com/lusingander/serie)
-4. 🎉 Merged PR [#66](https://github.com/gitbutlerapp/gitbutler-docs/pull/66) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-5. 🗣 Commented on [#198788](https://github.com/microsoft/winget-pkgs/pull/198788#issuecomment-2575014430) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 💪 Opened PR [#5900](https://github.com/gitbutlerapp/gitbutler/pull/5900) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#8984](https://github.com/hyprwm/Hyprland/issues/8984#issuecomment-2577314045) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. 🗣 Commented on [#5708](https://github.com/bambulab/BambuStudio/issues/5708#issuecomment-2576416991) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+4. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2576403281) in [lusingander/serie](https://github.com/lusingander/serie)
+5. 🎉 Merged PR [#66](https://github.com/gitbutlerapp/gitbutler-docs/pull/66) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
 <!--END_SECTION:activity-->
