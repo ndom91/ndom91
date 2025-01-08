@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2576403281) in [lusingander/serie](https://github.com/lusingander/serie)
-2. 🎉 Merged PR [#66](https://github.com/gitbutlerapp/gitbutler-docs/pull/66) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
-3. 🗣 Commented on [#198788](https://github.com/microsoft/winget-pkgs/pull/198788#issuecomment-2575014430) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-4. 🎉 Merged PR [#12295](https://github.com/nextauthjs/next-auth/pull/12295) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. ❗ Opened issue [#5708](https://github.com/bambulab/BambuStudio/issues/5708) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+1. 🗣 Commented on [#5708](https://github.com/bambulab/BambuStudio/issues/5708#issuecomment-2576416991) in [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio)
+2. 🗣 Commented on [#49](https://github.com/lusingander/serie/issues/49#issuecomment-2576403281) in [lusingander/serie](https://github.com/lusingander/serie)
+3. 🎉 Merged PR [#66](https://github.com/gitbutlerapp/gitbutler-docs/pull/66) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+4. 🗣 Commented on [#198788](https://github.com/microsoft/winget-pkgs/pull/198788#issuecomment-2575014430) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. 🎉 Merged PR [#12295](https://github.com/nextauthjs/next-auth/pull/12295) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
