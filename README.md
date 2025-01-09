@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12483](https://github.com/nextauthjs/next-auth/pull/12483) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#14516](https://github.com/getsentry/sentry-javascript/issues/14516#issuecomment-2577827297) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-4. 🗣 Commented on [#14565](https://github.com/getsentry/sentry-javascript/issues/14565#issuecomment-2577818089) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-5. 💪 Opened PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#5638](https://github.com/gitbutlerapp/gitbutler/issues/5638#issuecomment-2579588721) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2579566781) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+3. 🎉 Merged PR [#12483](https://github.com/nextauthjs/next-auth/pull/12483) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🗣 Commented on [#14516](https://github.com/getsentry/sentry-javascript/issues/14516#issuecomment-2577827297) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
 <!--END_SECTION:activity-->
