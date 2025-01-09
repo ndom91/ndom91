@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14516](https://github.com/getsentry/sentry-javascript/issues/14516#issuecomment-2577827297) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-2. 🗣 Commented on [#14565](https://github.com/getsentry/sentry-javascript/issues/14565#issuecomment-2577818089) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-3. 💪 Opened PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🔒 Closed issue [#5853](https://github.com/gitbutlerapp/gitbutler/issues/5853) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#5900](https://github.com/gitbutlerapp/gitbutler/pull/5900) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#14516](https://github.com/getsentry/sentry-javascript/issues/14516#issuecomment-2577827297) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+3. 🗣 Commented on [#14565](https://github.com/getsentry/sentry-javascript/issues/14565#issuecomment-2577818089) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. 💪 Opened PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🔒 Closed issue [#5853](https://github.com/gitbutlerapp/gitbutler/issues/5853) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
