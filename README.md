@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6003](https://github.com/flathub/flathub/issues/6003) in [flathub/flathub](https://github.com/flathub/flathub)
-2. 🗣 Commented on [#5638](https://github.com/gitbutlerapp/gitbutler/issues/5638#issuecomment-2579588721) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2579566781) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-4. 🎉 Merged PR [#12483](https://github.com/nextauthjs/next-auth/pull/12483) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#5901](https://github.com/gitbutlerapp/gitbutler/pull/5901) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#6003](https://github.com/flathub/flathub/issues/6003#issuecomment-2579994790) in [flathub/flathub](https://github.com/flathub/flathub)
+2. ❗ Opened issue [#6003](https://github.com/flathub/flathub/issues/6003) in [flathub/flathub](https://github.com/flathub/flathub)
+3. 🗣 Commented on [#5638](https://github.com/gitbutlerapp/gitbutler/issues/5638#issuecomment-2579588721) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2579566781) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+5. 🎉 Merged PR [#12483](https://github.com/nextauthjs/next-auth/pull/12483) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
