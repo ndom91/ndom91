@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5888](https://github.com/gitbutlerapp/gitbutler/issues/5888#issuecomment-2580562545) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#14516](https://github.com/getsentry/sentry-javascript/issues/14516#issuecomment-2580197231) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
-3. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2580055312) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-4. 🗣 Commented on [#6003](https://github.com/flathub/flathub/issues/6003#issuecomment-2579994790) in [flathub/flathub](https://github.com/flathub/flathub)
-5. ❗ Opened issue [#6003](https://github.com/flathub/flathub/issues/6003) in [flathub/flathub](https://github.com/flathub/flathub)
+1. 💪 Opened PR [#67](https://github.com/gitbutlerapp/gitbutler-docs/pull/67) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+2. 🗣 Commented on [#5888](https://github.com/gitbutlerapp/gitbutler/issues/5888#issuecomment-2580562545) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#14516](https://github.com/getsentry/sentry-javascript/issues/14516#issuecomment-2580197231) in [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript)
+4. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2580055312) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+5. 🗣 Commented on [#6003](https://github.com/flathub/flathub/issues/6003#issuecomment-2579994790) in [flathub/flathub](https://github.com/flathub/flathub)
 <!--END_SECTION:activity-->
