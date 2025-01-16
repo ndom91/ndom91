@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5935](https://github.com/gitbutlerapp/gitbutler/pull/5935#issuecomment-2588184949) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. ❌ Closed PR [#5935](https://github.com/gitbutlerapp/gitbutler/pull/5935) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#5609](https://github.com/gitbutlerapp/gitbutler/pull/5609#issuecomment-2587651404) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❌ Closed PR [#5609](https://github.com/gitbutlerapp/gitbutler/pull/5609) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#19](https://github.com/lovelylain/hass_ingress/issues/19#issuecomment-2587515831) in [lovelylain/hass_ingress](https://github.com/lovelylain/hass_ingress)
+1. 💪 Opened PR [#5955](https://github.com/gitbutlerapp/gitbutler/pull/5955) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#5935](https://github.com/gitbutlerapp/gitbutler/pull/5935#issuecomment-2588184949) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. ❌ Closed PR [#5935](https://github.com/gitbutlerapp/gitbutler/pull/5935) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#5609](https://github.com/gitbutlerapp/gitbutler/pull/5609#issuecomment-2587651404) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❌ Closed PR [#5609](https://github.com/gitbutlerapp/gitbutler/pull/5609) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
