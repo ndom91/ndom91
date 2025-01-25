@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2612029710) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#3069](https://github.com/ventoy/Ventoy/issues/3069#issuecomment-2610275865) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-3. 🎉 Merged PR [#6063](https://github.com/gitbutlerapp/gitbutler/pull/6063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 🎉 Merged PR [#6062](https://github.com/gitbutlerapp/gitbutler/pull/6062) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#6063](https://github.com/gitbutlerapp/gitbutler/pull/6063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 💪 Opened PR [#6080](https://github.com/gitbutlerapp/gitbutler/pull/6080) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#2516](https://github.com/gitbutlerapp/gitbutler/issues/2516#issuecomment-2612029710) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🗣 Commented on [#3069](https://github.com/ventoy/Ventoy/issues/3069#issuecomment-2610275865) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+4. 🎉 Merged PR [#6063](https://github.com/gitbutlerapp/gitbutler/pull/6063) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🎉 Merged PR [#6062](https://github.com/gitbutlerapp/gitbutler/pull/6062) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
