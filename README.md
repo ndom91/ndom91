@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2621734193) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-2. 🔒 Closed issue [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-3. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2621628218) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-4. 🗣 Commented on [#6102](https://github.com/gitbutlerapp/gitbutler/pull/6102#issuecomment-2621471593) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2621436691) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+1. 🎉 Merged PR [#12575](https://github.com/nextauthjs/next-auth/pull/12575) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 💪 Opened PR [#12575](https://github.com/nextauthjs/next-auth/pull/12575) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101#issuecomment-2621734193) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+4. 🔒 Closed issue [#101](https://github.com/flathub/com.gitbutler.gitbutler/issues/101) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+5. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2621628218) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
 <!--END_SECTION:activity-->
