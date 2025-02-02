@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12287](https://github.com/nextauthjs/next-auth/pull/12287#issuecomment-2629408461) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#12091](https://github.com/nextauthjs/next-auth/pull/12091) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. ❌ Reopened PR [#12091](https://github.com/nextauthjs/next-auth/pull/12091) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🎉 Merged PR [#12593](https://github.com/nextauthjs/next-auth/pull/12593) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 💪 Opened PR [#12593](https://github.com/nextauthjs/next-auth/pull/12593) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#859](https://github.com/greghesp/ha-bambulab/pull/859#issuecomment-2629472829) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+2. 🗣 Commented on [#12287](https://github.com/nextauthjs/next-auth/pull/12287#issuecomment-2629408461) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#12091](https://github.com/nextauthjs/next-auth/pull/12091) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. ❌ Reopened PR [#12091](https://github.com/nextauthjs/next-auth/pull/12091) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🎉 Merged PR [#12593](https://github.com/nextauthjs/next-auth/pull/12593) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
