@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
-2. 💪 Opened PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
-3. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2630448266) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-4. 🗣 Commented on [#859](https://github.com/greghesp/ha-bambulab/pull/859#issuecomment-2629472829) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-5. 🗣 Commented on [#12287](https://github.com/nextauthjs/next-auth/pull/12287#issuecomment-2629408461) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2634353869) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+2. 🎉 Merged PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
+3. 💪 Opened PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
+4. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2630448266) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+5. 🗣 Commented on [#859](https://github.com/greghesp/ha-bambulab/pull/859#issuecomment-2629472829) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
 <!--END_SECTION:activity-->
