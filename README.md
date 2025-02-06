@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#383](https://github.com/flatpak/flatpak-builder-tools/issues/383#issuecomment-2634452955) in [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools)
-2. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2634353869) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
-3. 🎉 Merged PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
-4. 💪 Opened PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
-5. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2630448266) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+1. 🎉 Merged PR [#6127](https://github.com/gitbutlerapp/gitbutler/pull/6127) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🗣 Commented on [#383](https://github.com/flatpak/flatpak-builder-tools/issues/383#issuecomment-2634452955) in [flatpak/flatpak-builder-tools](https://github.com/flatpak/flatpak-builder-tools)
+3. 🗣 Commented on [#104](https://github.com/flathub/com.gitbutler.gitbutler/pull/104#issuecomment-2634353869) in [flathub/com.gitbutler.gitbutler](https://github.com/flathub/com.gitbutler.gitbutler)
+4. 🎉 Merged PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
+5. 💪 Opened PR [#38](https://github.com/ndom91/home2021/pull/38) in [ndom91/home2021](https://github.com/ndom91/home2021)
 <!--END_SECTION:activity-->
