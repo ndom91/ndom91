@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#285](https://github.com/Andre0512/hon/issues/285#issuecomment-2646224996) in [Andre0512/hon](https://github.com/Andre0512/hon)
-2. 🎉 Merged PR [#6243](https://github.com/gitbutlerapp/gitbutler/pull/6243) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#6243](https://github.com/gitbutlerapp/gitbutler/pull/6243) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#6242](https://github.com/gitbutlerapp/gitbutler/pull/6242) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#6241](https://github.com/gitbutlerapp/gitbutler/pull/6241) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. ❗ Opened issue [#138084](https://github.com/home-assistant/core/issues/138084) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#285](https://github.com/Andre0512/hon/issues/285#issuecomment-2646224996) in [Andre0512/hon](https://github.com/Andre0512/hon)
+3. 🎉 Merged PR [#6243](https://github.com/gitbutlerapp/gitbutler/pull/6243) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#6243](https://github.com/gitbutlerapp/gitbutler/pull/6243) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#6242](https://github.com/gitbutlerapp/gitbutler/pull/6242) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
