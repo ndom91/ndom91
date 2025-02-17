@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#12442](https://github.com/nextauthjs/next-auth/issues/12442) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🎉 Merged PR [#12651](https://github.com/nextauthjs/next-auth/pull/12651) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#6231](https://github.com/gitbutlerapp/gitbutler/pull/6231#issuecomment-2647955283) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❗ Opened issue [#138084](https://github.com/home-assistant/core/issues/138084) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#285](https://github.com/Andre0512/hon/issues/285#issuecomment-2646224996) in [Andre0512/hon](https://github.com/Andre0512/hon)
+1. 🗣 Commented on [#7](https://github.com/ndom91/sveltekasten/issues/7#issuecomment-2662505735) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+2. 🔒 Closed issue [#12442](https://github.com/nextauthjs/next-auth/issues/12442) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🎉 Merged PR [#12651](https://github.com/nextauthjs/next-auth/pull/12651) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🗣 Commented on [#6231](https://github.com/gitbutlerapp/gitbutler/pull/6231#issuecomment-2647955283) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. ❗ Opened issue [#138084](https://github.com/home-assistant/core/issues/138084) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
