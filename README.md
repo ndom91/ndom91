@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🗣 Commented on [#7](https://github.com/ndom91/sveltekasten/issues/7#issuecomment-2662505735) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
-4. 🔒 Closed issue [#12442](https://github.com/nextauthjs/next-auth/issues/12442) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#12651](https://github.com/nextauthjs/next-auth/pull/12651) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🎉 Merged PR [#6242](https://github.com/gitbutlerapp/gitbutler/pull/6242) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 🎉 Merged PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🗣 Commented on [#7](https://github.com/ndom91/sveltekasten/issues/7#issuecomment-2662505735) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+5. 🔒 Closed issue [#12442](https://github.com/nextauthjs/next-auth/issues/12442) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
