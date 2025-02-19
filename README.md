@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7325](https://github.com/gitbutlerapp/gitbutler/pull/7325) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🎉 Merged PR [#6242](https://github.com/gitbutlerapp/gitbutler/pull/6242) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🗣 Commented on [#7](https://github.com/ndom91/sveltekasten/issues/7#issuecomment-2662505735) in [ndom91/sveltekasten](https://github.com/ndom91/sveltekasten)
+1. 🗣 Commented on [#6231](https://github.com/gitbutlerapp/gitbutler/pull/6231#issuecomment-2665551618) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. ❌ Closed PR [#6231](https://github.com/gitbutlerapp/gitbutler/pull/6231) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 💪 Opened PR [#7325](https://github.com/gitbutlerapp/gitbutler/pull/7325) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🎉 Merged PR [#6242](https://github.com/gitbutlerapp/gitbutler/pull/6242) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🎉 Merged PR [#7313](https://github.com/gitbutlerapp/gitbutler/pull/7313) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
