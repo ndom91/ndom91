@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7328](https://github.com/gitbutlerapp/gitbutler/pull/7328) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🎉 Merged PR [#7327](https://github.com/gitbutlerapp/gitbutler/pull/7327) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#7326](https://github.com/gitbutlerapp/gitbutler/pull/7326) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#7327](https://github.com/gitbutlerapp/gitbutler/pull/7327) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#7326](https://github.com/gitbutlerapp/gitbutler/pull/7326) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#7328](https://github.com/gitbutlerapp/gitbutler/pull/7328) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#7328](https://github.com/gitbutlerapp/gitbutler/pull/7328) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+3. 🎉 Merged PR [#7327](https://github.com/gitbutlerapp/gitbutler/pull/7327) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 🎉 Merged PR [#7326](https://github.com/gitbutlerapp/gitbutler/pull/7326) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#7327](https://github.com/gitbutlerapp/gitbutler/pull/7327) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
