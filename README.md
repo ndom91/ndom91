@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 💪 Opened PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 🎉 Merged PR [#7380](https://github.com/gitbutlerapp/gitbutler/pull/7380) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. 💪 Opened PR [#7380](https://github.com/gitbutlerapp/gitbutler/pull/7380) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 🎉 Merged PR [#7375](https://github.com/gitbutlerapp/gitbutler/pull/7375) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#11](https://github.com/ndom91/svelte-infinite/issues/11#issuecomment-2680973092) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+2. ❌ Closed PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+3. 🎉 Merged PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. 💪 Opened PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 🎉 Merged PR [#7380](https://github.com/gitbutlerapp/gitbutler/pull/7380) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
