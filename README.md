@@ -19,9 +19,9 @@ Building a fantastic new git experience at [GitButler](https://github.com/gitbut
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35654](https://github.com/systemd/systemd/issues/35654#issuecomment-2681345945) in [systemd/systemd](https://github.com/systemd/systemd)
-2. 🗣 Commented on [#11](https://github.com/ndom91/svelte-infinite/issues/11#issuecomment-2680973092) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-3. ❌ Closed PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-4. 🎉 Merged PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🎉 Merged PR [#71](https://github.com/gitbutlerapp/gitbutler-docs/pull/71) in [gitbutlerapp/gitbutler-docs](https://github.com/gitbutlerapp/gitbutler-docs)
+2. 🗣 Commented on [#35654](https://github.com/systemd/systemd/issues/35654#issuecomment-2681345945) in [systemd/systemd](https://github.com/systemd/systemd)
+3. 🗣 Commented on [#11](https://github.com/ndom91/svelte-infinite/issues/11#issuecomment-2680973092) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+4. ❌ Closed PR [#4](https://github.com/ndom91/svelte-infinite/pull/4) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+5. 🎉 Merged PR [#7381](https://github.com/gitbutlerapp/gitbutler/pull/7381) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
