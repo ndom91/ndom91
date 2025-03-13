@@ -1,6 +1,3 @@
-
-Hey there 👋 my name is Nico, I'm a command-line warrior and open sourcerer - improving the web 1 PR at a time
-
 [![BSky Badge](https://img.shields.io/badge/-%20%40ndo.dev%20-%200285FF?style=flat-square&logo=bluesky&color=%23161e27)](https://bsky.app/profile/ndo.dev) [![Linkedin Badge](https://img.shields.io/badge/-ndom91-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndom91/)](https://www.linkedin.com/in/ndom91/) [![Gmail Badge](https://img.shields.io/badge/-yo@ndo.dev-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:yo@ndo.dev)](mailto:yo@ndo.dev)
 
 ### Currently Working On..
