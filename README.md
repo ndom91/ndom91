@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ndom91/svelte-infinite/issues/6#issuecomment-2710012391) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-2. ❌ Closed PR [#7465](https://github.com/gitbutlerapp/gitbutler/pull/7465) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#7474](https://github.com/gitbutlerapp/gitbutler/pull/7474) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ❌ Closed PR [#7464](https://github.com/gitbutlerapp/gitbutler/pull/7464) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-5. 💪 Opened PR [#7465](https://github.com/gitbutlerapp/gitbutler/pull/7465) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+1. 🗣 Commented on [#6](https://github.com/ndom91/svelte-infinite/issues/6#issuecomment-2721071573) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+2. 💪 Opened PR [#12](https://github.com/ndom91/svelte-infinite/pull/12) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+3. 🗣 Commented on [#6](https://github.com/ndom91/svelte-infinite/issues/6#issuecomment-2710012391) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+4. ❌ Closed PR [#7465](https://github.com/gitbutlerapp/gitbutler/pull/7465) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+5. 💪 Opened PR [#7474](https://github.com/gitbutlerapp/gitbutler/pull/7474) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 <!--END_SECTION:activity-->
