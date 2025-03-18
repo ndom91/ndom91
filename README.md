@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#385289](https://github.com/NixOS/nixpkgs/pull/385289#issuecomment-2730210992) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2728841193) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-3. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2727303683) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-4. 🎉 Merged PR [#12652](https://github.com/nextauthjs/next-auth/pull/12652) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🔒 Closed issue [#12729](https://github.com/nextauthjs/next-auth/issues/12729) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942#issuecomment-2730474530) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+2. ❗ Opened issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+3. 🗣 Commented on [#385289](https://github.com/NixOS/nixpkgs/pull/385289#issuecomment-2730210992) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2728841193) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+5. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2727303683) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
