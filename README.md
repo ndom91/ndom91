@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2728841193) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-2. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2727303683) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-3. 🎉 Merged PR [#12652](https://github.com/nextauthjs/next-auth/pull/12652) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🔒 Closed issue [#12729](https://github.com/nextauthjs/next-auth/issues/12729) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#12730](https://github.com/nextauthjs/next-auth/pull/12730) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#385289](https://github.com/NixOS/nixpkgs/pull/385289#issuecomment-2730210992) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2728841193) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+3. 🗣 Commented on [#10](https://github.com/ndom91/svelte-infinite/issues/10#issuecomment-2727303683) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+4. 🎉 Merged PR [#12652](https://github.com/nextauthjs/next-auth/pull/12652) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🔒 Closed issue [#12729](https://github.com/nextauthjs/next-auth/issues/12729) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
