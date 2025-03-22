@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12790](https://github.com/nextauthjs/next-auth/pull/12790) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942#issuecomment-2744657499) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-3. 🔓 Reopened issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-4. 🔒 Closed issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-5. 🗣 Commented on [#6](https://github.com/ndom91/svelte-infinite/issues/6#issuecomment-2737326120) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+1. 🗣 Commented on [#12453](https://github.com/nextauthjs/next-auth/pull/12453#issuecomment-2745178617) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🎉 Merged PR [#12790](https://github.com/nextauthjs/next-auth/pull/12790) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942#issuecomment-2744657499) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+4. 🔓 Reopened issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+5. 🔒 Closed issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 <!--END_SECTION:activity-->
