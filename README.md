@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-2. 🗣 Commented on [#6](https://github.com/ndom91/svelte-infinite/issues/6#issuecomment-2737326120) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-3. 🗣 Commented on [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942#issuecomment-2730474530) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-4. ❗ Opened issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
-5. 🗣 Commented on [#385289](https://github.com/NixOS/nixpkgs/pull/385289#issuecomment-2730210992) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🗣 Commented on [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942#issuecomment-2744657499) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+2. 🔓 Reopened issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+3. 🔒 Closed issue [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+4. 🗣 Commented on [#6](https://github.com/ndom91/svelte-infinite/issues/6#issuecomment-2737326120) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+5. 🗣 Commented on [#8942](https://github.com/SoftFever/OrcaSlicer/issues/8942#issuecomment-2730474530) in [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 <!--END_SECTION:activity-->
