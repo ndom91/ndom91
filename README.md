@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12676](https://github.com/nextauthjs/next-auth/issues/12676#issuecomment-2775211444) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🔒 Closed issue [#12676](https://github.com/nextauthjs/next-auth/issues/12676) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🔒 Closed issue [#295](https://github.com/marcopiovanello/yt-dlp-web-ui/issues/295) in [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui)
-4. 🗣 Commented on [#295](https://github.com/marcopiovanello/yt-dlp-web-ui/issues/295#issuecomment-2764481495) in [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui)
-5. 🗣 Commented on [#295](https://github.com/marcopiovanello/yt-dlp-web-ui/issues/295#issuecomment-2763277469) in [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui)
+1. 🗣 Commented on [#141712](https://github.com/home-assistant/core/pull/141712#issuecomment-2780741937) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#12676](https://github.com/nextauthjs/next-auth/issues/12676#issuecomment-2775211444) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🔒 Closed issue [#12676](https://github.com/nextauthjs/next-auth/issues/12676) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🔒 Closed issue [#295](https://github.com/marcopiovanello/yt-dlp-web-ui/issues/295) in [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui)
+5. 🗣 Commented on [#295](https://github.com/marcopiovanello/yt-dlp-web-ui/issues/295#issuecomment-2764481495) in [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui)
 <!--END_SECTION:activity-->
