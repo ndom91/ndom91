@@ -16,8 +16,8 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38691](https://github.com/home-assistant/home-assistant.io/pull/38691) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-2. 🗣 Commented on [#1208](https://github.com/greghesp/ha-bambulab/issues/1208#issuecomment-2784015930) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+1. 🗣 Commented on [#8411](https://github.com/gitbutlerapp/gitbutler/issues/8411#issuecomment-2867643927) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+2. 💪 Opened PR [#38691](https://github.com/home-assistant/home-assistant.io/pull/38691) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 3. 🗣 Commented on [#141712](https://github.com/home-assistant/core/pull/141712#issuecomment-2780741937) in [home-assistant/core](https://github.com/home-assistant/core)
 4. 🗣 Commented on [#12676](https://github.com/nextauthjs/next-auth/issues/12676#issuecomment-2775211444) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 5. 🔒 Closed issue [#12676](https://github.com/nextauthjs/next-auth/issues/12676) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
