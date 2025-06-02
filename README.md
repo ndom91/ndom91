@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ndom91/rose-pine-hyprcursor/pull/10) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
-2. 🔒 Closed issue [#12982](https://github.com/nextauthjs/next-auth/issues/12982) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#12983](https://github.com/nextauthjs/next-auth/pull/12983) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. 🔒 Closed issue [#12988](https://github.com/nextauthjs/next-auth/issues/12988) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#12989](https://github.com/nextauthjs/next-auth/pull/12989) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#413019](https://github.com/NixOS/nixpkgs/pull/413019#issuecomment-2930786224) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🎉 Merged PR [#10](https://github.com/ndom91/rose-pine-hyprcursor/pull/10) in [ndom91/rose-pine-hyprcursor](https://github.com/ndom91/rose-pine-hyprcursor)
+3. 🔒 Closed issue [#12982](https://github.com/nextauthjs/next-auth/issues/12982) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#12983](https://github.com/nextauthjs/next-auth/pull/12983) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. 🔒 Closed issue [#12988](https://github.com/nextauthjs/next-auth/issues/12988) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
