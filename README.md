@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3031940358) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-2. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3017130370) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-3. 🗣 Commented on [#413019](https://github.com/NixOS/nixpkgs/pull/413019#issuecomment-2939465361) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#13009](https://github.com/nextauthjs/next-auth/pull/13009) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3032754491) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+2. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3031940358) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+3. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3017130370) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+4. 🗣 Commented on [#413019](https://github.com/NixOS/nixpkgs/pull/413019#issuecomment-2939465361) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. 🔒 Closed issue [#13006](https://github.com/nextauthjs/next-auth/issues/13006) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
