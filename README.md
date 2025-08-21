@@ -16,8 +16,8 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9482](https://github.com/gitbutlerapp/gitbutler/pull/9482#issuecomment-3143329276) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-2. 🗣 Commented on [#145](https://github.com/ndom91/react-timezone-select/issues/145#issuecomment-3089977503) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. ❗ Opened issue [#841](https://github.com/insanum/gcalcli/issues/841) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
+2. 🗣 Commented on [#9482](https://github.com/gitbutlerapp/gitbutler/pull/9482#issuecomment-3143329276) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 3. 💪 Opened PR [#6838](https://github.com/starship/starship/pull/6838) in [starship/starship](https://github.com/starship/starship)
 4. 🗣 Commented on [#310](https://github.com/Andre0512/hon/issues/310#issuecomment-3038787605) in [Andre0512/hon](https://github.com/Andre0512/hon)
 5. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3032754491) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
