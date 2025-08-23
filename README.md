@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#841](https://github.com/insanum/gcalcli/issues/841) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
-2. 🗣 Commented on [#9482](https://github.com/gitbutlerapp/gitbutler/pull/9482#issuecomment-3143329276) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-3. 💪 Opened PR [#6838](https://github.com/starship/starship/pull/6838) in [starship/starship](https://github.com/starship/starship)
+1. 🗣 Commented on [#435671](https://github.com/NixOS/nixpkgs/issues/435671#issuecomment-3217143607) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. ❗ Opened issue [#841](https://github.com/insanum/gcalcli/issues/841) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
+3. 🗣 Commented on [#9482](https://github.com/gitbutlerapp/gitbutler/pull/9482#issuecomment-3143329276) in [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
 4. 🗣 Commented on [#310](https://github.com/Andre0512/hon/issues/310#issuecomment-3038787605) in [Andre0512/hon](https://github.com/Andre0512/hon)
 5. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3032754491) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
 <!--END_SECTION:activity-->
