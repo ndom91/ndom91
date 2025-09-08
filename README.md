@@ -20,5 +20,5 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 2. 🗣 Commented on [#13192](https://github.com/nextauthjs/next-auth/pull/13192#issuecomment-3227435385) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 3. 🗣 Commented on [#435671](https://github.com/NixOS/nixpkgs/issues/435671#issuecomment-3217143607) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 4. ❗ Opened issue [#841](https://github.com/insanum/gcalcli/issues/841) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
-5. 🗣 Commented on [#1394](https://github.com/greghesp/ha-bambulab/issues/1394#issuecomment-3032754491) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+5. 🗣 Commented on [#8](https://github.com/ndom91/svelte-infinite/issues/8#issuecomment-3189303249) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
