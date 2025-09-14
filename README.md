@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4859](https://github.com/microsoft/botbuilder-js/issues/4859#issuecomment-3244454806) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
-2. 🗣 Commented on [#13192](https://github.com/nextauthjs/next-auth/pull/13192#issuecomment-3227435385) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🗣 Commented on [#435671](https://github.com/NixOS/nixpkgs/issues/435671#issuecomment-3217143607) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗ Opened issue [#841](https://github.com/insanum/gcalcli/issues/841) in [insanum/gcalcli](https://github.com/insanum/gcalcli)
-5. 🗣 Commented on [#8](https://github.com/ndom91/svelte-infinite/issues/8#issuecomment-3189303249) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+1. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+2. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289436126) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+3. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289434398) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+4. ❗ Opened issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+5. 🗣 Commented on [#4859](https://github.com/microsoft/botbuilder-js/issues/4859#issuecomment-3244454806) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
 <!--END_SECTION:activity-->
