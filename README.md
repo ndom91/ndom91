@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-2. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289436126) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-3. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289434398) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-4. ❗ Opened issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-5. 🗣 Commented on [#4859](https://github.com/microsoft/botbuilder-js/issues/4859#issuecomment-3244454806) in [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js)
+1. 🗣 Commented on [#37](https://github.com/paveldn/haier-esphome/issues/37#issuecomment-3314956916) in [paveldn/haier-esphome](https://github.com/paveldn/haier-esphome)
+2. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+3. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289436126) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+4. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289434398) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+5. ❗ Opened issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
 <!--END_SECTION:activity-->
