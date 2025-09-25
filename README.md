@@ -17,8 +17,8 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/paveldn/haier-esphome/issues/37#issuecomment-3314956916) in [paveldn/haier-esphome](https://github.com/paveldn/haier-esphome)
-2. 🗣 Commented on [#6838](https://github.com/starship/starship/pull/6838#issuecomment-3302273829) in [starship/starship](https://github.com/starship/starship)
-3. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-4. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289436126) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-5. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289434398) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+2. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+3. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289436126) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+4. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289434398) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+5. ❗ Opened issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
 <!--END_SECTION:activity-->
