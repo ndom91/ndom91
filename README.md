@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/acsandmann/rift/issues/15#issuecomment-3395289293) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. ❗ Opened issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
-3. 💪 Opened PR [#207](https://github.com/team-plain/typescript-sdk/pull/207) in [team-plain/typescript-sdk](https://github.com/team-plain/typescript-sdk)
-4. 💪 Opened PR [#1554](https://github.com/greghesp/ha-bambulab/pull/1554) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-5. 🗣 Commented on [#37](https://github.com/paveldn/haier-esphome/issues/37#issuecomment-3314956916) in [paveldn/haier-esphome](https://github.com/paveldn/haier-esphome)
+1. ❗ Opened issue [#16](https://github.com/acsandmann/rift/issues/16) in [acsandmann/rift](https://github.com/acsandmann/rift)
+2. 🔒 Closed issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 🗣 Commented on [#15](https://github.com/acsandmann/rift/issues/15#issuecomment-3395289293) in [acsandmann/rift](https://github.com/acsandmann/rift)
+4. ❗ Opened issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
+5. 💪 Opened PR [#207](https://github.com/team-plain/typescript-sdk/pull/207) in [team-plain/typescript-sdk](https://github.com/team-plain/typescript-sdk)
 <!--END_SECTION:activity-->
