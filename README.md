@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/acsandmann/rift/issues/16) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 🔒 Closed issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
-3. 🗣 Commented on [#15](https://github.com/acsandmann/rift/issues/15#issuecomment-3395289293) in [acsandmann/rift](https://github.com/acsandmann/rift)
-4. ❗ Opened issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
-5. 💪 Opened PR [#207](https://github.com/team-plain/typescript-sdk/pull/207) in [team-plain/typescript-sdk](https://github.com/team-plain/typescript-sdk)
+1. ❗ Opened issue [#1](https://github.com/acsandmann/rift.lua/issues/1) in [acsandmann/rift.lua](https://github.com/acsandmann/rift.lua)
+2. ❗ Opened issue [#16](https://github.com/acsandmann/rift/issues/16) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 🔒 Closed issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
+4. 🗣 Commented on [#15](https://github.com/acsandmann/rift/issues/15#issuecomment-3395289293) in [acsandmann/rift](https://github.com/acsandmann/rift)
+5. ❗ Opened issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
 <!--END_SECTION:activity-->
