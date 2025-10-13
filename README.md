@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#207](https://github.com/team-plain/typescript-sdk/pull/207) in [team-plain/typescript-sdk](https://github.com/team-plain/typescript-sdk)
-2. 💪 Opened PR [#1554](https://github.com/greghesp/ha-bambulab/pull/1554) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
-3. 🗣 Commented on [#37](https://github.com/paveldn/haier-esphome/issues/37#issuecomment-3314956916) in [paveldn/haier-esphome](https://github.com/paveldn/haier-esphome)
-4. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
-5. 🗣 Commented on [#20](https://github.com/sindresorhus/ink-link/issues/20#issuecomment-3289436126) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
+1. ❗ Opened issue [#15](https://github.com/acsandmann/rift/issues/15) in [acsandmann/rift](https://github.com/acsandmann/rift)
+2. 💪 Opened PR [#207](https://github.com/team-plain/typescript-sdk/pull/207) in [team-plain/typescript-sdk](https://github.com/team-plain/typescript-sdk)
+3. 💪 Opened PR [#1554](https://github.com/greghesp/ha-bambulab/pull/1554) in [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab)
+4. 🗣 Commented on [#37](https://github.com/paveldn/haier-esphome/issues/37#issuecomment-3314956916) in [paveldn/haier-esphome](https://github.com/paveldn/haier-esphome)
+5. 🔒 Closed issue [#20](https://github.com/sindresorhus/ink-link/issues/20) in [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link)
 <!--END_SECTION:activity-->
