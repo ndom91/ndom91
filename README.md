@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3398353699) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3398346685) in [acsandmann/rift](https://github.com/acsandmann/rift)
-3. ❗ Opened issue [#22](https://github.com/acsandmann/rift/issues/22) in [acsandmann/rift](https://github.com/acsandmann/rift)
-4. 💪 Opened PR [#13286](undefined) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#14](https://github.com/ndom91/svelte-infinite/pull/14#issuecomment-3397248080) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+1. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3400645043) in [acsandmann/rift](https://github.com/acsandmann/rift)
+2. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3398353699) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3398346685) in [acsandmann/rift](https://github.com/acsandmann/rift)
+4. ❗ Opened issue [#22](https://github.com/acsandmann/rift/issues/22) in [acsandmann/rift](https://github.com/acsandmann/rift)
+5. 💪 Opened PR [#13286](undefined) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
