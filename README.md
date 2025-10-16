@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/acsandmann/rift/issues/39#issuecomment-3410877893) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3410855333) in [acsandmann/rift](https://github.com/acsandmann/rift)
-3. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3408292417) in [acsandmann/rift](https://github.com/acsandmann/rift)
-4. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3408270573) in [acsandmann/rift](https://github.com/acsandmann/rift)
-5. 🗣 Commented on [#9963](https://github.com/pnpm/pnpm/issues/9963#issuecomment-3401724982) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+1. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3413213619) in [acsandmann/rift](https://github.com/acsandmann/rift)
+2. 🗣 Commented on [#39](https://github.com/acsandmann/rift/issues/39#issuecomment-3410877893) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3410855333) in [acsandmann/rift](https://github.com/acsandmann/rift)
+4. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3408292417) in [acsandmann/rift](https://github.com/acsandmann/rift)
+5. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3408270573) in [acsandmann/rift](https://github.com/acsandmann/rift)
 <!--END_SECTION:activity-->
