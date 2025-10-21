@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8504](https://github.com/refined-github/refined-github/issues/8504#issuecomment-3425769483) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. 🗣 Commented on [#39](https://github.com/acsandmann/rift/issues/39#issuecomment-3416202202) in [acsandmann/rift](https://github.com/acsandmann/rift)
-3. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3413213619) in [acsandmann/rift](https://github.com/acsandmann/rift)
-4. 🗣 Commented on [#39](https://github.com/acsandmann/rift/issues/39#issuecomment-3410877893) in [acsandmann/rift](https://github.com/acsandmann/rift)
-5. 🗣 Commented on [#22](https://github.com/acsandmann/rift/issues/22#issuecomment-3410855333) in [acsandmann/rift](https://github.com/acsandmann/rift)
+1. 🗣 Commented on [#8504](https://github.com/refined-github/refined-github/issues/8504#issuecomment-3426299852) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2.  Labeled issue [#8714](https://github.com/refined-github/refined-github/issues/8714) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. ❗ Opened issue [#8714](https://github.com/refined-github/refined-github/issues/8714) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+4. 🗣 Commented on [#8504](https://github.com/refined-github/refined-github/issues/8504#issuecomment-3425769483) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 🗣 Commented on [#39](https://github.com/acsandmann/rift/issues/39#issuecomment-3416202202) in [acsandmann/rift](https://github.com/acsandmann/rift)
 <!--END_SECTION:activity-->
