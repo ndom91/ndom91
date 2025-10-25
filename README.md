@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#71](https://github.com/acsandmann/rift/issues/71) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 🗣 Commented on [#8714](https://github.com/refined-github/refined-github/issues/8714#issuecomment-3427811044) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-3. 💪 Opened PR [#8715](undefined) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-4. 🗣 Commented on [#8504](https://github.com/refined-github/refined-github/issues/8504#issuecomment-3426299852) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5.  Labeled issue [#8714](https://github.com/refined-github/refined-github/issues/8714) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#20](https://github.com/hunvreus/devpush/issues/20#issuecomment-3445258810) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
+2. 🗣 Commented on [#20](https://github.com/hunvreus/devpush/issues/20#issuecomment-3445247849) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
+3. ❗ Opened issue [#71](https://github.com/acsandmann/rift/issues/71) in [acsandmann/rift](https://github.com/acsandmann/rift)
+4. 🗣 Commented on [#8714](https://github.com/refined-github/refined-github/issues/8714#issuecomment-3427811044) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+5. 💪 Opened PR [#8715](undefined) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
