@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3448940375) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 💪 Opened PR [#148](undefined) in [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
-3. ❗ Opened issue [#25](https://github.com/hunvreus/devpush/issues/25) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
-4. 🗣 Commented on [#20](https://github.com/hunvreus/devpush/issues/20#issuecomment-3445258810) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
-5. 🗣 Commented on [#20](https://github.com/hunvreus/devpush/issues/20#issuecomment-3445247849) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
+1. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3466723968) in [acsandmann/rift](https://github.com/acsandmann/rift)
+2. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3448940375) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 💪 Opened PR [#148](undefined) in [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
+4. ❗ Opened issue [#25](https://github.com/hunvreus/devpush/issues/25) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
+5. 🗣 Commented on [#20](https://github.com/hunvreus/devpush/issues/20#issuecomment-3445258810) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
 <!--END_SECTION:activity-->
