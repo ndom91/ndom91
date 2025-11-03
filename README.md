@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/MultiMote/niimbluelib/issues/1#issuecomment-3481837320) in [MultiMote/niimbluelib](https://github.com/MultiMote/niimbluelib)
-2. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3466723968) in [acsandmann/rift](https://github.com/acsandmann/rift)
-3. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3448940375) in [acsandmann/rift](https://github.com/acsandmann/rift)
-4. 💪 Opened PR [#148](undefined) in [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
-5. ❗ Opened issue [#25](https://github.com/hunvreus/devpush/issues/25) in [hunvreus/devpush](https://github.com/hunvreus/devpush)
+1. 💪 Opened PR [#101](undefined) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+2. 🗣 Commented on [#1](https://github.com/MultiMote/niimbluelib/issues/1#issuecomment-3481837320) in [MultiMote/niimbluelib](https://github.com/MultiMote/niimbluelib)
+3. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3466723968) in [acsandmann/rift](https://github.com/acsandmann/rift)
+4. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3448940375) in [acsandmann/rift](https://github.com/acsandmann/rift)
+5. 💪 Opened PR [#148](undefined) in [iMicknl/LoctekMotion_IoT](https://github.com/iMicknl/LoctekMotion_IoT)
 <!--END_SECTION:activity-->
