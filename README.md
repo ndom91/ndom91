@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3486021571) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-2. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3485919058) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-3. 💪 Opened PR [#101](undefined) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-4. 🗣 Commented on [#1](https://github.com/MultiMote/niimbluelib/issues/1#issuecomment-3481837320) in [MultiMote/niimbluelib](https://github.com/MultiMote/niimbluelib)
-5. 🗣 Commented on [#71](https://github.com/acsandmann/rift/issues/71#issuecomment-3466723968) in [acsandmann/rift](https://github.com/acsandmann/rift)
+1. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3495841551) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+2. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3486021571) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+3. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3485919058) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+4. 💪 Opened PR [#101](undefined) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+5. 🗣 Commented on [#1](https://github.com/MultiMote/niimbluelib/issues/1#issuecomment-3481837320) in [MultiMote/niimbluelib](https://github.com/MultiMote/niimbluelib)
 <!--END_SECTION:activity-->
