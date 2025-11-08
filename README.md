@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [ndom91/calendar-led-strip](https://github.com/ndom91/calendar-led-strip)
-2. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3495841551) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-3. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3486021571) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-4. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3485919058) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-5. 💪 Opened PR [#101](undefined) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+1. 💪 Opened PR [#8749](undefined) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 💪 Opened PR [#1](undefined) in [ndom91/calendar-led-strip](https://github.com/ndom91/calendar-led-strip)
+3. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3495841551) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+4. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3486021571) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+5. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3485919058) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
 <!--END_SECTION:activity-->
