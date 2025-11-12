@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3517110177) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-2. ❗ Opened issue [#156312](https://github.com/home-assistant/core/issues/156312) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3513938641) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-4. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3508820976) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3508791555) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#156312](https://github.com/home-assistant/core/issues/156312#issuecomment-3522077639) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3517110177) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+3. ❗ Opened issue [#156312](https://github.com/home-assistant/core/issues/156312) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3513938641) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+5. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3508820976) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
