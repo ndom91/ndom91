@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3575959773) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-2. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3575906878) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-3. ❗ Opened issue [#94](https://github.com/EverythingSmartHome/everything-presence-addons/issues/94) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
-4. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3570692532) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
-5. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3568111907) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+1. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3588515872) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+2. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3575959773) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+3. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3575906878) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
+4. ❗ Opened issue [#94](https://github.com/EverythingSmartHome/everything-presence-addons/issues/94) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
+5. 🗣 Commented on [#101](https://github.com/MultiMote/niimblue/pull/101#issuecomment-3570692532) in [MultiMote/niimblue](https://github.com/MultiMote/niimblue)
 <!--END_SECTION:activity-->
