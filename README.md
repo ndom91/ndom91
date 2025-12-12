@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3645880500) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 🗣 Commented on [#119](https://github.com/EverythingSmartHome/everything-presence-addons/pull/119#issuecomment-3626862532) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
-3. 💪 Opened PR [#119](undefined) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
-4. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3588515872) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3575959773) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
+1. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3647380249) in [acsandmann/rift](https://github.com/acsandmann/rift)
+2. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3645880500) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 🗣 Commented on [#119](https://github.com/EverythingSmartHome/everything-presence-addons/pull/119#issuecomment-3626862532) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
+4. 💪 Opened PR [#119](undefined) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
+5. 🗣 Commented on [#8749](https://github.com/refined-github/refined-github/pull/8749#issuecomment-3588515872) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
 <!--END_SECTION:activity-->
