@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20323](https://github.com/open-webui/open-webui/issues/20323#issuecomment-3705437673) in [open-webui/open-webui](https://github.com/open-webui/open-webui)
-2. 🗣 Commented on [#10434](https://github.com/community-scripts/ProxmoxVE/issues/10434#issuecomment-3702420426) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
-3. 🎉 Merged PR [#119](https://github.com/EverythingSmartHome/everything-presence-addons/pull/119) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
-4. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3647380249) in [acsandmann/rift](https://github.com/acsandmann/rift)
-5. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3645880500) in [acsandmann/rift](https://github.com/acsandmann/rift)
+1. 🗣 Commented on [#9447](https://github.com/community-scripts/ProxmoxVE/issues/9447#issuecomment-3707030117) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+2. 🗣 Commented on [#20323](https://github.com/open-webui/open-webui/issues/20323#issuecomment-3707027705) in [open-webui/open-webui](https://github.com/open-webui/open-webui)
+3. 🗣 Commented on [#20323](https://github.com/open-webui/open-webui/issues/20323#issuecomment-3705437673) in [open-webui/open-webui](https://github.com/open-webui/open-webui)
+4. 🗣 Commented on [#10434](https://github.com/community-scripts/ProxmoxVE/issues/10434#issuecomment-3702420426) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+5. 🎉 Merged PR [#119](https://github.com/EverythingSmartHome/everything-presence-addons/pull/119) in [EverythingSmartHome/everything-presence-addons](https://github.com/EverythingSmartHome/everything-presence-addons)
 <!--END_SECTION:activity-->
