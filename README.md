@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
-2. 🗣 Commented on [#1065](https://github.com/futo-org/android-keyboard/issues/1065#issuecomment-3722989463) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. ℹ️ Labeled issue [#1816](https://github.com/futo-org/android-keyboard/issues/1816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-4. ❗ Opened issue [#1816](https://github.com/futo-org/android-keyboard/issues/1816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-5. 🗣 Commented on [#9447](https://github.com/community-scripts/ProxmoxVE/issues/9447#issuecomment-3707030117) in [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE)
+1. 🎉 Merged PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
+2. 💪 Opened PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
+3. 🗣 Commented on [#1065](https://github.com/futo-org/android-keyboard/issues/1065#issuecomment-3722989463) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+4. ℹ️ Labeled issue [#1816](https://github.com/futo-org/android-keyboard/issues/1816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+5. ❗ Opened issue [#1816](https://github.com/futo-org/android-keyboard/issues/1816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 <!--END_SECTION:activity-->
