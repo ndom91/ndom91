@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3770417276) in [acsandmann/rift](https://github.com/acsandmann/rift)
-2. 🎉 Merged PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
-3. 💪 Opened PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
-4. 🗣 Commented on [#1065](https://github.com/futo-org/android-keyboard/issues/1065#issuecomment-3722989463) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-5. ℹ️ Labeled issue [#1816](https://github.com/futo-org/android-keyboard/issues/1816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+1. ❗ Opened issue [#30](https://github.com/ramonvermeulen/whosthere/issues/30) in [ramonvermeulen/whosthere](https://github.com/ramonvermeulen/whosthere)
+2. 🗣 Commented on [#201](https://github.com/acsandmann/rift/issues/201#issuecomment-3770417276) in [acsandmann/rift](https://github.com/acsandmann/rift)
+3. 🎉 Merged PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
+4. 💪 Opened PR [#1151](https://github.com/xdesro/personalsit.es/pull/1151) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
+5. 🗣 Commented on [#1065](https://github.com/futo-org/android-keyboard/issues/1065#issuecomment-3722989463) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 <!--END_SECTION:activity-->
