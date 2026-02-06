@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/ndom91/frame-web/pull/1) in [ndom91/frame-web](https://github.com/ndom91/frame-web)
-2. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3834394851) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-3. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3834385206) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-4. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3828888587) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-5. 🗣 Commented on [#431](https://github.com/remsky/Kokoro-FastAPI/pull/431#issuecomment-3803985622) in [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)
+1. ❗ Opened issue [#19](https://github.com/yuga-hashimoto/OpenClawAssistant/issues/19) in [yuga-hashimoto/OpenClawAssistant](https://github.com/yuga-hashimoto/OpenClawAssistant)
+2. ❌ Closed PR [#1](https://github.com/ndom91/frame-web/pull/1) in [ndom91/frame-web](https://github.com/ndom91/frame-web)
+3. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3834394851) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+4. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3834385206) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+5. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3828888587) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
 <!--END_SECTION:activity-->
