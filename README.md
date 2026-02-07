@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/yuga-hashimoto/OpenClawAssistant/issues/19) in [yuga-hashimoto/OpenClawAssistant](https://github.com/yuga-hashimoto/OpenClawAssistant)
-2. ❌ Closed PR [#1](https://github.com/ndom91/frame-web/pull/1) in [ndom91/frame-web](https://github.com/ndom91/frame-web)
-3. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3834394851) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-4. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3834385206) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-5. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-3828888587) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+1. 🗣 Commented on [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37#issuecomment-3864706833) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
+2. ℹ️ Labeled issue [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
+3. ❗ Opened issue [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
+4. ❗ Opened issue [#19](https://github.com/yuga-hashimoto/OpenClawAssistant/issues/19) in [yuga-hashimoto/OpenClawAssistant](https://github.com/yuga-hashimoto/OpenClawAssistant)
+5. ❌ Closed PR [#1](https://github.com/ndom91/frame-web/pull/1) in [ndom91/frame-web](https://github.com/ndom91/frame-web)
 <!--END_SECTION:activity-->
