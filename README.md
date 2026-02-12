@@ -19,6 +19,6 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 1. 🗣 Commented on [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37#issuecomment-3864706833) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
 2. ℹ️ Labeled issue [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
 3. ❗ Opened issue [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
-4. ❗ Opened issue [#19](https://github.com/yuga-hashimoto/OpenClawAssistant/issues/19) in [yuga-hashimoto/OpenClawAssistant](https://github.com/yuga-hashimoto/OpenClawAssistant)
+4. ❗ Opened issue [#19](https://github.com/yuga-hashimoto/openclaw-assistant/issues/19) in [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant)
 5. ❌ Closed PR [#1](https://github.com/ndom91/frame-web/pull/1) in [ndom91/frame-web](https://github.com/ndom91/frame-web)
 <!--END_SECTION:activity-->
