@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37#issuecomment-3864706833) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
-2. ℹ️ Labeled issue [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
-3. ❗ Opened issue [#37](https://github.com/rjmalagon/ollama-linux-amd-apu/issues/37) in [rjmalagon/ollama-linux-amd-apu](https://github.com/rjmalagon/ollama-linux-amd-apu)
-4. ❗ Opened issue [#19](https://github.com/yuga-hashimoto/openclaw-assistant/issues/19) in [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant)
-5. ❌ Closed PR [#1](https://github.com/ndom91/frame-web/pull/1) in [ndom91/frame-web](https://github.com/ndom91/frame-web)
+1. ❌ Closed PR [#12](https://github.com/ndom91/ndo-dashboard/pull/12) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+2. ❌ Closed PR [#11](https://github.com/ndom91/ndo-dashboard/pull/11) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+3. ❌ Closed PR [#9](https://github.com/ndom91/ndo-dashboard/pull/9) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+4. ❌ Closed PR [#8](https://github.com/ndom91/ndo-dashboard/pull/8) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+5. ❌ Closed PR [#7](https://github.com/ndom91/ndo-dashboard/pull/7) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
 <!--END_SECTION:activity-->
