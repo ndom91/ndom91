@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/ndom91/ndo-dashboard/pull/12) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
-2. ❌ Closed PR [#11](https://github.com/ndom91/ndo-dashboard/pull/11) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
-3. ❌ Closed PR [#9](https://github.com/ndom91/ndo-dashboard/pull/9) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
-4. ❌ Closed PR [#8](https://github.com/ndom91/ndo-dashboard/pull/8) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
-5. ❌ Closed PR [#7](https://github.com/ndom91/ndo-dashboard/pull/7) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+1. 🚀 Published release [v0.5.2](https://github.com/ndom91/svelte-infinite/releases/tag/v0.5.2) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+2. ❌ Closed PR [#12](https://github.com/ndom91/ndo-dashboard/pull/12) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+3. ❌ Closed PR [#11](https://github.com/ndom91/ndo-dashboard/pull/11) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+4. ❌ Closed PR [#9](https://github.com/ndom91/ndo-dashboard/pull/9) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+5. ❌ Closed PR [#8](https://github.com/ndom91/ndo-dashboard/pull/8) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
 <!--END_SECTION:activity-->
