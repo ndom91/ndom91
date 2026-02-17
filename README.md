@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/ndom91/newtelco-next-maintenance-mgmt/issues/51#issuecomment-3909129771) in [ndom91/newtelco-next-maintenance-mgmt](https://github.com/ndom91/newtelco-next-maintenance-mgmt)
-2. 🚀 Published release [v0.5.2](https://github.com/ndom91/svelte-infinite/releases/tag/v0.5.2) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-3. ❌ Closed PR [#12](https://github.com/ndom91/ndo-dashboard/pull/12) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
-4. ❌ Closed PR [#11](https://github.com/ndom91/ndo-dashboard/pull/11) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
-5. ❌ Closed PR [#9](https://github.com/ndom91/ndo-dashboard/pull/9) in [ndom91/ndo-dashboard](https://github.com/ndom91/ndo-dashboard)
+1. 💪 Opened PR [#2](https://github.com/team-plain/skills/pull/2) in [team-plain/skills](https://github.com/team-plain/skills)
+2. 🎉 Merged PR [#1](https://github.com/team-plain/skills/pull/1) in [team-plain/skills](https://github.com/team-plain/skills)
+3. 💪 Opened PR [#1](https://github.com/team-plain/skills/pull/1) in [team-plain/skills](https://github.com/team-plain/skills)
+4. 🗣 Commented on [#51](https://github.com/ndom91/newtelco-next-maintenance-mgmt/issues/51#issuecomment-3909129771) in [ndom91/newtelco-next-maintenance-mgmt](https://github.com/ndom91/newtelco-next-maintenance-mgmt)
+5. 🚀 Published release [v0.5.2](https://github.com/ndom91/svelte-infinite/releases/tag/v0.5.2) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
