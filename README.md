@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-3939827054) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-2. 💪 Opened PR [#1898](https://github.com/futo-org/android-keyboard/pull/1898) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 🗣 Commented on [#1065](https://github.com/futo-org/android-keyboard/issues/1065#issuecomment-3939487052) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-4. 🚀 Published release [v3.3.2](https://github.com/ndom91/react-timezone-select/releases/tag/v3.3.2) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🎉 Merged PR [#156](https://github.com/ndom91/react-timezone-select/pull/156) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 💪 Opened PR [#14678](https://github.com/anomalyco/opencode/pull/14678) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-3939827054) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+3. 💪 Opened PR [#1898](https://github.com/futo-org/android-keyboard/pull/1898) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+4. 🗣 Commented on [#1065](https://github.com/futo-org/android-keyboard/issues/1065#issuecomment-3939487052) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+5. 🚀 Published release [v3.3.2](https://github.com/ndom91/react-timezone-select/releases/tag/v3.3.2) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
