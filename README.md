@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. 🚀 Published release [v0.2.14](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.14) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-3. 🚀 Published release [v0.2.13](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.13) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🚀 Published release [v0.2.12](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.12) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🚀 Published release [v0.2.11](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.11) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 🚀 Published release [v0.2.16](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.16) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+2. 🚀 Published release [v0.2.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🚀 Published release [v0.2.14](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.14) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 🚀 Published release [v0.2.13](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.13) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🚀 Published release [v0.2.12](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.12) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
