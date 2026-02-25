@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.7](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.7) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. 🚀 Published release [v0.2.6](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.6) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-3. 🚀 Published release [v0.2.5](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.5) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🚀 Published release [v0.2.4](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.4) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🗣 Commented on [#5706](https://github.com/anthropics/claude-code/issues/5706#issuecomment-3957953110) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🚀 Published release [v0.2.9](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.9) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+2. 🚀 Published release [v0.2.8](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.8) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🚀 Published release [v0.2.7](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.7) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 🚀 Published release [v0.2.6](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.6) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🚀 Published release [v0.2.5](https://github.com/ndom91/open-plan-annotator/releases/tag/v0.2.5) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
