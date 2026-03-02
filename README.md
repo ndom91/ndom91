@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. 🗣 Commented on [#13385](https://github.com/nextauthjs/next-auth/pull/13385#issuecomment-3976993585) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🚀 Published release [v1.0.14](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.14) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🚀 Published release [v1.0.13](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.13) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🚀 Published release [v1.0.12](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.12) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 💪 Opened PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+2. 🚀 Published release [v1.0.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🗣 Commented on [#13385](https://github.com/nextauthjs/next-auth/pull/13385#issuecomment-3976993585) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🚀 Published release [v1.0.14](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.14) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🚀 Published release [v1.0.13](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.13) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
