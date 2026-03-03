@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#187](https://github.com/awesome-opencode/awesome-opencode/pull/187) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
-2. 💪 Opened PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-3. 🚀 Published release [v1.0.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🗣 Commented on [#13385](https://github.com/nextauthjs/next-auth/pull/13385#issuecomment-3976993585) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🚀 Published release [v1.0.14](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.14) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 🎉 Merged PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
+2. 💪 Opened PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
+3. 💪 Opened PR [#187](https://github.com/awesome-opencode/awesome-opencode/pull/187) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
+4. 💪 Opened PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+5. 🚀 Published release [v1.0.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
