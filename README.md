@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
-2. 💪 Opened PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
-3. 💪 Opened PR [#187](https://github.com/awesome-opencode/awesome-opencode/pull/187) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
-4. 💪 Opened PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-5. 🚀 Published release [v1.0.15](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.15) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-3991602596) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🎉 Merged PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
+3. 💪 Opened PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
+4. 💪 Opened PR [#187](https://github.com/awesome-opencode/awesome-opencode/pull/187) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
+5. 💪 Opened PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 <!--END_SECTION:activity-->
