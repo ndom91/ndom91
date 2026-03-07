@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.16](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.16) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. 🎉 Merged PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-3. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-3991602596) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. 🎉 Merged PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
-5. 💪 Opened PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
+1. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-4016267872) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🚀 Published release [v1.0.16](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.16) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🎉 Merged PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+4. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-3991602596) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. 🎉 Merged PR [#224](https://github.com/team-plain/docs/pull/224) in [team-plain/docs](https://github.com/team-plain/docs)
 <!--END_SECTION:activity-->
