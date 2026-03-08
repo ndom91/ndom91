@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.17](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.17) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-4016267872) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. 🚀 Published release [v1.0.16](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.16) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🎉 Merged PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-5. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-3991602596) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4018786251) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+2. 🚀 Published release [v1.0.17](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.17) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🗣 Commented on [#14678](https://github.com/anomalyco/opencode/pull/14678#issuecomment-4016267872) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. 🚀 Published release [v1.0.16](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.16) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🎉 Merged PR [#267](https://github.com/dmtrKovalenko/fff.nvim/pull/267) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 <!--END_SECTION:activity-->
