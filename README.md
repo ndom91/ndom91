@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4063790718) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4022367065) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 🎉 Merged PR [#187](https://github.com/awesome-opencode/awesome-opencode/pull/187) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
-4. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4018786251) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-5. 🚀 Published release [v1.0.17](https://github.com/ndom91/open-plan-annotator/releases/tag/v1.0.17) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4063919772) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4063790718) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+3. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4022367065) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+4. 🎉 Merged PR [#187](https://github.com/awesome-opencode/awesome-opencode/pull/187) in [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)
+5. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4018786251) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 <!--END_SECTION:activity-->
