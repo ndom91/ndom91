@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1923](https://github.com/futo-org/android-keyboard/pull/1923#issuecomment-4083376038) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-2. 🗣 Commented on [#1923](https://github.com/futo-org/android-keyboard/pull/1923#issuecomment-4081548633) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4077616289) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-4. 🗣 Commented on [#1923](https://github.com/futo-org/android-keyboard/pull/1923#issuecomment-4077216320) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-5. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4077107910) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+1. 🔒 Closed issue [#150](https://github.com/ndom91/react-timezone-select/issues/150) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#150](https://github.com/ndom91/react-timezone-select/issues/150#issuecomment-4085362526) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#157](https://github.com/ndom91/react-timezone-select/issues/157#issuecomment-4085361584) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+4. 🔒 Closed issue [#157](https://github.com/ndom91/react-timezone-select/issues/157) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+5. 🗣 Commented on [#1923](https://github.com/futo-org/android-keyboard/pull/1923#issuecomment-4083376038) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 <!--END_SECTION:activity-->
