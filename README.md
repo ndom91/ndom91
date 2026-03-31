@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
-2. 💪 Opened PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
-3. 🔒 Closed issue [#150](https://github.com/ndom91/react-timezone-select/issues/150) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. 🗣 Commented on [#150](https://github.com/ndom91/react-timezone-select/issues/150#issuecomment-4085362526) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🗣 Commented on [#157](https://github.com/ndom91/react-timezone-select/issues/157#issuecomment-4085361584) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-4160337739) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+2. ℹ️ Labeled issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+3. ❗ Opened issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+4. 🎉 Merged PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
+5. 💪 Opened PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
 <!--END_SECTION:activity-->
