@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-4160337739) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-2. ℹ️ Labeled issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-3. ❗ Opened issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-4. 🎉 Merged PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
-5. 💪 Opened PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
+1. 💪 Opened PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+2. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-4160337739) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+3. ℹ️ Labeled issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+4. ❗ Opened issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+5. 🎉 Merged PR [#11](https://github.com/nitotm/efficient-language-detector-js/pull/11) in [nitotm/efficient-language-detector-js](https://github.com/nitotm/efficient-language-detector-js)
 <!--END_SECTION:activity-->
