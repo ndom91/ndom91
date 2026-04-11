@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/zanna-37/hass-swipe-navigation/pull/121) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
-2. 🎉 Merged PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-3. 💪 Opened PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-4. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-4160337739) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-5. ℹ️ Labeled issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+1. 🗣 Commented on [#3](https://github.com/ndom91/open-plan-annotator/issues/3#issuecomment-4230178454) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+2. 🗣 Commented on [#2](https://github.com/ndom91/open-plan-annotator/issues/2#issuecomment-4230177429) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🔒 Closed issue [#2](https://github.com/ndom91/open-plan-annotator/issues/2) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 🎉 Merged PR [#121](https://github.com/zanna-37/hass-swipe-navigation/pull/121) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
+5. 🎉 Merged PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 <!--END_SECTION:activity-->
