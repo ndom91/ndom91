@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-2. 💪 Opened PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-3. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-4160337739) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-4. ℹ️ Labeled issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-5. ❗ Opened issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+1. 🎉 Merged PR [#121](https://github.com/zanna-37/hass-swipe-navigation/pull/121) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
+2. 🎉 Merged PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+3. 💪 Opened PR [#322](https://github.com/dmtrKovalenko/fff.nvim/pull/322) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+4. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-4160337739) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
+5. ℹ️ Labeled issue [#419](https://github.com/cogwheel0/conduit/issues/419) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
 <!--END_SECTION:activity-->
