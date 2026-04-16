@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/strongdm/leash/pull/72) in [strongdm/leash](https://github.com/strongdm/leash)
-2. 🗣 Commented on [#3](https://github.com/ndom91/open-plan-annotator/issues/3#issuecomment-4230178454) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-3. 🗣 Commented on [#2](https://github.com/ndom91/open-plan-annotator/issues/2#issuecomment-4230177429) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🔒 Closed issue [#2](https://github.com/ndom91/open-plan-annotator/issues/2) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🎉 Merged PR [#121](https://github.com/zanna-37/hass-swipe-navigation/pull/121) in [zanna-37/hass-swipe-navigation](https://github.com/zanna-37/hass-swipe-navigation)
+1. 💪 Opened PR [#286](https://github.com/rothgar/awesome-tmux/pull/286) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+2. 💪 Opened PR [#72](https://github.com/strongdm/leash/pull/72) in [strongdm/leash](https://github.com/strongdm/leash)
+3. 🗣 Commented on [#3](https://github.com/ndom91/open-plan-annotator/issues/3#issuecomment-4230178454) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 🗣 Commented on [#2](https://github.com/ndom91/open-plan-annotator/issues/2#issuecomment-4230177429) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🔒 Closed issue [#2](https://github.com/ndom91/open-plan-annotator/issues/2) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
