@@ -16,8 +16,8 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4275488288) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-2. 💪 Opened PR [#286](https://github.com/rothgar/awesome-tmux/pull/286) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+1. ❗ Opened issue [#407](https://github.com/dmtrKovalenko/fff.nvim/issues/407) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+2. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4275488288) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
 3. 💪 Opened PR [#72](https://github.com/strongdm/leash/pull/72) in [strongdm/leash](https://github.com/strongdm/leash)
 4. 🗣 Commented on [#3](https://github.com/ndom91/open-plan-annotator/issues/3#issuecomment-4230178454) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 5. 🗣 Commented on [#2](https://github.com/ndom91/open-plan-annotator/issues/2#issuecomment-4230177429) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
