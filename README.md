@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/ndom91/open-plan-annotator/issues/3) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. ❗ Opened issue [#407](https://github.com/dmtrKovalenko/fff.nvim/issues/407) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-3. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4275488288) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-4. 🗣 Commented on [#3](https://github.com/ndom91/open-plan-annotator/issues/3#issuecomment-4230178454) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🗣 Commented on [#2](https://github.com/ndom91/open-plan-annotator/issues/2#issuecomment-4230177429) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. ❌ Closed PR [#1](https://github.com/ndom91/awesome-local-llm/pull/1) in [ndom91/awesome-local-llm](https://github.com/ndom91/awesome-local-llm)
+2. 💪 Opened PR [#56](https://github.com/rafska/awesome-local-llm/pull/56) in [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm)
+3. 💪 Opened PR [#1](https://github.com/ndom91/awesome-local-llm/pull/1) in [ndom91/awesome-local-llm](https://github.com/ndom91/awesome-local-llm)
+4. 🔒 Closed issue [#3](https://github.com/ndom91/open-plan-annotator/issues/3) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. ❗ Opened issue [#407](https://github.com/dmtrKovalenko/fff.nvim/issues/407) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 <!--END_SECTION:activity-->
