@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2159](https://github.com/qwibitai/nanoclaw/issues/2159) in [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
-2. ❗ Opened issue [#1](https://github.com/hankmt/Artemis-Timeline/issues/1) in [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline)
-3. ❌ Closed PR [#232](https://github.com/team-plain/docs/pull/232) in [team-plain/docs](https://github.com/team-plain/docs)
-4. 💪 Opened PR [#232](https://github.com/team-plain/docs/pull/232) in [team-plain/docs](https://github.com/team-plain/docs)
-5. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4318476424) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+1. ❌ Closed PR [#62](https://github.com/rafska/awesome-local-llm/pull/62) in [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm)
+2. 💪 Opened PR [#62](https://github.com/rafska/awesome-local-llm/pull/62) in [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm)
+3. 💪 Opened PR [#531](https://github.com/Hannibal046/Awesome-LLM/pull/531) in [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+4. ❗ Opened issue [#2159](https://github.com/qwibitai/nanoclaw/issues/2159) in [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+5. ❗ Opened issue [#1](https://github.com/hankmt/Artemis-Timeline/issues/1) in [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline)
 <!--END_SECTION:activity-->
