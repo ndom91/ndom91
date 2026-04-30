@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/hankmt/Artemis-Timeline/issues/1) in [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline)
-2. ❌ Closed PR [#232](https://github.com/team-plain/docs/pull/232) in [team-plain/docs](https://github.com/team-plain/docs)
-3. 💪 Opened PR [#232](https://github.com/team-plain/docs/pull/232) in [team-plain/docs](https://github.com/team-plain/docs)
-4. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4318476424) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-5. ❌ Closed PR [#1](https://github.com/ndom91/awesome-local-llm/pull/1) in [ndom91/awesome-local-llm](https://github.com/ndom91/awesome-local-llm)
+1. ❗ Opened issue [#2159](https://github.com/qwibitai/nanoclaw/issues/2159) in [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+2. ❗ Opened issue [#1](https://github.com/hankmt/Artemis-Timeline/issues/1) in [hankmt/Artemis-Timeline](https://github.com/hankmt/Artemis-Timeline)
+3. ❌ Closed PR [#232](https://github.com/team-plain/docs/pull/232) in [team-plain/docs](https://github.com/team-plain/docs)
+4. 💪 Opened PR [#232](https://github.com/team-plain/docs/pull/232) in [team-plain/docs](https://github.com/team-plain/docs)
+5. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4318476424) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
 <!--END_SECTION:activity-->
