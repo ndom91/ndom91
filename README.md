@@ -16,9 +16,9 @@ Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource 
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4363755657) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❌ Closed PR [#62](https://github.com/rafska/awesome-local-llm/pull/62) in [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm)
-3. 💪 Opened PR [#62](https://github.com/rafska/awesome-local-llm/pull/62) in [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm)
-4. 💪 Opened PR [#531](https://github.com/Hannibal046/Awesome-LLM/pull/531) in [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
-5. ❗ Opened issue [#2159](https://github.com/qwibitai/nanoclaw/issues/2159) in [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw)
+1. 🗣 Commented on [#2](https://github.com/ndom91/ha-voice-rocm/issues/2#issuecomment-4365890155) in [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm)
+2. 🗣 Commented on [#3](https://github.com/ndom91/ha-voice-rocm/issues/3#issuecomment-4365889280) in [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm)
+3. 🗣 Commented on [#4](https://github.com/ndom91/ha-voice-rocm/issues/4#issuecomment-4365887888) in [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm)
+4. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4363755657) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. ❌ Closed PR [#62](https://github.com/rafska/awesome-local-llm/pull/62) in [rafska/awesome-local-llm](https://github.com/rafska/awesome-local-llm)
 <!--END_SECTION:activity-->
