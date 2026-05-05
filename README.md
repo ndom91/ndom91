@@ -2,7 +2,13 @@
 
 ### Currently Working On..
 
-Side projects like 📬 [Briefkasten](https://briefkastenhq.com) and opensource libraries like 🔒 [NextAuth.js](https://github.com/nextauthjs/next-auth).
+Building a platform to allow AI and humans to provide super-human support with [Plain](https://plain.com) and side projects like:
+
+- 🦙 [llama-dash](https://github.com/ndom91/llama-dash)
+- 📝 [open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+- 📬 [Briefkasten](https://github.com/ndom91/briefkasten) 
+- 🔒 [NextAuth.js](https://github.com/nextauthjs/next-auth) (ex-core team member)
+
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
