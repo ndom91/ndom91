@@ -2,7 +2,7 @@
 
 ### Currently Working On..
 
-Building a platform to allow AI and humans to provide super-human support with [Plain](https://plain.com) and side projects like:
+Building super-human support with [Plain](https://plain.com) and side projects like:
 
 - 🦙 [llama-dash](https://github.com/ndom91/llama-dash)
 - 📝 [open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
