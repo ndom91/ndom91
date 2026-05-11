@@ -28,3 +28,5 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 4. 🗣 Commented on [#2](https://github.com/ndom91/ha-voice-rocm/issues/2#issuecomment-4365890155) in [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm)
 5. 🗣 Commented on [#3](https://github.com/ndom91/ha-voice-rocm/issues/3#issuecomment-4365889280) in [ndom91/ha-voice-rocm](https://github.com/ndom91/ha-voice-rocm)
 <!--END_SECTION:activity-->
+
+🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
