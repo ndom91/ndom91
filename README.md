@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4519231097) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-2. 🎉 Merged PR [#286](https://github.com/rothgar/awesome-tmux/pull/286) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-3. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4472211151) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-4. ❌ Closed PR [#14](https://github.com/ndom91/svelte-infinite/pull/14) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
-5. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4366060973) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#548](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/548) in [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
+2. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4519231097) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+3. 🎉 Merged PR [#286](https://github.com/rothgar/awesome-tmux/pull/286) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+4. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4472211151) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+5. ❌ Closed PR [#14](https://github.com/ndom91/svelte-infinite/pull/14) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
