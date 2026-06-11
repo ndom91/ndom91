@@ -22,7 +22,7 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#548](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/548) in [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
+1. ❗ Opened issue [#2](https://github.com/ping840907/Locus/issues/2) in [ping840907/Locus](https://github.com/ping840907/Locus)
 2. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4519231097) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
 3. 🎉 Merged PR [#286](https://github.com/rothgar/awesome-tmux/pull/286) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
 4. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4472211151) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
