@@ -22,9 +22,9 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/ping840907/Locus/issues/2) in [ping840907/Locus](https://github.com/ping840907/Locus)
-2. 🗣 Commented on [#286](https://github.com/rothgar/awesome-tmux/pull/286#issuecomment-4519231097) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
-3. 🎉 Merged PR [#286](https://github.com/rothgar/awesome-tmux/pull/286) in [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4698178061) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+2. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4698173047) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#2](https://github.com/ping840907/Locus/issues/2) in [ping840907/Locus](https://github.com/ping840907/Locus)
 4. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4472211151) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 5. ❌ Closed PR [#14](https://github.com/ndom91/svelte-infinite/pull/14) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
 <!--END_SECTION:activity-->
