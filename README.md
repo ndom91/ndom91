@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4698758816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4698178061) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 🗣 Commented on [#296174](https://github.com/NixOS/nixpkgs/pull/296174#issuecomment-4698173047) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗ Opened issue [#2](https://github.com/ping840907/Locus/issues/2) in [ping840907/Locus](https://github.com/ping840907/Locus)
-5. ❌ Closed PR [#14](https://github.com/ndom91/svelte-infinite/pull/14) in [ndom91/svelte-infinite](https://github.com/ndom91/svelte-infinite)
+1. 🗣 Commented on [#44](https://github.com/Ataraxy-Labs/opensessions/issues/44#issuecomment-4701504695) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+2. 💪 Opened PR [#51](https://github.com/Ataraxy-Labs/opensessions/pull/51) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
+3. 🗣 Commented on [#2](https://github.com/ping840907/Locus/issues/2#issuecomment-4701480181) in [ping840907/Locus](https://github.com/ping840907/Locus)
+4. 🎉 Merged PR [#296174](https://github.com/NixOS/nixpkgs/pull/296174) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4698758816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
