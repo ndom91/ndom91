@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/Ataraxy-Labs/opensessions/issues/44#issuecomment-4701504695) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-2. 💪 Opened PR [#51](https://github.com/Ataraxy-Labs/opensessions/pull/51) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-3. 🗣 Commented on [#2](https://github.com/ping840907/Locus/issues/2#issuecomment-4701480181) in [ping840907/Locus](https://github.com/ping840907/Locus)
-4. 🎉 Merged PR [#296174](https://github.com/NixOS/nixpkgs/pull/296174) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4698758816) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+1. 🗣 Commented on [#73](https://github.com/ndom91/briefkasten/pull/73#issuecomment-4719653430) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+2. ❌ Closed PR [#73](https://github.com/ndom91/briefkasten/pull/73) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+3. 🔒 Closed issue [#46](https://github.com/ndom91/briefkasten/issues/46) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+4. 🗣 Commented on [#46](https://github.com/ndom91/briefkasten/issues/46#issuecomment-4719646901) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+5. 🗣 Commented on [#57](https://github.com/ndom91/briefkasten/issues/57#issuecomment-4719645568) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
