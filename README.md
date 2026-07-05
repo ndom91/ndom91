@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4882257893) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-2. 💪 Opened PR [#32](https://github.com/UsefulSoftwareCo/integrationsdotsh/pull/32) in [UsefulSoftwareCo/integrationsdotsh](https://github.com/UsefulSoftwareCo/integrationsdotsh)
-3. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4851965214) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-4. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-4771060100) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
-5. 🗣 Commented on [#57](https://github.com/ndom91/briefkasten/issues/57#issuecomment-4719645568) in [ndom91/briefkasten](https://github.com/ndom91/briefkasten)
+1. 🗣 Commented on [#29398](https://github.com/immich-app/immich/issues/29398#issuecomment-4887542105) in [immich-app/immich](https://github.com/immich-app/immich)
+2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4882257893) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+3. 💪 Opened PR [#32](https://github.com/UsefulSoftwareCo/integrationsdotsh/pull/32) in [UsefulSoftwareCo/integrationsdotsh](https://github.com/UsefulSoftwareCo/integrationsdotsh)
+4. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4851965214) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+5. 🗣 Commented on [#1194](https://github.com/meshcore-dev/MeshCore/pull/1194#issuecomment-4771060100) in [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
