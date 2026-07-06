@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29610](https://github.com/immich-app/immich/issues/29610#issuecomment-4887950441) in [immich-app/immich](https://github.com/immich-app/immich)
-2. ❗ Opened issue [#29611](https://github.com/immich-app/immich/issues/29611) in [immich-app/immich](https://github.com/immich-app/immich)
-3. ❗ Opened issue [#29610](https://github.com/immich-app/immich/issues/29610) in [immich-app/immich](https://github.com/immich-app/immich)
-4. 🗣 Commented on [#29600](https://github.com/immich-app/immich/issues/29600#issuecomment-4887916009) in [immich-app/immich](https://github.com/immich-app/immich)
-5. 🗣 Commented on [#29398](https://github.com/immich-app/immich/issues/29398#issuecomment-4887542105) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🗣 Commented on [#32](https://github.com/UsefulSoftwareCo/integrationsdotsh/pull/32#issuecomment-4890975818) in [UsefulSoftwareCo/integrationsdotsh](https://github.com/UsefulSoftwareCo/integrationsdotsh)
+2. ❌ Closed PR [#32](https://github.com/UsefulSoftwareCo/integrationsdotsh/pull/32) in [UsefulSoftwareCo/integrationsdotsh](https://github.com/UsefulSoftwareCo/integrationsdotsh)
+3. 🗣 Commented on [#29610](https://github.com/immich-app/immich/issues/29610#issuecomment-4887950441) in [immich-app/immich](https://github.com/immich-app/immich)
+4. ❗ Opened issue [#29611](https://github.com/immich-app/immich/issues/29611) in [immich-app/immich](https://github.com/immich-app/immich)
+5. ❗ Opened issue [#29610](https://github.com/immich-app/immich/issues/29610) in [immich-app/immich](https://github.com/immich-app/immich)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
