@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#548](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/548) in [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
-2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4892690364) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 🗣 Commented on [#32](https://github.com/UsefulSoftwareCo/integrationsdotsh/pull/32#issuecomment-4890975818) in [UsefulSoftwareCo/integrationsdotsh](https://github.com/UsefulSoftwareCo/integrationsdotsh)
-4. ❌ Closed PR [#32](https://github.com/UsefulSoftwareCo/integrationsdotsh/pull/32) in [UsefulSoftwareCo/integrationsdotsh](https://github.com/UsefulSoftwareCo/integrationsdotsh)
-5. 🗣 Commented on [#29610](https://github.com/immich-app/immich/issues/29610#issuecomment-4887950441) in [immich-app/immich](https://github.com/immich-app/immich)
+1. 🗣 Commented on [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2#issuecomment-4895438615) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
+2. 🗣 Commented on [#29398](https://github.com/immich-app/immich/issues/29398#issuecomment-4895357767) in [immich-app/immich](https://github.com/immich-app/immich)
+3. ❗ Opened issue [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
+4. 🎉 Merged PR [#548](https://github.com/awesome-jellyfin/awesome-jellyfin/pull/548) in [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)
+5. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-4892690364) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
