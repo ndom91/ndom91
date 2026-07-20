@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29600](https://github.com/immich-app/immich/issues/29600#issuecomment-4918476838) in [immich-app/immich](https://github.com/immich-app/immich)
-2. 🗣 Commented on [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2#issuecomment-4902579748) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
-3. 🗣 Commented on [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2#issuecomment-4895438615) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
-4. 🗣 Commented on [#29398](https://github.com/immich-app/immich/issues/29398#issuecomment-4895357767) in [immich-app/immich](https://github.com/immich-app/immich)
-5. ❗ Opened issue [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
+1. ℹ️ Labeled issue [#3](https://github.com/TristanBrotherton/voicepe-realtime-firmware/issues/3) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
+2. ❗ Opened issue [#3](https://github.com/TristanBrotherton/voicepe-realtime-firmware/issues/3) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
+3. 🗣 Commented on [#29600](https://github.com/immich-app/immich/issues/29600#issuecomment-4918476838) in [immich-app/immich](https://github.com/immich-app/immich)
+4. 🗣 Commented on [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2#issuecomment-4902579748) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
+5. 🗣 Commented on [#2](https://github.com/pine64/pinevoice_smartspeaker_sdk/issues/2#issuecomment-4895438615) in [pine64/pinevoice_smartspeaker_sdk](https://github.com/pine64/pinevoice_smartspeaker_sdk)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
