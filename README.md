@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#801](https://github.com/apollographql/apollo-mcp-server/issues/801) in [apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)
-2. 🎉 Merged PR [#4](https://github.com/TristanBrotherton/voicepe-realtime-firmware/pull/4) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
-3. 🗣 Commented on [#4](https://github.com/TristanBrotherton/voicepe-realtime-firmware/pull/4#issuecomment-5083081534) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
-4. 💪 Opened PR [#56](https://github.com/Ataraxy-Labs/opensessions/pull/56) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
-5. 💪 Opened PR [#4](https://github.com/TristanBrotherton/voicepe-realtime-firmware/pull/4) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
+1. 💪 Opened PR [#2](https://github.com/TristanBrotherton/voicepe-realtime/pull/2) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
+2. ❗ Opened issue [#801](https://github.com/apollographql/apollo-mcp-server/issues/801) in [apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)
+3. 🎉 Merged PR [#4](https://github.com/TristanBrotherton/voicepe-realtime-firmware/pull/4) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
+4. 🗣 Commented on [#4](https://github.com/TristanBrotherton/voicepe-realtime-firmware/pull/4#issuecomment-5083081534) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
+5. 💪 Opened PR [#56](https://github.com/Ataraxy-Labs/opensessions/pull/56) in [Ataraxy-Labs/opensessions](https://github.com/Ataraxy-Labs/opensessions)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
