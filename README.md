@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6](https://github.com/mitchfixapp/jellyfin-plugin-transcode-downloader/issues/6) in [mitchfixapp/jellyfin-plugin-transcode-downloader](https://github.com/mitchfixapp/jellyfin-plugin-transcode-downloader)
-2. 💪 Opened PR [#3](https://github.com/TristanBrotherton/voicepe-realtime/pull/3) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
-3. 💪 Opened PR [#2](https://github.com/TristanBrotherton/voicepe-realtime/pull/2) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
-4. ❗ Opened issue [#801](https://github.com/apollographql/apollo-mcp-server/issues/801) in [apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)
-5. 🎉 Merged PR [#4](https://github.com/TristanBrotherton/voicepe-realtime-firmware/pull/4) in [TristanBrotherton/voicepe-realtime-firmware](https://github.com/TristanBrotherton/voicepe-realtime-firmware)
+1. 🗣 Commented on [#2](https://github.com/TristanBrotherton/voicepe-realtime/pull/2#issuecomment-5215035034) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
+2. ❗ Opened issue [#6](https://github.com/mitchfixapp/jellyfin-plugin-transcode-downloader/issues/6) in [mitchfixapp/jellyfin-plugin-transcode-downloader](https://github.com/mitchfixapp/jellyfin-plugin-transcode-downloader)
+3. 💪 Opened PR [#3](https://github.com/TristanBrotherton/voicepe-realtime/pull/3) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
+4. 💪 Opened PR [#2](https://github.com/TristanBrotherton/voicepe-realtime/pull/2) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
+5. ❗ Opened issue [#801](https://github.com/apollographql/apollo-mcp-server/issues/801) in [apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
