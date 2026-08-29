@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/team-plain/skills/pull/10) in [team-plain/skills](https://github.com/team-plain/skills)
-2. 🗣 Commented on [#2028](https://github.com/futo-org/android-keyboard/issues/2028#issuecomment-5442744905) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 🗣 Commented on [#3](https://github.com/TristanBrotherton/voicepe-realtime/pull/3#issuecomment-5354620039) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
-4. 🎉 Merged PR [#2](https://github.com/TristanBrotherton/voicepe-realtime/pull/2) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
-5. 🎉 Merged PR [#3](https://github.com/TristanBrotherton/voicepe-realtime/pull/3) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
+1. ❗ Opened issue [#815](https://github.com/apollographql/apollo-mcp-server/issues/815) in [apollographql/apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)
+2. 💪 Opened PR [#10](https://github.com/team-plain/skills/pull/10) in [team-plain/skills](https://github.com/team-plain/skills)
+3. 🗣 Commented on [#2028](https://github.com/futo-org/android-keyboard/issues/2028#issuecomment-5442744905) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
+4. 🗣 Commented on [#3](https://github.com/TristanBrotherton/voicepe-realtime/pull/3#issuecomment-5354620039) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
+5. 🎉 Merged PR [#2](https://github.com/TristanBrotherton/voicepe-realtime/pull/2) in [TristanBrotherton/voicepe-realtime](https://github.com/TristanBrotherton/voicepe-realtime)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
