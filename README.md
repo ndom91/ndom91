@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.3](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.3) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
-2. 🚀 Published release [v0.2.2](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.2) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
-3. 🚀 Published release [v0.2.1](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.1) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
-4. 🚀 Published release [v0.2.0](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.0) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
-5. 🗣 Commented on [#458](https://github.com/jekalmin/extended_openai_conversation/issues/458#issuecomment-5468054783) in [jekalmin/extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation)
+1. 🗣 Commented on [#10](https://github.com/team-plain/skills/pull/10#issuecomment-5480556093) in [team-plain/skills](https://github.com/team-plain/skills)
+2. 🚀 Published release [v0.2.3](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.3) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
+3. 🚀 Published release [v0.2.2](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.2) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
+4. 🚀 Published release [v0.2.1](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.1) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
+5. 🚀 Published release [v0.2.0](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.0) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
