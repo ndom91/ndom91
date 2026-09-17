@@ -22,11 +22,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/team-plain/skills/pull/10) in [team-plain/skills](https://github.com/team-plain/skills)
-2. 🗣 Commented on [#1898](https://github.com/futo-org/android-keyboard/pull/1898#issuecomment-5682486976) in [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard)
-3. 💪 Opened PR [#414](https://github.com/coredevices/mobileapp/pull/414) in [coredevices/mobileapp](https://github.com/coredevices/mobileapp)
-4. 🗣 Commented on [#10](https://github.com/team-plain/skills/pull/10#issuecomment-5480556093) in [team-plain/skills](https://github.com/team-plain/skills)
-5. 🚀 Published release [v0.2.3](https://github.com/ndom91/opencode-hud/releases/tag/v0.2.3) in [ndom91/opencode-hud](https://github.com/ndom91/opencode-hud)
+1. 🗣 Commented on [#6](https://github.com/ndom91/open-plan-annotator/issues/6#issuecomment-5711821532) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+2. 🔒 Closed issue [#6](https://github.com/ndom91/open-plan-annotator/issues/6) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🗣 Commented on [#7](https://github.com/ndom91/open-plan-annotator/issues/7#issuecomment-5711809183) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 🔒 Closed issue [#7](https://github.com/ndom91/open-plan-annotator/issues/7) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🎉 Merged PR [#10](https://github.com/team-plain/skills/pull/10) in [team-plain/skills](https://github.com/team-plain/skills)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
