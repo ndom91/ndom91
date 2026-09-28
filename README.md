@@ -5,6 +5,7 @@
 Building super-human support with [Plain](https://plain.com) and side projects like:
 
 - 🦙 [llama-dash](https://github.com/ndom91/llama-dash)
+- 🤖 [pve-agents](https://github.com/ndom91/pve-agents)
 - 📝 [open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 - 📬 [Briefkasten](https://github.com/ndom91/briefkasten) 
 - 🔒 [NextAuth.js](https://github.com/nextauthjs/next-auth) (ex-core team member)
