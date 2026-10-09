@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/team-plain/skills/pull/11) in [team-plain/skills](https://github.com/team-plain/skills)
-2. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015839109) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-3. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015342619) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 💪 Opened PR [#11](https://github.com/team-plain/skills/pull/11) in [team-plain/skills](https://github.com/team-plain/skills)
-5. 🗣 Commented on [#6](https://github.com/ndom91/open-plan-annotator/issues/6#issuecomment-5711821532) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015839109) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+2. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015342619) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 🗣 Commented on [#6](https://github.com/ndom91/open-plan-annotator/issues/6#issuecomment-5711821532) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 🔒 Closed issue [#6](https://github.com/ndom91/open-plan-annotator/issues/6) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🗣 Commented on [#7](https://github.com/ndom91/open-plan-annotator/issues/7#issuecomment-5711809183) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
