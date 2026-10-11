@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015839109) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-2. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015342619) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-3. 🗣 Commented on [#6](https://github.com/ndom91/open-plan-annotator/issues/6#issuecomment-5711821532) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🔒 Closed issue [#6](https://github.com/ndom91/open-plan-annotator/issues/6) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🗣 Commented on [#7](https://github.com/ndom91/open-plan-annotator/issues/7#issuecomment-5711809183) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. ❗ Opened issue [#1](https://github.com/nbbou81000/trmnl-patents/issues/1) in [nbbou81000/trmnl-patents](https://github.com/nbbou81000/trmnl-patents)
+2. 🎉 Merged PR [#1](https://github.com/ndom91/home26/pull/1) in [ndom91/home26](https://github.com/ndom91/home26)
+3. 💪 Opened PR [#1](https://github.com/ndom91/home26/pull/1) in [ndom91/home26](https://github.com/ndom91/home26)
+4. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015839109) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6015342619) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
