@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nbbou81000/trmnl-patents/issues/1#issuecomment-6234022872) in [nbbou81000/trmnl-patents](https://github.com/nbbou81000/trmnl-patents)
-2. 🎉 Merged PR [#11](https://github.com/ndom91/open-plan-annotator/pull/11) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-3. 💪 Opened PR [#11](https://github.com/ndom91/open-plan-annotator/pull/11) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-4. 🎉 Merged PR [#10](https://github.com/ndom91/open-plan-annotator/pull/10) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
-5. 🗣 Commented on [#8](https://github.com/ndom91/open-plan-annotator/pull/8#issuecomment-6233599420) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 🔒 Closed issue [#149](https://github.com/ndom91/react-timezone-select/issues/149) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+2. 🗣 Commented on [#1](https://github.com/nbbou81000/trmnl-patents/issues/1#issuecomment-6234022872) in [nbbou81000/trmnl-patents](https://github.com/nbbou81000/trmnl-patents)
+3. 🎉 Merged PR [#11](https://github.com/ndom91/open-plan-annotator/pull/11) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+4. 💪 Opened PR [#11](https://github.com/ndom91/open-plan-annotator/pull/11) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+5. 🎉 Merged PR [#10](https://github.com/ndom91/open-plan-annotator/pull/10) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
