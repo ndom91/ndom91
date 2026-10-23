@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ndom91/llama-dash/pull/5#issuecomment-6365930226) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-2. ❌ Closed PR [#158](https://github.com/ndom91/react-timezone-select/pull/158) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-3. ❌ Closed PR [#154](https://github.com/ndom91/react-timezone-select/pull/154) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-4. ❌ Closed PR [#146](https://github.com/ndom91/react-timezone-select/pull/146) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
-5. 🔒 Closed issue [#136](https://github.com/ndom91/react-timezone-select/issues/136) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🔒 Closed issue [#1](https://github.com/ndom91/llama-dash/issues/1) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+2. 🔒 Closed issue [#4](https://github.com/ndom91/llama-dash/issues/4) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+3. 🔒 Closed issue [#2](https://github.com/ndom91/llama-dash/issues/2) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+4. 🗣 Commented on [#5](https://github.com/ndom91/llama-dash/pull/5#issuecomment-6365930226) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+5. ❌ Closed PR [#158](https://github.com/ndom91/react-timezone-select/pull/158) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
