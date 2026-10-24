@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ndom91/llama-dash/issues/1#issuecomment-6369589821) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-2. 🗣 Commented on [#2](https://github.com/ndom91/llama-dash/issues/2#issuecomment-6369231146) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-3. 🗣 Commented on [#4](https://github.com/ndom91/llama-dash/issues/4#issuecomment-6369590835) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-4. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6369276676) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-5. 🗣 Commented on [#136](https://github.com/ndom91/react-timezone-select/issues/136#issuecomment-6360238970) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+1. 🗣 Commented on [#6](https://github.com/ndom91/llama-dash/pull/6#issuecomment-6365627001) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+2. 🗣 Commented on [#146](https://github.com/ndom91/react-timezone-select/pull/146#issuecomment-6360528979) in [ndom91/react-timezone-select](https://github.com/ndom91/react-timezone-select)
+3. 🗣 Commented on [#1](https://github.com/ndom91/llama-dash/issues/1#issuecomment-6369589821) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+4. 🗣 Commented on [#2](https://github.com/ndom91/llama-dash/issues/2#issuecomment-6369231146) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+5. 🗣 Commented on [#4](https://github.com/ndom91/llama-dash/issues/4#issuecomment-6369590835) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
