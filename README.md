@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6441163022) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-2. 🔒 Closed issue [#7](https://github.com/ndom91/llama-dash/issues/7) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-3. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6439307537) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-4. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-6389159935) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
-5. 🗣 Commented on [#6](https://github.com/ndom91/llama-dash/pull/6#issuecomment-6365627001) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+1. 🗣 Commented on [#10](https://github.com/ndom91/llama-dash/pull/10#issuecomment-6543827084) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+2. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6441163022) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+3. 🔒 Closed issue [#7](https://github.com/ndom91/llama-dash/issues/7) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+4. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6439307537) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+5. 🗣 Commented on [#419](https://github.com/cogwheel0/conduit/issues/419#issuecomment-6389159935) in [cogwheel0/conduit](https://github.com/cogwheel0/conduit)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
