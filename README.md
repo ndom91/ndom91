@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ndom91/homeassistant-checkly/pull/2#issuecomment-6584624484) in [ndom91/homeassistant-checkly](https://github.com/ndom91/homeassistant-checkly)
-2. 🗣 Commented on [#10](https://github.com/ndom91/llama-dash/pull/10#issuecomment-6543827084) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-3. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6441163022) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-4. 🔒 Closed issue [#7](https://github.com/ndom91/llama-dash/issues/7) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-5. 🗣 Commented on [#7](https://github.com/ndom91/llama-dash/issues/7#issuecomment-6439307537) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+1. 🗣 Commented on [#11](https://github.com/ndom91/llama-dash/pull/11#issuecomment-6605767307) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+2. ❌ Closed PR [#11](https://github.com/ndom91/llama-dash/pull/11) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+3. 🎉 Merged PR [#12](https://github.com/ndom91/llama-dash/pull/12) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+4. 💪 Opened PR [#12](https://github.com/ndom91/llama-dash/pull/12) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+5. 🗣 Commented on [#2](https://github.com/ndom91/homeassistant-checkly/pull/2#issuecomment-6584624484) in [ndom91/homeassistant-checkly](https://github.com/ndom91/homeassistant-checkly)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
