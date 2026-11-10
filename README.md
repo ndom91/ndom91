@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/ndom91/llama-dash/pull/11#issuecomment-6605767307) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-2. ❌ Closed PR [#11](https://github.com/ndom91/llama-dash/pull/11) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-3. 🎉 Merged PR [#12](https://github.com/ndom91/llama-dash/pull/12) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-4. 💪 Opened PR [#12](https://github.com/ndom91/llama-dash/pull/12) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-5. 🗣 Commented on [#2](https://github.com/ndom91/homeassistant-checkly/pull/2#issuecomment-6584624484) in [ndom91/homeassistant-checkly](https://github.com/ndom91/homeassistant-checkly)
+1. 🗣 Commented on [#12](https://github.com/ndom91/open-plan-annotator/issues/12#issuecomment-6764652925) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+2. 🔒 Closed issue [#12](https://github.com/ndom91/open-plan-annotator/issues/12) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+3. 💪 Opened PR [#1275](https://github.com/hashgraph-online/awesome-ai-plugins/pull/1275) in [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins)
+4. 🗣 Commented on [#11](https://github.com/ndom91/llama-dash/pull/11#issuecomment-6605767307) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+5. ❌ Closed PR [#11](https://github.com/ndom91/llama-dash/pull/11) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
