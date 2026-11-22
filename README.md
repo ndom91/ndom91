@@ -23,10 +23,10 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#455](https://github.com/MaxGramser/homeassistant_espscreen/pull/455) in [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
-2. 💪 Opened PR [#5236](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/5236) in [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
-3. 💪 Opened PR [#2507](https://github.com/jaw9c/awesome-remote-mcp-servers/pull/2507) in [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers)
-4. 🗣 Commented on [#12](https://github.com/ndom91/open-plan-annotator/issues/12#issuecomment-6764652925) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
+1. 💪 Opened PR [#3](https://github.com/samyn92/aerial-home/pull/3) in [samyn92/aerial-home](https://github.com/samyn92/aerial-home)
+2. 💪 Opened PR [#455](https://github.com/MaxGramser/homeassistant_espscreen/pull/455) in [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
+3. 💪 Opened PR [#5236](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/5236) in [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+4. 💪 Opened PR [#2507](https://github.com/jaw9c/awesome-remote-mcp-servers/pull/2507) in [jaw9c/awesome-remote-mcp-servers](https://github.com/jaw9c/awesome-remote-mcp-servers)
 5. 🔒 Closed issue [#12](https://github.com/ndom91/open-plan-annotator/issues/12) in [ndom91/open-plan-annotator](https://github.com/ndom91/open-plan-annotator)
 <!--END_SECTION:activity-->
 
