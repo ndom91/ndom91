@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-2. 🗣 Commented on [#1](https://github.com/ndom91/ai-infra-monitoring/pull/1#issuecomment-7114842890) in [ndom91/ai-infra-monitoring](https://github.com/ndom91/ai-infra-monitoring)
-3. 💪 Opened PR [#3](https://github.com/samyn92/aerial-home/pull/3) in [samyn92/aerial-home](https://github.com/samyn92/aerial-home)
-4. 💪 Opened PR [#455](https://github.com/MaxGramser/homeassistant_espscreen/pull/455) in [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
-5. 💪 Opened PR [#5236](https://github.com/punkpeye/awesome-remote-mcp-servers/pull/5236) in [punkpeye/awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+1. 🎉 Merged PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+2. 💪 Opened PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+3. 🗣 Commented on [#1](https://github.com/ndom91/ai-infra-monitoring/pull/1#issuecomment-7114842890) in [ndom91/ai-infra-monitoring](https://github.com/ndom91/ai-infra-monitoring)
+4. 💪 Opened PR [#3](https://github.com/samyn92/aerial-home/pull/3) in [samyn92/aerial-home](https://github.com/samyn92/aerial-home)
+5. 💪 Opened PR [#455](https://github.com/MaxGramser/homeassistant_espscreen/pull/455) in [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
