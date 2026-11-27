@@ -23,11 +23,11 @@ Building super-human support with [Plain](https://plain.com) and side projects l
 ### Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-2. 💪 Opened PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
-3. 🗣 Commented on [#1](https://github.com/ndom91/ai-infra-monitoring/pull/1#issuecomment-7114842890) in [ndom91/ai-infra-monitoring](https://github.com/ndom91/ai-infra-monitoring)
-4. 💪 Opened PR [#3](https://github.com/samyn92/aerial-home/pull/3) in [samyn92/aerial-home](https://github.com/samyn92/aerial-home)
-5. 💪 Opened PR [#455](https://github.com/MaxGramser/homeassistant_espscreen/pull/455) in [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen)
+1. 🎉 Merged PR [#1](https://github.com/ndom91/android-hn/pull/1) in [ndom91/android-hn](https://github.com/ndom91/android-hn)
+2. 🚀 Published release [hn2 test build (before versioning)](https://github.com/ndom91/android-hn/releases/tag/v0.1.0-debug) in [ndom91/android-hn](https://github.com/ndom91/android-hn)
+3. 💪 Opened PR [#1](https://github.com/ndom91/android-hn/pull/1) in [ndom91/android-hn](https://github.com/ndom91/android-hn)
+4. 🎉 Merged PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
+5. 💪 Opened PR [#13](https://github.com/ndom91/llama-dash/pull/13) in [ndom91/llama-dash](https://github.com/ndom91/llama-dash)
 <!--END_SECTION:activity-->
 
 🔩 [nixconfig](https://github.com/ndom91/nixos-config) | [dotfiles](https://github.com/ndom91/dotfiles)
